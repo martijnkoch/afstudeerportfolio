@@ -40,7 +40,8 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
-        <header class="flex items-center shadow bg-white border-b h-24 mb-8 py-4" role="banner">
+        <!--
+          <header class="flex items-center shadow bg-white border-b h-24 mb-8 py-4" role="banner">
             <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
                 <div class="flex items-center">
                     <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
@@ -59,15 +60,47 @@
 
             @yield('nav-toggle')
         </header>
+    -->
+        <!-- Preload 
 
-        <main role="main" class="w-full flex-auto">
+        <div id="preloder">
+            <div class="loader"></div>
+        </div>
+        -->
+        <!-- Header section -->
+        <header class="header-section">
+            <div class="header-warp">
+                <div class="header-social d-flex justify-content-end">
+                </div>
+                <div class="header-bar-warp d-flex">
+                    <!-- site logo -->
+                    <a href="/" class="site-logo">
+                        <img src="/assets/img/logo.png" alt="">
+                    </a>
+                    <nav class="top-nav-area w-100">
+                        <!-- Menu -->
+                        <ul class="main-menu primary-menu">
+                            <li><a href="home.html">Home</a></li>
+                            <li><a href="games.html">Games</a>
+                                <ul class="sub-menu">
+                                    <li><a href="game-single.html">Game Singel</a></li>
+                                </ul>
+                            </li>
+                            <li><a href="/docs/getting-started" title="test">Research</a></li>
+                            <li><a href="/docs/esports-geschiedenis">News</a></li>
+                            <li><a href="contact.html">Contact</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <!-- Header section end -->
+       
             @yield('body')
-        </main>
+      
 
-        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
-
-        @stack('scripts')
-
+        
+<!--
         <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
             <ul class="flex flex-col md:flex-row justify-center">
                 <li class="md:mr-2">
@@ -80,5 +113,10 @@
                 </li>
             </ul>
         </footer>
+    -->
+    
+    <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
+        @stack('scripts')
+
     </body>
 </html>
