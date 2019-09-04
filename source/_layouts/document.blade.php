@@ -11,8 +11,8 @@
             @include('_nav.menu', ['items' => $page->navigation])
         </nav>
 
-        <div class="w-full lg:w-3/5 break-words pb-16 lg:pl-4" v-pre>
-            @yield('biem')
+        <div class="w-full lg:w-3/5 break-words pb-16 lg:pl-4 document-text" v-pre>
+            @yield('document')
         </div>
     </div>
 </section>

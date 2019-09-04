@@ -5,17 +5,14 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="description" content="{{ $page->description ?? $page->siteDescription }}">
-
         <meta property="og:site_name" content="{{ $page->siteName }}"/>
         <meta property="og:title" content="{{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}"/>
         <meta property="og:description" content="{{ $page->description ?? $page->siteDescription }}"/>
         <meta property="og:url" content="{{ $page->getUrl() }}"/>
         <meta property="og:image" content="/assets/img/logo.png"/>
         <meta property="og:type" content="website"/>
-
         <meta name="twitter:image:alt" content="{{ $page->siteName }}">
         <meta name="twitter:card" content="summary_large_image">
-
         @if ($page->docsearchApiKey && $page->docsearchIndexName)
             <meta name="generator" content="tighten_jigsaw_doc">
         @endif
@@ -88,7 +85,11 @@
                             </li>
                             <li><a href="/docs/getting-started" title="test">Research</a></li>
                             <li><a href="/docs/esports-geschiedenis">News</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="documenten.html">Documenten</a>
+                                <ul class="sub-menu">
+                                    <li><a href="/docs/projectdocument">Projectdocument</a></li>
+                                </ul>
+                            </li>
                         </ul>
                     </nav>
                 </div>

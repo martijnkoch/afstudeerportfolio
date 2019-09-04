@@ -1695,3 +1695,17 @@ ol {
 		margin-bottom: 20px;
 	}
 }
+
+
+.document-text {
+	h1:nth-child(1){
+		color: green;
+		margin-bottom: 20px;
+	}
+	h2 {
+		color: blue;
+	}
+	p {
+		color: grey;
+	}
+}
