@@ -1698,14 +1698,20 @@ ol {
 
 
 .document-text {
-	h1:nth-child(1){
-		color: green;
-		margin-bottom: 20px;
+	h1{
+		color: #ffffff;
+		margin-bottom: 40px;
+		font-size: 60px;
 	}
 	h2 {
-		color: blue;
+		color: #b01ba5;
+		margin-bottom: 20px;
 	}
 	p {
-		color: grey;
+		color: #68647d;
+		margin-bottom: 70px;
+		font-weight: 500;
+		font-size: 16px;
+		line-height: 1.8;
 	}
 }

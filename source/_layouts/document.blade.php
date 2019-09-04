@@ -5,15 +5,25 @@
 @endsection
 
 @section('body')
-<section class="container max-w-8xl mx-auto px-6 md:px-8 py-4">
-    <div class="flex flex-col lg:flex-row">
-        <nav id="js-nav-menu" class="nav-menu hidden lg:block">
-            @include('_nav.menu', ['items' => $page->navigation])
-        </nav>
-
-        <div class="w-full lg:w-3/5 break-words pb-16 lg:pl-4 document-text" v-pre>
-            @yield('document')
+<section class="page-top-section set-bg" data-setbg="img/page-top-bg/1.jpg">
+    <div class="page-info">
+        <h2>Games</h2>
+        <div class="site-breadcrumb">
+            <a href="">Home</a>  /
+            <span>Games</span>
         </div>
     </div>
 </section>
+    <section class="games-single-page">
+        <div class="container">
+            <div class="game-single-preview">
+                <img src="/assets/img/greenhouse-logo.jpg" alt="">
+            </div>
+            <div class="row">
+                <div class="col-xl-9 col-lg-8 col-md-7 game-single-content document-text">
+                        @yield('document')
+                </div>
+            </div>
+        </div>
+    </section>
 @endsection

@@ -1,6 +1,6 @@
 ---
 title: Projectdocument
-description: Getting started with Jigsaw's docs starter template is as easy as 1, 2, 3.
+description: Het projectdocument
 extends: _layouts.document
 section: document
 ---
@@ -30,9 +30,6 @@ Er is gekozen voor deze structuur om werknemers niet all round te laten werken m
 Om Greenhouse sneller te laten groeien en veilige investeringen te bewerkstelligen is er voor gekozen om Greenhouse aan te sluiten aan GroupM. GroupM heeft een aantal grote offline media bedrijven onder zich waaronder: Mediacom, Wavemaker en Mindshare. GroupM is dan weer een onderdeel van WPP, dit is een grote investeringspartij uit Groot-Brittannië die veel grote partijen in het reclamelandschap onder zich heeft. 
 
 # 3.0 De Opdracht
-
-# 4.0 biemmmmm
-
 
 ## 3.1 Opdrachtomschrijving
 
