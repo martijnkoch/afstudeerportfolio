@@ -5,6 +5,8 @@ extends: _layouts.document
 section: document
 ---
 
+![greenhouse-logo](/assets/img/greenhouse-logo.jpg "Logo Title Text 1")
+
 # 2.0 Het Bedrijf
 
 ## 2.1 Over het bedrijf
