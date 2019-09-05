@@ -88,6 +88,7 @@
                             <li><a href="documenten.html">Documenten</a>
                                 <ul class="sub-menu">
                                     <li><a href="/docs/projectdocument">Projectdocument</a></li>
+                                    <li><a href="/docs/urenverantwoording">Urenverantwoording</a></li>
                                 </ul>
                             </li>
                         </ul>
