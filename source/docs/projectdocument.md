@@ -7,7 +7,7 @@ section: document
 
 # Projectdocument
 
-![greenhouse-logo](/assets/img/greenhouse-logo.jpg "Greenhouse logo")
+
 
 ## 2.0 Het Bedrijf
 
@@ -17,6 +17,8 @@ In 2009 begonnen Frank Sanders en Marijn Maas met Greenhouse Group nadat zij hun
 In de loop der jaren heeft Greenhouse een grote klantenkring opgebouwd. Enkele klanten van Greenhouse zijn: Vodafone, Staatsloterij, Kruidvat, Porsche en Eneco. 
  
 Greenhouse heeft verschillende afdelingen binnen de organisatie die elk hun eigen kwaliteiten bezit. De kernwaarde van Greenhouse zijn: **Innovation, Dedication en Fun**. En Greenhouse is gehuisvest in het oude hoofdkantoor van Philips, De Admirant in het centrum van Eindhoven. 
+
+![greenhouse-logo](/assets/img/greenhouse-logo.png "Greenhouse logo")
 
 ### 2.2 Creative Hub 
 
