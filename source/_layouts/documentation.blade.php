@@ -13,6 +13,7 @@
 
         <div class="w-full lg:w-3/5 break-words pb-16 lg:pl-4" v-pre>
             @yield('biem')
+
         </div>
     </div>
 </section>
