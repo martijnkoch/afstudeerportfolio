@@ -1708,12 +1708,12 @@ ol {
 		font-size: 60px;
 	}
 	h3 {
-		color: #b01ba5;
+		color: #d22cc5;
 		margin-bottom: 20px;
 	}
 	p {
-		color: #9f9bb5;
-		margin-bottom: 70px;
+		color: #c3c0d2;
+		margin-bottom: 50px;
 		font-weight: 500;
 		font-size: 16px;
 		line-height: 1.8;
@@ -1736,7 +1736,8 @@ table{
     width: 100%;
     max-width: 100%;
     white-space: nowrap;
-    background-color: white;
+	background-color: white;
+	margin-bottom: 35px;
 }
 td, th {
 	text-align: center;
@@ -1812,4 +1813,11 @@ tr:nth-child(even){
         display: block;
         text-align: center;
     }
+}
+
+
+/* geschiedenis page */
+
+img[alt=esports-geschiedenis]{
+	max-width: 80%;
 }

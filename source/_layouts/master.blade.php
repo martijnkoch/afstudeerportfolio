@@ -77,14 +77,13 @@
                     <nav class="top-nav-area w-100">
                         <!-- Menu -->
                         <ul class="main-menu primary-menu">
-                            <li><a href="home.html">Home</a></li>
-                            <li><a href="games.html">Games</a>
+                            <li><a href="/">Leeswijzer</a></li>
+                            <li><a href="/docs/getting-started" title="test">Onderzoek</a>
                                 <ul class="sub-menu">
-                                    <li><a href="game-single.html">Game Singel</a></li>
+                                    <li><a href="/docs/esports-onderzoek">eSports onderzoek</a></li>
                                 </ul>
                             </li>
-                            <li><a href="/docs/getting-started" title="test">Research</a></li>
-                            <li><a href="/docs/esports-geschiedenis">News</a></li>
+                            <li><a href="/docs/esports-geschiedenis">Producten</a></li>
                             <li><a href="documenten.html">Documenten</a>
                                 <ul class="sub-menu">
                                     <li><a href="/docs/projectdocument">Projectdocument</a></li>

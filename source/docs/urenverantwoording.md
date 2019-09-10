@@ -16,3 +16,13 @@ section: document
 | Woensdag | Uitleg over LemonPi gekregen, Begonnen aan projectdocument, Opzet portfolio |
 | Donderdag | Verder werken aan projectdocument, Meeting met stagebegeleider, Portfoliowebsite| 
 | Vrijdag | |
+
+### Week 2 09-09-2019 / 13-09-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag       |  | 
+| Dinsdag        |  |
+| Woensdag |  |
+| Donderdag | | 
+| Vrijdag | |
