@@ -5,7 +5,7 @@ extends: _layouts.document
 section: document
 ---
 
-# Projectdocument
+# Project Document
 
 
 
@@ -26,19 +26,16 @@ Er zijn vier grote afdelingen binnen Greenhouse, zelf zit in bij de afdeling Cre
 
 ### 1.3 Organogram 
 
-Bij Greenhouse wordt er voor gekozen om werknemers in verschillende crafts (een afdeling) te stoppen. inmiddels bestaat Greenhouse uit de volgende crafts: - Commercial & delivery craft, Media Craft, Tech craft, Creative craft en de Data craft. 
+Bij Greenhouse wordt er voor gekozen om werknemers in verschillende crafts (een afdeling) te stoppen. inmiddels bestaat Greenhouse uit de volgende crafts: Media Craft, Tech craft, Creative craft en de Data craft. 
 
 De proposities die Greenhouse aanbiedt zijn: <br>
 **Full service, Smart, Blossom, Transform en Tech**
 
 Er is gekozen voor deze structuur om werknemers niet all round te laten werken maar zich te laten specialiseren in hun eigen craft. Deze craft heeft dan meerdere taken onder zich verdeeld. Een werknemer van de Media craft werkt dus wel voor verschillende klanten maar zal een andere craft niet aanraken.
 
-### 1.4 GroupM & WPP 
-
 Om Greenhouse sneller te laten groeien en veilige investeringen te bewerkstelligen is er voor gekozen om Greenhouse aan te sluiten aan GroupM. GroupM heeft een aantal grote offline media bedrijven onder zich waaronder: Mediacom, Wavemaker en Mindshare. GroupM is dan weer een onderdeel van WPP, dit is een grote investeringspartij uit Groot-Brittannië die veel grote partijen in het reclamelandschap onder zich heeft. 
 
-![groupm](/assets/img/groupm.png "Logo Title Text 1")
-![wpp](/assets/img/WPP-logo.svg "Logo Title Text 1")
+![organogram](/assets/img/organogram.png "Greenhouse logo")
 
 ## 2.0 De Opdracht
 
@@ -100,55 +97,60 @@ _“Hoe zit de streaming en eSports wereld in elkaar en wat zijn de beste mogeli
 
 ### 2.4 Werkzaamheden (scope)
 
-Om de eisen binnen de afstudeeropdracht te categoriseren en rangschikken heb ik de MoSCoW-methode gebruikt. 
+Om de eisen binnen de afstudeeropdracht te categoriseren en rangschikken heb ik de **MoSCoW-methode** gebruikt. 
 
-**Must Haves**
+###### Must Haves
+- Testcases voor bestaande klanten met prototypes
+- Gemeten data met betrekking tot de geteste tools 
+- Mogelijkheden tot advertisement onderzocht 
 
-**Should haves**
-
-**Could haves**
-
-**Won’t Haves**
-
+###### Should haves
+- Meerdere prototypes
+  
+###### Could haves
+- Een eigengemaakt prototype 
+ 
+###### Won’t Haves
+- Een geheel marketingplan gericht op twitch 
+  
 ## 3.0 Aanpak
 
-Gedurende de afstudeerstage zal gebruik worden gemaakt van de Agile Scrum Methode. Een sprint zal telkens een week duren. Elke week zal ik een meeting houden met met bedrijfsbegeleider Tim Deynen om de vooruitgang te bespreken en feedback te vergaren. Zo kunnen problemen in een vroeg stadium worden aangepakt en worden opgelost. 
+Gedurende de afstudeerstage zal gebruik worden gemaakt van de Agile Scrum Methode. Een sprint zal telkens een week duren. Elke week zal ik een meeting houden met mijn bedrijfsbegeleider Tim Deynen om de vooruitgang te bespreken en feedback te vergaren. Zo kunnen problemen in een vroeg stadium worden aangepakt en worden opgelost. 
 
 In het begin zal ik bieb onderzoek doen naar eSports en streaming. Wat zijn eSorts en streaming precies. 
 
-De vervolgstap is om door middel van veldonderzoek te kijken wat Greenhouse al heeft gedaan op de marketingkant met streaming en eSports. Welke kennis is er al in huis, en wat zijn de resultaten van campagnes die gedraaid zijn. 
+De vervolgstap is om door middel van veldonderzoek te kijken wat Greenhouse al heeft gedaan op de marketingkant met streaming en eSports. Welke kennis is er al in huis, en wat zijn de resultaten van campagnes die al gedraaid zijn. 
 
 Nadat ik een aantal experts binnen Greenhouse heb gesproken is het ook belangrijk om met de doelgroep te praten. Zij kennen het platform natuurlijk het beste als eindgebruiker. Ik wil erachter komen waarvoor zij precies naar streaming platforms komen, en hoe zij momenteel tegen advertenties bij live streams kijken. Wat wordt gezien als vervelend en irritant en wat zouden nog meer manieren kunnen zijn tot advertenties.  
 
 Na het doelgroeponderzoek zal ik bieb onderzoek gebruiken om verder te onderzoeken welke mogelijkheden tot adverteren er allemaal zijn. Mogelijk zijn er al innovatieve tools op de markt die door Greenhouse kunnen worden ingezet. 
-Mocht er geen tool aanwezig zijn die voldoet is het dan mogelijk om intern zelf wat op te zetten. 
+Mocht er geen tool aanwezig zijn die voldoet wellicht is het dan mogelijk om intern zelf wat op te zetten. 
 
-Als laatste zal door middel van workshop onderzoek worden gekeken hoe dat de tool wordt ingezet om creaties te maken. Dan kan advertentieruimte worden ingekocht om metingen te verrichten om te kijken hoe goed bepaalde advertentievormen werken. Zo kan de meest effectieve mogelijkheid worden bepaald. 
-
+Als laatste zal door middel van workshop onderzoek worden gekeken hoe dat de tool(s) wordt ingezet om creaties te maken. Dan kan advertentieruimte worden ingekocht om metingen te verrichten om te kijken hoe goed bepaalde advertentievormen werken. Zo kan de meest effectieve mogelijkheid worden bepaald. 
 
 ## 4.0 Planning
 
 | Week | Datum | Fase | Deadlines | Opmerkingen 
 | ------------- |:-------------:|  | | 
 | 1  | 02-09-2019 | Verkenning | | |
-| 2  | 09-09-2019 | Onderzoek | | |
-| 3  | 16-09-2019 | Onderzoek | PID eerste versie | |
+| 2  | 09-09-2019 | Onderzoek | PID eerste versie| |
+| 3  | 16-09-2019 | Onderzoek | PID tweede versie | |
 | 4  | 23-09-2019 | Onderzoek | | Voorlichting portfolio afstuderen |
 | 5  | 30-09-2019 | Onderzoek | PID definitieve versie | Bezoek stagebegeleider |
-| 6  | 07-10-2019 | |  | |
-|    | 14-10-2019 | | | Herfstvakantie op Fontys | 
-| 7  | 21-10-2019 | | | | 
-| 8  | 28-10-2019 | | | |
-| 9  | 04-11-2019 | | | |
-| 10 | 11-11-2019 | | | Terugkomdag |
-| 11 | 18-11-2019 | | | |
-| 12 | 25-11-2019 | | | |
-| 13 | 02-12-2019 | | | |
+| 6  | 07-10-2019 | Concepting |  | |
+|    | 14-10-2019 | Concepting | | Herfstvakantie op Fontys | 
+| 7  | 21-10-2019 | Concepting | | | 
+| 8  | 28-10-2019 | Prototyping | | |
+| 9  | 04-11-2019 | Prototyping | | |
+| 10 | 11-11-2019 | Testen | | Terugkomdag |
+| 11 | 18-11-2019 | Testen | | |
+| 12 | 25-11-2019 | Ontwikkelen | | |
+| 13 | 02-12-2019 | Ontwikkelen | | |
 | 14 | 09-12-2019 | Ontwikkelen | | |
 | 15 | 16-12-2019 | Ontwikkelen | | |
 |    | 23-12-2019 | Ontwikkelen | | Kerstvakantie op Fontys |
 |    | 30-12-2019 | Ontwikkelen | | Kerstvakantie op Fontys |
 | 16 | 06-01-2020 | Review + Portfolio | | |
-| 17 | 13-01-2020 | Review + Portfolio | | |
-| 18 | 20-01-2020 | Review + Portfolio | | |
+| 17 | 13-01-2020 | Review + Portfolio | Inleveren afstudeeropdracht | |
+| 18 | 20-01-2020 | Assessments | | |
 | 19 | 27-01-2020 | Assessments | |  Assessments worden op school afgerond |

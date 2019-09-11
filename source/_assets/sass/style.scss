@@ -1701,6 +1701,7 @@ ol {
 	h1 {
 		color: #ffffff;
 		margin-bottom: 70px;
+		font-size: 65px;
 	}
 	h2{
 		color: #ffffff;
@@ -1713,6 +1714,11 @@ ol {
 	}
 	h4 {
 		color: #1b99b0;
+	}
+	h6 {
+		color: #d5d3de;
+		font-size: 16px;
+		margin-bottom: 10px;
 	}
 	p {
 		color: #d5d3de;
@@ -1736,8 +1742,8 @@ img[alt=groupm] {
 	margin-bottom: 70px;
 	max-width: 50%;
 }
-img[alt=wpp] {
-	max-width: 50%;
+img[alt=organogram] {
+	max-width: 70%;
 }
 
 /* Urenverantwoording table */

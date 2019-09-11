@@ -5,14 +5,7 @@
 @endsection
 
 @section('body')
-<section class="page-top-section set-bg" data-setbg="img/page-top-bg/1.jpg">
-    <div class="page-info">
-        <h2>Games</h2>
-        <div class="site-breadcrumb">
-            <a href="">Home</a>  /
-            <span>Games</span>
-        </div>
-    </div>
+<section class="page-top-section set-bg" data-setbg="/assets/img/bg-2.jpg">
 </section>
     <section class="games-single-page">
         <div class="container">
