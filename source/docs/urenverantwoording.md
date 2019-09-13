@@ -13,16 +13,16 @@ section: document
 | ------------- |:-------------:| 
 | Maandag       | Student intro dag bij greenhouse | 
 | Dinsdag        | Alle logins gefixt voor Greenhouse account, Vier certificaten van WPP behaald |
-| Woensdag | Uitleg over LemonPi gekregen, Begonnen aan projectdocument, Opzet portfolio |
-| Donderdag | Verder werken aan projectdocument, Meeting met stagebegeleider, Portfoliowebsite| 
-| Vrijdag | |
+| Woensdag | Workshop over LemonPi, Begonnen aan PID, Opzet portfolio |
+| Donderdag | Verder werken aan PID, Meeting met stagebegeleider, Portfoliowebsite| 
+| Vrijdag | PID, Portfolio website updates|
 
 ### Week 2 09-09-2019 / 13-09-2019
 
 | Dag        | Werkzaamheden           |
 | ------------- |:-------------:| 
-| Maandag       |  | 
-| Dinsdag        |  |
-| Woensdag |  |
-| Donderdag | | 
-| Vrijdag | |
+| Maandag |  Projectdocument, portfolio website | 
+| Dinsdag |  Projectdocument, portfolio website, Workshop over DOOH |
+| Woensdag | Eerste versie PID ingeleverd, Portfolio website |
+| Donderdag | Meeting met stagebegeleider, Workshop over social gekregen, Feedback van stagebegeleider op PID toegepast | 
+| Vrijdag | Styling portfolio website, onderzoek naar eSports begonnen |
