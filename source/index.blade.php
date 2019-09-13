@@ -3,7 +3,7 @@
 	<!-- Hero section -->
 	<section class="hero-section overflow-hidden">
 		<div class="hero-slider owl-carousel">
-			<div class="hero-item set-bg d-flex align-items-center justify-content-center text-center" data-setbg="/assets/img/slider-bg-1.jpg">
+			<div class="hero-item set-bg d-flex align-items-center justify-content-center text-center" data-setbg="/assets/img/slider-bg-4.jpg">
 				<div class="container">
                     <div class="row">         
                         <h2>Leeswijzer</h2>

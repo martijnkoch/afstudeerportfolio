@@ -13,27 +13,28 @@ section: document
 
 ### 1.1 Over het bedrijf
 
-In 2009 begonnen Frank Sanders en Marijn Maas met Greenhouse Group nadat zij hun telecombedrijf Typhone hadden verkocht. Ze begonnen een nieuwe bedrijf dat online full service mogelijkheden kan bieden aan klanten in vooral de B2C sector. 
+In 2005 begonnen Frank Sanders en Marijn Maas met Greenhouse Group, nadat zij hun telecombedrijf Typhone hadden verkocht. Ze begonnen een nieuw bedrijf, dat online full service mogelijkheden kan bieden aan klanten in vooral de B2C sector. 
 In de loop der jaren heeft Greenhouse een grote klantenkring opgebouwd. Enkele klanten van Greenhouse zijn: Vodafone, Staatsloterij, Kruidvat, Porsche en Eneco. 
  
-Greenhouse heeft verschillende afdelingen binnen de organisatie die elk hun eigen kwaliteiten bezit. De kernwaarde van Greenhouse zijn: **Innovation, Dedication en Fun**. En Greenhouse is gehuisvest in het oude hoofdkantoor van Philips, De Admirant in het centrum van Eindhoven. 
+Greenhouse heeft verschillende afdelingen binnen de organisatie, die elk hun eigen kwaliteiten bezitten. De kernwaarde van Greenhouse zijn: **Innovation, Dedication en Fun**. Greenhouse is gehuisvest in het oude hoofdkantoor van Philips: De Admirant in het centrum van Eindhoven. 
+
 
 ![greenhouse-logo](/assets/img/greenhouse-logo.png "Greenhouse logo")
 
-### 1.2 Creative Hub 
+### 1.2 Creative Craft 
 
-Er zijn vier grote afdelingen binnen Greenhouse, zelf zit in bij de afdeling Creative Hub. Bij Greenhouse zijn ze er van overtuigd dat conversie niet kan zonder creativiteit. En hierbij komt de Creative Hub aan de pas. Zij pakken nieuwe ideeën aan en geven hier context.  
+Er zijn vier grote afdelingen binnen Greenhouse. Zelf ben ik werkzaam bij de afdeling Creative Craft. Bij Greenhouse zijn ze er van overtuigd dat conversie niet kan zonder creativiteit. En hierbij komt de Creative Craft aan te pas. Zij pakken nieuwe ideeën op en geven hier context aan.   
 
 ### 1.3 Organogram 
 
-Bij Greenhouse wordt er voor gekozen om werknemers in verschillende crafts (een afdeling) te stoppen. inmiddels bestaat Greenhouse uit de volgende crafts: Media Craft, Tech craft, Creative craft en de Data craft. 
+Bij Greenhouse wordt er voor gekozen om werknemers in verschillende crafts (een afdeling) te stoppen. Inmiddels bestaat Greenhouse uit de volgende crafts: Media Craft, Tech craft, Creative craft en de Data craft. 
 
 De proposities die Greenhouse aanbiedt zijn: <br>
 **Full service, Smart, Blossom, Transform en Tech**
 
-Er is gekozen voor deze structuur om werknemers niet all round te laten werken maar zich te laten specialiseren in hun eigen craft. Deze craft heeft dan meerdere taken onder zich verdeeld. Een werknemer van de Media craft werkt dus wel voor verschillende klanten maar zal een andere craft niet aanraken.
+Er is gekozen voor deze structuur om werknemers niet all round te laten werken, maar zich te laten specialiseren in hun eigen craft. Deze craft heeft dan meerdere taken. Een werknemer van de Media craft werkt dus wel voor verschillende klanten, maar zal een andere craft niet aanraken.
 
-Om Greenhouse sneller te laten groeien en veilige investeringen te bewerkstelligen is er voor gekozen om Greenhouse aan te sluiten aan GroupM. GroupM heeft een aantal grote offline media bedrijven onder zich waaronder: Mediacom, Wavemaker en Mindshare. GroupM is dan weer een onderdeel van WPP, dit is een grote investeringspartij uit Groot-Brittannië die veel grote partijen in het reclamelandschap onder zich heeft. 
+Om Greenhouse sneller te laten groeien en veilige investeringen te bewerkstelligen is er voor gekozen om Greenhouse aan te sluiten aan GroupM. GroupM heeft een aantal grote offline mediabedrijven onder zich waaronder: Mediacom, Wavemaker en Mindshare. GroupM is dan weer een onderdeel van WPP, dit is een grote investeringspartij uit Groot-Brittannië. WPP heeft veel grote partijen uit het reclamelandschap onder zich heeft. 
 
 ![organogram](/assets/img/organogram.png "Greenhouse logo")
 
@@ -41,41 +42,40 @@ Om Greenhouse sneller te laten groeien en veilige investeringen te bewerkstellig
 
 ### 2.1 Opdrachtomschrijving
 
-Online streaming en eSports zijn toenemende fenomenen van de laatste jaren. In online games worden wedstrijden gehouden en dit wordt eSports genoemd. De beste spelers van een videogame spelen voor een gaming team en er worden grote toernooien over heel de wereld gehouden waar deze teams het tegen elkaar opnemen. Grote sportarena’s worden afgehuurd en zitten vol met joelende fans terwijl er thuis nog miljoenen mensen de wedstrijden online volgen. Deze “sport atleten” verdienen megasalarissen en worden gesponsord door grote internationale merken.
+Online streaming en eSports zijn toenemende fenomenen van de laatste jaren. In online games worden wedstrijden gehouden en dit wordt eSports genoemd. De beste spelers van een videogame spelen voor een gaming team en er worden grote toernooien over heel de wereld gehouden waar deze teams het tegen elkaar opnemen. Grote sportarena’s worden afgehuurd en zitten vol met joelende fans, terwijl er thuis nog miljoenen mensen de wedstrijden online volgen. Deze “sport atleten” verdienen megasalarissen en worden gesponsord door grote internationale merken.
 
-Omdat deze online wereld erg nieuw is en snel is opgekomen is er nog weinig over onderzocht. Echter is het wel een gigantische markt die momenteel al meer kijkers genereert dan american football. Greenhouse wil weten wie de doelgroep exact is en hoe deze doelgroep het beste marketingtechnisch kan worden aangesproken. 
+Omdat deze online wereld erg nieuw is en snel is opgekomen is er nog weinig over onderzocht. Echter is het wel een gigantische markt, die momenteel al meer kijkers genereert dan american football. Greenhouse wil weten om welke doelgroep het exact gaat en hoe deze doelgroep het beste marketingtechnisch kan worden aangesproken. 
 
 ### 2.2 Doelen van de opdracht 
 
 #### De doelgroep in kaart brengen
-
 Een belangrijk onderdeel is om er goed achter te komen wie de doelgroep is die kijkt naar de online streaming platforms. Waarvoor komen zij exact naar het streaming platform en hoe kunnen zij het beste worden benaderd en met wat voor soort advertentie. 
 
 #### eSports analyse  
-Een ander belangrijk onderdeel van de opdracht is om te onderzoeken hoe de streaming en eSports wereld in elkaar zit. Hoe zijn deze ontstaan en waarom is deze wereld zo snel aan het groeien bij vooral jonge mannen. En hoe doen streaming en eSports het specifiek in Nederland?
+Een ander belangrijk onderdeel van de opdracht is om te onderzoeken hoe de streaming en eSports wereld in elkaar zitten. Hoe zijn deze ontstaan en waarom is deze wereld zo snel aan het groeien bij vooral jonge mannen. En hoe doen streaming en eSports het specifiek in Nederland?
 
 #### Het bepalen van de advertentiemogelijkheden 
 
-Het belangrijkste doel van de opdracht is om erachter te komen wat de beste advertentiemogelijkheden zijn op twitch. Hier kan worden achter gekomen door goed in de doelgroep en het platform te duiken. Wat zijn de mogelijkheden tot adverteren op streaming websites en welk soort advertenties passen het beste bij de desbetreffende doelgroep. 
+Het belangrijkste doel van de opdracht is om erachter te komen wat de beste advertentiemogelijkheden zijn op streaming websites. Dit kan worden gedaan door goed in de doelgroep en het platform te duiken. Wat zijn de mogelijkheden tot adverteren op streaming websites en welk soort advertenties passen het beste bij de desbetreffende doelgroep. 
 
 #### Tool die het probleem oplost
 
-Als er is vastgesteld welke manieren van adverteren er mogelijk zijn moet er worden gekozen om of een prototype vanaf scratch te maken of een bestaande tool in te zetten. 
-Om de meten welke tool of tools het beste werken zal advertentieruimte worden ingekocht en worden gemeten hoe goed bepaalde tools werken. Ook zal worden teruggekoppeld met de doelgroep hoe zij tegen de tools aankijken. 
+Als er is vastgesteld welke manieren van adverteren er mogelijk zijn, moet er worden gekozen om of een prototype vanaf scratch te maken of een bestaande tool in te zetten. 
+Om te meten welke tool of tools het beste werken zal advertentieruimte worden ingekocht en worden gemeten hoe goed bepaalde tools werken. Ook zal worden teruggekoppeld met de doelgroep hoe zij tegen de tools aankijken. 
 
 ### 2.3 Analyse van de opdracht 
 
 #### Vraag
 
-De vraag is om te ondervinden hoe gaming en streaming services kunnen worden ingezet bij mediacampagnes van Greenhouse. Momenteel worden streaming websites minimaal gebruikt als kanaal om potentiële klanten mee te winnen. Gaming en online streaming zijn snel groeiende media die met de dag populairder aan het worden zijn. Hoe sneller Greenhouse manieren heeft om hier ook de klant te winnen hoe succesvoller de output voor de klant zal zijn.  
+De vraag is om te ondervinden hoe gaming en streaming services kunnen worden ingezet bij mediacampagnes van Greenhouse. Momenteel worden streaming websites minimaal gebruikt als kanaal om potentiële klanten mee te winnen. Gaming en online streaming zijn snel groeiende media die met de dag populairder aan het worden zijn. Hoe sneller Greenhouse manieren heeft om hier ook de klant te winnen hoe succesvoller de output voor de klant zal zijn.   
 
 #### Risico’s
 
-Een van de risico's is dat de gebruiker een standaard adblocker zal gebruiken op de streaming website. Zo kan dan wel reclame tijd worden ingekocht maar echter zal de reclame niet te zien zijn voor de viewer. Er moet op een andere creatieve manier worden gezocht om de streamer toch in aanraking te laten komen met de campagne van de klant.
+Een van de risico's is dat de gebruiker een standaard adblocker zal gebruiken op de streaming website. Zo kan dan wel reclame tijd worden ingekocht maar echter zal de reclame niet te zien zijn voor de viewer. Er moet op een andere creatieve manier worden gezocht om de streamer toch in aanraking te laten komen met de campagne van de klant. 
 
 #### Urgentie
 
-Aangezien streaming en gaming een snel groeiend fenomeen is is het noodzakelijk voor Greenhouse om ook hier te kunnen promoten. De verwachting is ook dat gaming en esports de komende jaren nog zeer veel gaan stijgen.
+Aangezien streaming en gaming een snel groeiend fenomeen is, is het noodzakelijk voor Greenhouse om ook hier te kunnen promoten. De verwachting is ook dat gaming en esports de komende jaren nog zeer hard in populariteit zullen gaan stijgen. 
 
 ### 2.3.1 Hoofdvraag
 
@@ -117,17 +117,17 @@ Om de eisen binnen de afstudeeropdracht te categoriseren en rangschikken heb ik 
 
 Gedurende de afstudeerstage zal gebruik worden gemaakt van de Agile Scrum Methode. Een sprint zal telkens een week duren. Elke week zal ik een meeting houden met mijn bedrijfsbegeleider Tim Deynen om de vooruitgang te bespreken en feedback te vergaren. Zo kunnen problemen in een vroeg stadium worden aangepakt en worden opgelost. 
 
-In het begin zal ik bieb onderzoek doen naar eSports en streaming. Wat zijn eSorts en streaming precies. 
+In het begin zal ik bieb onderzoek doen naar eSports en streaming. Wat zijn eSports en streaming precies. 
 
-De vervolgstap is om door middel van veldonderzoek te kijken wat Greenhouse al heeft gedaan op de marketingkant met streaming en eSports. Welke kennis is er al in huis, en wat zijn de resultaten van campagnes die al gedraaid zijn. 
+De vervolgstap is om door middel van veld onderzoek te kijken wat Greenhouse al heeft gedaan op aan de marketingkant met streaming en eSports. Welke kennis is er al in huis, en wat zijn de resultaten van campagnes die al gedraaid zijn. 
 
-Nadat ik een aantal experts binnen Greenhouse heb gesproken is het ook belangrijk om met de doelgroep te praten. Zij kennen het platform natuurlijk het beste als eindgebruiker. Ik wil erachter komen waarvoor zij precies naar streaming platforms komen, en hoe zij momenteel tegen advertenties bij live streams kijken. Wat wordt gezien als vervelend en irritant en wat zouden nog meer manieren kunnen zijn tot advertenties.  
+Nadat ik een aantal experts binnen Greenhouse heb gesproken is het ook belangrijk om met de doelgroep te praten. Zij kennen het platform natuurlijk het beste als eindgebruiker. Ik wil erachter komen waarvoor zij precies naar streaming platforms komen, en hoe zij momenteel tegen advertenties bij livestreams aan kijken. Wat wordt gezien als vervelend en irritant en wat zouden nog meer manieren kunnen zijn tot adverteren.  
 
-Na het doelgroeponderzoek zal ik bieb onderzoek gebruiken om verder te onderzoeken welke mogelijkheden tot adverteren er allemaal zijn. Mogelijk zijn er al innovatieve tools op de markt die door Greenhouse kunnen worden ingezet. 
+Na het doelgroeponderzoek zal ik bieb onderzoek gebruiken om verder te bestuderen welke mogelijkheden tot adverteren er allemaal zijn. Mogelijk zijn er al innovatieve tools op de markt die door Greenhouse kunnen worden ingezet. 
 Mocht er geen tool aanwezig zijn die voldoet wellicht is het dan mogelijk om intern zelf wat op te zetten. 
 
-Als laatste zal door middel van workshop onderzoek worden gekeken hoe dat de tool(s) wordt ingezet om creaties te maken. Dan kan advertentieruimte worden ingekocht om metingen te verrichten om te kijken hoe goed bepaalde advertentievormen werken. Zo kan de meest effectieve mogelijkheid worden bepaald. 
-
+Als laatste zal door middel van workshop onderzoek worden gekeken hoe de tools worden ingezet om creaties te maken. Dan kan advertentieruimte worden ingekocht om metingen te verrichten om te kijken hoe goed bepaalde advertentievormen werken. Zo kan de meest effectieve mogelijkheid worden bepaald. 
+ 
 ## 4.0 Planning
 
 | Week | Datum | Fase | Deadlines | Opmerkingen 
