@@ -1499,7 +1499,6 @@ ol {
 	}
 	.hero-item p {
 		font-size: 16px;
-		padding: 0 30px;
 	}
 	.hero-slider .owl-nav .owl-next {
 		right: 0;
@@ -1964,7 +1963,7 @@ img[alt=sega-modem]{
 	width: 105%;
 } 
 
-.gradient-bg {
+.gradient-bg-one {
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#501755+0,2d1854+100 */
 	background: rgb(98, 24, 168);
 	/* Old browsers */
@@ -1980,5 +1979,30 @@ img[alt=sega-modem]{
 		color: #d5d3de;
 		font-size: 16px;
 		line-height: 1.8;
+	}
+}
+
+.gradient-bg-two {
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#501755+0,2d1854+100 */
+	background: rgb(98, 24, 168);
+	/* Old browsers */
+	/* FF3.6-15 */
+	background: -webkit-linear-gradient(45deg, rgba(45, 24, 84, 1) 0%, rgb(247,97,161) 19%);
+	/* Chrome10-25,Safari5.1-6 */
+	background: -o-linear-gradient(45deg, rgba(45, 24, 84, 1) 0%, rgb(247,97,161) 193%);
+	background: linear-gradient(45deg, rgba(45, 24, 84, 1) 0%, rgb(247,97,161) 193%);
+	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#501755', endColorstr='#2d1854', GradientType=1);
+	/* IE6-9 fallback on horizontal gradient */
+	p {
+		color: #d5d3de;
+		font-size: 16px;
+		line-height: 1.8;
+	}
+}
+
+.uitvoering-section {
+	h3{
+		margin-bottom: 40px;
 	}
 }

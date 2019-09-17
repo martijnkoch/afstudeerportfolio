@@ -8,7 +8,7 @@
                     <div class="row">         
                         <h2>Leeswijzer</h2>
                         <p>Martijn Koch heeft van september 2019 tot januari 2020 gewerkt aan zijn afstudeeropdracht bij Greenhousegroep te Eindhoven. Deze leeswijzer is een korte verder van het gehele procesverslag. Er is onderzoek gedaan naar de mogelijkheden tot adverteren met betrekking op streaming platforms. Op deze platforms wordt vooral gegamed en hier worden de eSports wedstrijden bekeken. Mochten deze termen voor u onbekend zijn, dan adviseer ik u om op de button te klikken om naar een uitlegvideo over eSports te gaan.</p>
-                        <a href="#" class="site-btn btn-hover">Ga naar video  <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>     
+                        <a href="#" class="site-btn btn-hover">Ga naar video<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>     
                 	</div>
                 </div>
 			</div>
@@ -25,7 +25,7 @@
 	</section>
 	<!-- Hero section end-->
 	<!-- Intro section -->
-	<section class="intro-section gradient-bg">
+	<section class="intro-section gradient-bg-one">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -50,7 +50,7 @@
 	</section>
 	<!-- Intro section end -->
 	<!-- Intro section -->
-	<section class="intro-section">
+	<section class="intro-section gradient-bg-two">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
@@ -63,4 +63,15 @@
 		</div>
 	</section>
 	<!-- Intro section end -->
+	<!-- Featured section -->
+	<section class="featured-section">
+		<div class="featured-bg set-bg" data-setbg="/assets/img/featured-bg.jpg"></div>
+			<div class="featured-box uitvoering-section">
+				<h3>Uitvoering</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquamet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum posuere porttitor justo id pellentesque. Proin id lacus feugiat, posuere erat sit amet, commodo ipsum. Donec pellentesque vestibulum metus...</p>
+				<a href="#" class="read-more">Read More  <img src="img/icons/double-arrow.png" alt="#"/></a>
+			</div>
+		</div>
+	</section>
+	<!-- Featured section end-->
 @endsection
