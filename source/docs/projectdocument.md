@@ -7,8 +7,6 @@ section: document
 
 # Project Document
 
-
-
 ## 1.0 Het Bedrijf
 
 ### 1.1 Over het bedrijf
