@@ -809,7 +809,7 @@ ol {
 	text-align: center;
 	padding-top: 35px;
 	border-radius: 50%;
-	background: rgba(255, 255, 255, 0.16);
+	background: rgba(255, 255, 255, 0.50);
 }
 
 .video-text {
@@ -1693,6 +1693,17 @@ ol {
 		float: none;
 		margin-bottom: 20px;
 	}
+	.leeswijzer-text  {
+		h2 {
+			margin-left: 6px;	
+		}
+		p{
+			margin-left: 6px;
+		}
+	}
+	.site-btn{
+		margin-left: 6px;
+	}
 }
 
 
@@ -1975,10 +1986,14 @@ img[alt=sega-modem]{
 	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#501755', endColorstr='#2d1854', GradientType=1);
 	/* IE6-9 fallback on horizontal gradient */
+	z-index: -2;
 	p {
 		color: #d5d3de;
 		font-size: 16px;
 		line-height: 1.8;
+	}
+	h3 {
+		z-index: 0;
 	}
 }
 
@@ -1998,11 +2013,25 @@ img[alt=sega-modem]{
 		color: #d5d3de;
 		font-size: 16px;
 		line-height: 1.8;
+		z-index: 0;
 	}
 }
 
 .uitvoering-section {
 	h3{
 		margin-bottom: 40px;
+	}
+}
+
+.colour-behind-text {
+	h3:before{
+		background: green;
+		bottom: 0.34em;
+		content: '';
+		height: 0.66em;
+		left: 0;
+		position: absolute;
+		width: 100%;
+		z-index: -1;
 	}
 }
