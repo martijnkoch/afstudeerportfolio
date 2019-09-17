@@ -13,8 +13,9 @@ De term van eSports is een samenvoeging van twee woorden, nameklijk: electronic 
 Op meerdere platforms kunnen competities worden gehouden afhankelijk van de titel van de videogame. Zo zijn er titels die alleen op een PC of een console zijn. Echter zijn er ook games die cross-platform kunnen worden gespeeld. 
 Afhankelijk van de game kan de competitie in teamverband of individueel worden gespeeld. Uiteindelijk gaat het tussen de competitie tussen mensen. 
 
-Er is de laatste jaren veel discussie of dat eSporters moeten worden gezien als echte topsporters. Bij sporten wordt vaak gedacht aan mensen die veelal buiten 
+Er is de laatste jaren veel discussie of dat eSporters moeten worden gezien als echte topsporters. Bij sporten wordt vaak gedacht aan mensen die veelal buiten met activiteiten bezig zijn. Echter worden eSports steeds meer geaccepteerd als echte sport. Om een topsporter te zijn heb je goed talent en veel training nodig. Dit verschilt voor een video game niet. eSporters trainen minimaal 8 uur per dag, hebben coaches, trainers, diëtisten en psychologen net zoals de andere atleten. Steeds meer scholen supporten eSporters en eSport teams. In Amerika zijn er momenteel rond de 50 colleges met een eSports team. De universiteiten spelen ook onderling tegen elkaar in leagues, net zoals bij reguliere sporten zoals basketbal of American football. 
 
+In Nederland werd in 2017 door het AMC in Amsterdam de topsportstatus afgegeven aan een eSporter voor het eerst. Koen Schobbers student geneeskunde kreeg deze status om zijn eSports carrière te combineren met zijn studie. Hij traint rond de 20 uur per week, wat niet te combineren was met zijn studie. Koen werd in 2013 derde op het wereldkampioenschap van de online racegame Trackmania. Koen is net zoals vele andere gamers van mening dat eSports moet worden erkend als echte sport. In een aantal Aziatische landen zoals Korea is dit al het geval. Recent is er ook discussie gaande of dat eSports thuis zouden horen op de olympische spelen. De BBC meldde dat er discussie gaande is om eSports aan de olympische spelen van Parijs in 2024 toe te voegen. 
 
 ### De geschiedenis van eSports
 

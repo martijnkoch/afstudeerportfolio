@@ -8,7 +8,7 @@
                     <div class="row">         
                         <h2>Leeswijzer</h2>
                         <p>Martijn Koch heeft van september 2019 tot januari 2020 gewerkt aan zijn afstudeeropdracht bij Greenhousegroep te Eindhoven. Deze leeswijzer is een korte verder van het gehele procesverslag. Er is onderzoek gedaan naar de mogelijkheden tot adverteren met betrekking op streaming platforms. Op deze platforms wordt vooral gegamed en hier worden de eSports wedstrijden bekeken. Mochten deze termen voor u onbekend zijn, dan adviseer ik u om op de button te klikken om naar een uitlegvideo over eSports te gaan.</p>
-                        <a href="#" class="site-btn">Ga naar video  <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>     
+                        <a href="#" class="site-btn btn-hover">Ga naar video  <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>     
                 	</div>
                 </div>
 			</div>
