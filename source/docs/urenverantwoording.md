@@ -26,3 +26,13 @@ section: document
 | Woensdag | Eerste versie PID ingeleverd, Portfolio website |
 | Donderdag | Meeting met stagebegeleider, Workshop over social gekregen, Feedback van stagebegeleider op PID toegepast | 
 | Vrijdag | Styling portfolio website, onderzoek naar eSports begonnen |
+
+### Week 3 16-09-2019 / 20-09-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag |  Onderzoek naar geschiedenis eSports, styling portfolio website | 
+| Dinsdag |  Feedback op projectdocument verwerken, eSports geschiedenis onderzoek |
+| Woensdag |  Meeting met stagebegeleider, |
+| Donderdag |  | 
+| Vrijdag |  |
