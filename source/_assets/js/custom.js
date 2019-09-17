@@ -81,7 +81,17 @@ $(window).on('load', function() {
 
 
 })(jQuery);
-
+/*------------------
+		Video button
+	--------------------*/
+$(".site-btn").click(function() {
+	$('html, body').animate({
+			scrollTop: $(".intro-video-section").offset().top
+		}, 1500);
+});
+/*------------------
+		Scroll
+	--------------------*/
 (function($) { "use strict";
 		
 	$(document).ready(function(){"use strict";
