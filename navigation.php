@@ -12,7 +12,5 @@ return [
     ],
     'Geschiedenis' => [
         'url' => 'docs/esports-geschiedenis'
-    ],
-
-    'Jigsaw Docs' => 'https://jigsaw.tighten.co/docs/installation',
+    ]
 ];

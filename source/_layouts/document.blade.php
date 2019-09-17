@@ -11,7 +11,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-9 col-lg-8 col-md-7 game-single-content document-text">
-                        @yield('document')
+                    @yield('document')
                 </div>
             </div>
         </div>
