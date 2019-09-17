@@ -128,7 +128,20 @@ Mocht er geen tool aanwezig zijn die voldoet wellicht is het dan mogelijk om int
 
 Als laatste zal door middel van workshop onderzoek worden gekeken hoe de tools worden ingezet om creaties te maken. Dan kan advertentieruimte worden ingekocht om metingen te verrichten om te kijken hoe goed bepaalde advertentievormen werken. Zo kan de meest effectieve mogelijkheid worden bepaald. 
  
-## 4.0 Planning
+## 4.0 Leerdoelen
+
+#### Gebruikersonderzoeken
+Tijdens mijn opleiding heb ik wel vaker met de doelgroep gesproken. Maar voor deze opdracht zal het van essentieel belang zijn om de gebruiker tot in detail te leren kennen. Hier wil ik mijzelf in verdiepen en verbeteren om een goed beeld te krijgen van de doelgroep.
+
+#### Ondernemendheid 
+Ik wil meer initiatief tonen gedurende mijn opdracht. Soms leun ik achterover en verwacht ik dat het wel goed komt door even te wachten in bepaalde situaties. Ik wil echter meer inzet tonen en dichter bovenop een aantal zaken zitten zodat ik geen onnodig tijdverlies oploop.
+
+
+#### Documenteren
+Documenteren is een van mijn zwakkere punten. Ik maak vaak pas achteraf een bronnenlijst en dan moet opnieuw terugvinden welke bronnen ik allemaal heb gebruikt. Nu wil ik vanaf het begin voor mezelf duidelijkheid scheppen en een gestructureerde manier van documenteren leren. In de lange termijn op het einde van de stage zal me dit alleen maar helpen.
+
+
+## 5.0 Planning
 
 | Week | Datum | Fase | Deadlines | Opmerkingen 
 | ------------- |:-------------:|  | | 
