@@ -1845,7 +1845,6 @@ tr:nth-child(even){
     }
 }
 
-
 /* geschiedenis page */
 
 img[alt=esports-geschiedenis]{
@@ -1856,6 +1855,16 @@ img[alt=esports-geschiedenis]{
 img[alt=sega-modem]{
 	margin-top: -30px;
 }
+
+img[alt=cpl-logo]{
+	max-width: 30%;
+	margin-top: -40px;
+}
+
+img[alt=gaben]{
+	max-width: 30%;
+}
+
 /* scroll */
 .progress-wrap {
 	position: fixed;
@@ -2033,5 +2042,11 @@ img[alt=sega-modem]{
 		position: absolute;
 		width: 100%;
 		z-index: -1;
+	}
+}
+
+.opdracht-section {
+	li {
+		margin-left: 19px;
 	}
 }

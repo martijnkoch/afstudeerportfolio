@@ -31,8 +31,8 @@ section: document
 
 | Dag        | Werkzaamheden           |
 | ------------- |:-------------:| 
-| Maandag |  Onderzoek naar geschiedenis eSports, styling portfolio website | 
-| Dinsdag |  Feedback op projectdocument verwerken, eSports geschiedenis onderzoek |
-| Woensdag |  Meeting met stagebegeleider, |
-| Donderdag |  | 
+| Maandag | Onderzoek naar geschiedenis eSports, styling portfolio website | 
+| Dinsdag | Feedback op projectdocument verwerken, eSports geschiedenis onderzoek |
+| Woensdag | eSports geschiedenis onderzoek, styling portfolio website |
+| Donderdag | Meeting met stagebegeleider, | 
 | Vrijdag |  |
