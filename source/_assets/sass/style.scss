@@ -2046,7 +2046,50 @@ img[alt=gaben]{
 }
 
 .opdracht-section {
+	p {
+		margin-bottom: 15px;
+	}
 	li {
+		margin-bottom: 2px;
 		margin-left: 19px;
 	}
 }
+
+
+/* footer */
+.footer{
+	background: -webkit-linear-gradient(45deg, rgba(45, 24, 84, 1) 0%, rgb(255,150,249)	193%);
+	/* Chrome10-25,Safari5.1-6 */
+	background: -o-linear-gradient(45deg, rgba(45, 24, 84, 1) 0%, rgb(255,150,249) 193%);
+	background: linear-gradient(45deg, rgba(45, 24, 84, 1) 0%, rgb(255,150,249)	193%);
+	color:white;
+	
+	.links{
+	  ul {list-style-type: none;}
+	  li a{
+		color: white;
+		font-weight: 500;
+		transition: color .2s;
+		&:hover{
+		  text-decoration:none;
+		  color:#e853dc;
+		  }
+	  }
+	}  
+	.about-company{
+	  i{font-size: 25px;}
+	  a{
+		color:white;
+		
+		transition: color .2s;
+		&:hover{color:#e853dc}
+	  }
+	} 
+	.location{
+	  i{font-size: 18px;}
+	}
+	.copyright p{border-top:1px solid rgba(255,255,255,.1);} 
+	.my_name {
+		font-weight: 700;
+	}
+  }

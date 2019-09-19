@@ -7,7 +7,7 @@
 				<div class="container">
                     <div class="row">         
                         <h2>Leeswijzer</h2>
-                        <p>MMartijn Koch heeft van september 2019 tot januari 2020 gewerkt aan zijn afstudeeropdracht bij Greenhousegroep te Eindhoven. Deze leeswijzer is een korte versie van het gehele procesverslag. Er is onderzoek gedaan naar de mogelijkheden tot adverteren met betrekking op streaming platforms. Op deze platforms wordt vooral gameplay gekeken en hier worden ook eSport wedstrijden bekeken. Mochten deze termen voor u onbekend zijn, dan adviseer ik u om op onderstaande button te klikken om naar een uitlegvideo over eSports te gaan.</p>
+                        <p>Martijn Koch heeft van september 2019 tot januari 2020 gewerkt aan zijn afstudeeropdracht bij Greenhousegroep te Eindhoven. Deze leeswijzer is een korte versie van het gehele procesverslag. Er is onderzoek gedaan naar de mogelijkheden tot adverteren met betrekking op streaming platforms. Op deze platforms wordt vooral gameplay gekeken en hier worden ook eSport wedstrijden bekeken. Mochten deze termen voor u onbekend zijn, dan adviseer ik u om op onderstaande button te klikken om naar een uitlegvideo over eSports te gaan.</p>
                         <a href="#" class="site-btn btn-hover">Ga naar video<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>     
                 	</div>
                 </div>
@@ -33,11 +33,11 @@
 					<div class="intro-text-box text-box text-white colour-behind-text opdracht-section">
 						<h3>De Opdracht</h3>
 						<p>Online gaming, streaming en eSports zijn toenemende fenomenen van de laatste jaren. 
-						In online games worden wedstrijden gehouden en dit wordt eSports genoemd. De beste spelers van een videogame spelen voor een gaming team en er worden grote toernooien over heel de wereld gehouden waar deze teams het tegen elkaar opnemen. Grote sportarena’s worden afgehuurd en zitten vol met joelende fans terwijl er thuis nog miljoenen mensen de wedstrijden online volgen. Deze e-atleten verdienen megasalarissen en worden gesponsord door grote internationale merken.
-						
+						In online games worden wedstrijden gehouden en dit wordt eSports genoemd. De beste spelers van een videogame spelen voor een gaming team en er worden grote toernooien over heel de wereld gehouden waar deze teams het tegen elkaar opnemen. Grote sportarena’s worden afgehuurd en zitten vol met joelende fans terwijl er thuis nog miljoenen mensen de wedstrijden online volgen. Deze e-atleten verdienen megasalarissen en worden gesponsord door grote internationale merken.</p>
+						<p>
 						Omdat deze online wereld erg nieuw is en snel is opgekomen is er nog weinig over onderzocht. Echter is het wel een gigantische markt die momenteel al meer kijkers genereert dan American football. Greenhouse wil weten wie de doelgroep exact is en hoe deze het beste kan worden bereikt. De hoofdvraag die is geformuleerd luidt als volgt: </p><p>“Hoe zit de streaming en eSports wereld in elkaar en wat zijn de beste mogelijkheden tot adverteren op streaming platforms?”
 						</p>
-						<p>De volgende deelvragen zijn geformuleerd: </p>
+						<p>Aan de hand van de hoofdvraag zijn de volgende deelvragen zijn geformuleerd: </p>
 						<ul>
 							<li> Wat zijn eigenlijk eSports?</li>
 							<li>Hoe zijn eSports ontstaan en zo groot geworden?</li>
