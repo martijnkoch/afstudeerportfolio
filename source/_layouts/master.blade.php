@@ -28,7 +28,7 @@
             <!-- Insert analytics code here -->
         @endif
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
-
+        <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
         @if ($page->docsearchApiKey && $page->docsearchIndexName)
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsearch.js@2/dist/cdn/docsearch.min.css" />
         @endif
@@ -93,31 +93,10 @@
                 </div>
             </div>
         </header>
-        <!-- Header section end -->
-        <div class="progress-wrap">
-                <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-                    <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
-                </svg>
-            </div>
-            @yield('body')
-      
-
-        
-<!--
-        <footer class="bg-white text-center text-sm mt-12 py-4" role="contentinfo">
-            <ul class="flex flex-col md:flex-row justify-center">
-                <li class="md:mr-2">
-                    &copy; <a href="https://tighten.co" title="Tighten website">Tighten</a> {{ date('Y') }}.
-                </li>
-
-                <li>
-                    Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a>
-                    and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
-                </li>
-            </ul>
-        </footer>
-    -->
-    
+  
+        @include('_partials.progress_wrap')
+        @yield('body')
+        @include('_partials.footer')
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
         @stack('scripts')
 
