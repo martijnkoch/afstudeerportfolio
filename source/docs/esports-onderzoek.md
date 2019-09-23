@@ -55,14 +55,77 @@ In onderstaande video krijg je een sfeerimpressie hoe het er bij Dreamhack aan t
 
 #### Het nieuwe millennium
  
+
+##### Online marketplaces 
 Een belangrijke gebeurtenis was de uitgave van het online video game platform Steam in 2003. Het platform is gecreëerd door de gamestudio Valve uit Amerika. In eerste instanties werd Steam gecreerd om makkelijk updates voor games te kunnen doorvoeren. Voor het steam tijdperk moest een gamer naar een website gaan om updates te installeren. Door middel van een eigen platform konden games automatisch en zonder moeite worden geïnstalleerd. 
 
-Valve ontwikkeld zelf games en op Steam worden ook games van third-party publishers aangeboden. Steam is grootste digitale aanbieder van PC games, en ze bezitten 75% van de huidige markt. De omzet van Steam is $4,3 biljoen. In 2019 zijn er in totaal een biljoen geregistreerde account op Steam en er zijn 90 miljoen maandelijkse gebruikers. Verscheidene bedrijven zoals Yahoo en Microsoft hebben geprobeerd om Steam over te kopen, maar alle voorstellen zijn afgewezen. De CEO en co founder van steam Gabe Newell wordt door de gebruikers van Steam liefkozend Lord Gaben genoemd.      
+Valve ontwikkeld zelf games en op Steam worden ook games van third-party publishers aangeboden. Steam is grootste digitale aanbieder van PC games, en ze bezitten 75% van de huidige markt. De omzet van Steam is $4,3 biljoen. In 2019 zijn er in totaal een biljoen geregistreerde account op Steam en er zijn 90 miljoen maandelijkse gebruikers. Verscheidene bedrijven zoals Yahoo en Microsoft hebben geprobeerd om Steam over te kopen, maar alle voorstellen zijn afgewezen. De CEO en co founder van steam Gabe Newell wordt door de gebruikers van Steam liefkozend Lord Gaben genoemd. 
+
+Naast Steam zijn er in de loop jaren zijn er meerdere platforms gecreëerd door verschillende game studios. Zo heeft EA games in 2011 het platform Origin uitgebracht. Op Origin zijn alleen games te vinden die door EA worden uitgebracht. Enkele bekende titels die op Origin te spelen zijn zijn: Fifa, The Sims, Simcity en Battlefield.      
 ![gaben](/assets/img/Lord_Gaben.jpg "Gaben")
 
-Naast Steam zijn er in de loop jaren zijn er meerdere platforms gecreëerd door verschillende game studios. Zo heeft EA games in 2011 het platform Origin uitgebracht. Op Origin zijn alleen games te vinden die door EA worden uitgebracht. Enkele bekende titels die op Origin te spelen zijn zijn: Fifa, The Sims, Simcity en Battlefield. 
-
+##### Consoles
 Naast de ontwikkelingen op PC gebied waren ook de consoles booming in het nieuwe millennium. Sony kwam als eerste met een nieuwe console in maart van 2000. De Playstation 2 is nog altijd de meest verkochte console ooit, met meer dan 150 miljoen verkochte systemen. 
 Microsoft begon zich ook op deze markt te richten en bracht in 2001 de Xbox uit. De Xbox werd een grote concurrent van Sony’s Playstation omdat zij veel dezelfde games aangeboden. Nintendo bracht in 2001 de opvolger van de Nintendo 64 uit, de GameCube. Omdat Nintendo veel exclusieve titels heeft zoals de bekende Mario games hebben zij een unieke plaats in de markt. Echter werden er te weinig games uitgegeven van third-party game studios waardoor het grote publiek weg bleef bij de GameCube. Nintendo had verwacht minimaal 50 miljoen consoles te verkopen maar dit bleef echter steken op 21 miljoen. 
 
-Microsoft kende een moeilijke tijd en de sales bleven achterwege. Een jaar na de launch werd de prijs van de console al gehalveerd.  
+Microsoft kende een moeilijke tijd en de sales bleven achterwege. Een jaar na de launch van de Xbox werd de prijs van de console al gehalveerd. Toch kende de Xbox meer sales dan de GameCube van Nintendo.  
+
+
+##### Online streaming
+Met de opkomst van de mobiele telefoon en steeds beter internet begon een entrepreneur genaamd Justin Kan met zijn dagelijkse leven 24/7 te streamen op 19 maart 2007. Hij had een webcam rustende tegen zijn hoofd en zo begon zijn experiment genaamd Justin.tv. Justin.tv was erop gericht om reality content te maken net zoals Justin Kan zelf deed. De streamers werden zorgvuldig uitgezocht en er waren 60 streamer tot oktober 2007 toen het netwerk openbaar ging. Met het openstellen van het netwerk kwamen een zeer snelle groei en binnen 8 maanden had het platform al 1 miljoen geregistreerde gebruikers. Justin.tv was het eerste platform waar video was gecombineerd met een live chat, zo ontstond er interactie tussen de streamer en de kijkers. Al snel hadden oprichters van Justin.tv geen idee welke kant het platform op zou gaan. Er werd van alles gestreamt op het platform en het meest populaire onderdeel was gaming. Vanwege deze populariteit werd erin juni 2011 voor gekozen om Justin.tv te hernoemen en puur te focussen op gaming. Zo werd Twitch geboren, wat tegenwoordig een van de websites is met de meeste web traffic in de wereld. 
+
+##### Battle Royale
+Sinds een paar jaar zijn de battle royale games heel erg in populariteit gestegen. In de battle royale games worden 100 spelers gedropt in een map en ze vechten onderling uit wie er het langste overblijft. Verspreid over de map liggen wapens en andere items die je helpen om de tegenstander uit te schakelen. Als je een tegenstanders weet te elimineren kan je zijn spullen pakken om er zelf sterker van te worden. Het game genre is geïnspireerd op de film The Hunger Games waar je ook als laatste moest zien te overleven.
+De eerste battle royale game die populair werd was DayZ in 2013. De game werkte niet optimaal maar toch werd het vrij snel populair onder een groot publiek. Er was zoveel mis met DayZ dat de officiële release van de game pas plaatsvond in 2018 toen er eigenlijk geen interesse meer was omdat andere battle royale games meer te bieden hadden. Zo werden er in 2017 twee populaire battle royale games uitgebracht: PUBG en Fortnite. PUBG is een serieus uitziende game waar je solo kan spelen, in duo’s of in een groep van vier personen. 
+In de hoogtijdagen van PUBG waren er 3 miljoen mensen tegelijk aan het spelen, maar de game is momenteel langzaam in populariteit aan het zakken. Momenteel is het spelersaantal van PUBG op het laagste punt sinds juli 2017, toen de game net drie maanden uit was met 500 duizend spelers per dag.
+
+Van alle battle royale titels is Fortnite de grootste game, in maart van 2018 heeft Fortnite zijn eigen record verbroken van de spelers die tegelijk aan het spelen waren. Maarliefst 10.8 miljoen mensen waren de game aan het spelen. In totaal heeft Fortnite meer dan 250 miljoen geregistreerde account. Het succes van Fortnite kwam voor veel game insiders uit het niets. De game kreeg slechte scores van game recensenten. Omdat Fortnite gratis was werd het door veel mensen gedownload, in tegenstelling tot PUBG dat $50 dollar kostte. Verder heeft Fortnite een cartooneske look wat de game ten goede kwam. En elke 10 weken komen er nieuwe updates in de game. Deze updates zorgen voor nieuwe wapen, dansjes of de map verandert. Door deze reguliere updates kon Epic de aandacht voor de game handhaven. Het verdienmodel van Fortnite zit hem in de microtransacties. In de game zitten skins voor characters en wapen. Deze kosten geld, eenmaal gekocht kan je er voor altijd mee spelen. In de game betaal je met een eigen valuta van Epic, deze heten V-Coins. Op deze manier lijken de skins niet duur te zien maar eigenlijk zit een gemiddelde skins op 10 of 20 euro.  Met honderd miljoenen gebruikers per maand verdient Fortnite per maand honderden miljoenen euro’s. Door de toegankelijkheid van de game dit op alle platforms te spelen is komen ook veel niet gamers in contact met het spel. Zo heeft een van de bekendste Fortnite spelers genaamd Ninja samen gespeeld met de bekende Amerikaanse rappers Drake. Door beroemdheden die de game ook spelen is er minder taboe op het feit dat gaming alleen voor nerds zou zijn. Een bekende Fortnite gamer en streamer zoals Ninja verdient per maand wel een miljoen euro. Hij wordt vaak uitgenodigd bij bekende Amerikaanse talkshows zoals Jimmy Fallon en Ellen DeGeneres.  
+
+Vanwege de grote populariteit van Fortnite heeft Epic games een World Cup georganiseerd in februari van 2019. Deze World Cup had maarliefst een prijzenpot van $15.5 miljoen dollar. Elk werelddeel had online kwalificaties waar iedereen aan mee kon doen om zich te kwalificeren voor de finale in het Arthur Ashe stadion in New York. Er keken meer dan twee miljoen mensen online naar de Fortnite World Cup. 
+
+Niet alleen Fortnite is een game die bekend staat om zijn skins, de eerste online game die bekend staat om zijn skins is Counter Strike Global Offensive. De Counter Strike reeks bestaat al sinds 1999 en wordt nog alsmaar populairder. Counter Strike Global Offensive oftewel CSGO werd uitgegeven in 2013 en in het begin was de game helemaal niet populair. Op de stream market is het mogelijk om skins te verkopen aan andere gamers. Deze skins lopen van een paar cent in waarde tot wel $20.000 voor de duurste skins. Met deze ontwikkeling van skins kwamen er ook skin gambling op professionele wedstrijden in de scene. Deze gambling zorgde voor populariteit in de game maar er kwam ook een donkere kant. Professionele games worden gefixt wat resulteerde in de ban van twee bekende spelers uit Amerika genaamd Dazed en Steel. Zij werden door Valve gebanned van alle toernooien. Ook is CSGO de eerste game waar verboden middelen rondom eSportsers werden geconstateerd. In 2015 werd er bij het Amerikaanse team C9 adderal gevonden. Dit is een prestatieverhogende drug die vaak wordt ingezet voor patiënten met ADHD. Sinds dit incident worden er vaker drugstesten gedaan onder eSporters. Dankzij gebeurtenissen zoals het gefixte wedstrijden en verboden middelen is eSports wel een stuk serieuzer geworden. De wilde west jaren hebben eSports achter zich gelaten en tegenwoordig is het serious business.  
+
+#### Bronnenlijst
+
+Kossen, D. (2019, 20 juli). Wat is esports. Geraadpleegd van [https://esportsclub.nl/artikelen/2197/wat-is-esports](https://esportsclub.nl/artikelen/2197/wat-is-esports)
+
+Nusselder, A. (2017). eSports: Is competitief gamen een sport? Universiteit van Amsterdam. Geraadpleegd van [http://www.scriptiesonline.uba.uva.nl/document/648857](http://www.scriptiesonline.uba.uva.nl/document/648857)
+
+Gaming Through the Decades: From the 80s to 2018. (2018, 20 juli). Geraadpleegd van [https://newretrowave.com/2018/07/20/gaming-through-the-decades-from-the-80s-to-2018/](https://newretrowave.com/2018/07/20/gaming-through-the-decades-from-the-80s-to-2018/)
+
+Rivenes, L. (2017, 17 januari). The History of Online Gaming. Geraadpleegd van [https://datapath.io/resources/blog/the-history-of-online-gaming/](https://datapath.io/resources/blog/the-history-of-online-gaming/)
+
+Multi-User Dungeon. (z.d.). Geraadpleegd van [https://www.revolvy.com/page/MUD1](https://www.revolvy.com/page/MUD1)
+
+The Sega Mega Modem. (2016, 26 september). Geraadpleegd van [https://segadoes.com/2016/09/26/the-sega-mega-modem/](https://segadoes.com/2016/09/26/the-sega-mega-modem/)
+
+Golden Sachs. (2018). The world of Games, From Wild West to Mainstream. Geraadpleegd van [https://www.goldmansachs.com/insights/pages/infographics/e-sports/report.pdf](https://www.goldmansachs.com/insights/pages/infographics/e-sports/report.pdf)
+
+Gamer Koen Schobbers krijgt topsportstatus op zijn universiteit. (2017, 26 april). Geraadpleegd van [https://nos.nl/op3/artikel/2170171-gamer-koen-schobbers-krijgt-topsportstatus-op-zijn-universiteit.html](https://nos.nl/op3/artikel/2170171-gamer-koen-schobbers-krijgt-topsportstatus-op-zijn-universiteit.html)
+
+Oelschlägel, H. (2017, 18 mei). ESL and ESEA expand the esports experience on Facebook. Geraadpleegd van [https://www.eslgaming.com/article/esl-and-esea-expand-esports-experience-facebook-3532](https://www.eslgaming.com/article/esl-and-esea-expand-esports-experience-facebook-3532)
+
+ESL and Facebook Gaming expand partnership on a non-exclusive basis through 2019. (2019, 12 februari). Geraadpleegd van [https://www.eslgaming.com/article/esl-and-facebook-gaming-expand-partnership-non-exclusive-basis-through-2019-4181](https://www.eslgaming.com/article/esl-and-facebook-gaming-expand-partnership-non-exclusive-basis-through-2019-4181)
+
+DreamHack. (z.d.). Geraadpleegd van [https://liquipedia.net/counterstrike/DreamHack](https://liquipedia.net/counterstrike/DreamHack)
+
+Largest LAN party. (z.d.). Geraadpleegd van [https://www.guinnessworldrecords.com/world-records/largest-lan-party](https://www.guinnessworldrecords.com/world-records/largest-lan-party)
+
+Marshall , R. (2019, 18 april). The history of the Xbox. Geraadpleegd van [https://www.digitaltrends.com/gaming/the-history-of-the-xbox/](https://www.digitaltrends.com/gaming/the-history-of-the-xbox/)
+
+Playstation 2. (z.d.). Geraadpleegd van [https://playstationhistory.fandom.com/wiki/Playstation_2](https://playstationhistory.fandom.com/wiki/Playstation_2)
+
+Popper, B. (2014, 5 augustus). Justin.tv, the live video pioneer that birthed Twitch, officially shuts down. Geraadpleegd van [https://www.theverge.com/2014/8/5/5971939/justin-tv-the-live-video-pioneer-that-birthed-twitch-officially-shuts](https://www.theverge.com/2014/8/5/5971939/justin-tv-the-live-video-pioneer-that-birthed-twitch-officially-shuts)
+
+Hornshaw, P. (2019, 10 april). The history of Battle Royale: From mod to worldwide phenomenon. Geraadpleegd van [https://www.digitaltrends.com/gaming/history-of-battle-royale-games/](https://www.digitaltrends.com/gaming/history-of-battle-royale-games/)
+
+Loveridge, S. (2019, 13 augustus). How many people play Fortnite? Is it really as many as people say? Geraadpleegd van [https://www.gamesradar.com/how-many-people-play-fortnite/](https://www.gamesradar.com/how-many-people-play-fortnite/)
+
+Kopinga, W. (2018, 27 december). Waarom Fortnite in 2018 zó groot werd. Geraadpleegd van [https://nos.nl/artikel/2265250-waarom-fortnite-in-2018-zo-groot-werd.html](https://nos.nl/artikel/2265250-waarom-fortnite-in-2018-zo-groot-werd.html)
+
+Summers, N. (2015, 17 juli). Top “Counter-Strike” player admits eSports has a doping problem. Geraadpleegd van [https://www.engadget.com/2015/07/17/esports-adderall-doping/](https://www.engadget.com/2015/07/17/esports-adderall-doping/)
+
+Richardson, E. (2015, 14 augustus). How Counter-Strike: Global Offensive’s Economy Works. Geraadpleegd van [https://www.rockpapershotgun.com/2015/08/14/csgo-skin-economy-explained/](https://www.rockpapershotgun.com/2015/08/14/csgo-skin-economy-explained/)
+
+
+
