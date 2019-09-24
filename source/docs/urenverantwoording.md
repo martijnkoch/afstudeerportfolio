@@ -24,7 +24,7 @@ section: document
 | Maandag |  Projectdocument, portfolio website | 
 | Dinsdag |  Projectdocument, portfolio website, Workshop over DOOH |
 | Woensdag | Eerste versie PID ingeleverd, Portfolio website |
-| Donderdag | Meeting met stagebegeleider, Workshop over social gekregen, Feedback van stagebegeleider op PID toegepast | 
+| Donderdag | Meeting met stagebegeleider, Workshop over social, Feedback van stagebegeleider op PID toegepast | 
 | Vrijdag | Styling portfolio website, onderzoek naar eSports begonnen |
 
 ### Week 3 16-09-2019 / 20-09-2019
@@ -34,5 +34,15 @@ section: document
 | Maandag | Onderzoek naar geschiedenis eSports, styling portfolio website | 
 | Dinsdag | Feedback op projectdocument verwerken, eSports geschiedenis onderzoek |
 | Woensdag | eSports geschiedenis onderzoek, styling portfolio website |
-| Donderdag | Meeting met stagebegeleider, | 
+| Donderdag | Meeting met stagebegeleider, Onderzoek eSports | 
+| Vrijdag |  Begonnen met timeline voor gaming geschiedenis, Onderzoek |
+
+### Week 4 23-09-2019 / 27-09-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Timeline, eSports onderzoek  | 
+| Dinsdag | Interview vragen opstellen, eSports onderzoek |
+| Woensdag | Meeting met stagebegeleider, Interview vragen verbeteren |
+| Donderdag |  | 
 | Vrijdag |  |
