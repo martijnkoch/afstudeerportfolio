@@ -51,6 +51,7 @@
 							<li>Hoe effectief zijn deze nieuwe manieren van adverteren?</li>
 							<li>Wat voor soort advertenties spreken de doelgroep het meeste aan?</li>
 						</ul>
+						<p>Als u een meer uitgebreidere versie van de opdracht wil lezen verwijs ik u door naar het <a href="/docs/projectdocument">projectdocument</a></p>
 					</div>
 				</div>
 			</div>

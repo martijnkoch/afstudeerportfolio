@@ -17,7 +17,7 @@ Er is de laatste jaren veel discussie of dat eSporters moeten worden gezien als 
 
 In Nederland werd in 2017 door het AMC in Amsterdam de topsportstatus afgegeven aan een eSporter voor het eerst. Koen Schobbers student geneeskunde kreeg deze status om zijn eSports carrière te combineren met zijn studie. Hij traint rond de 20 uur per week, wat niet te combineren was met zijn studie. Koen werd in 2013 derde op het wereldkampioenschap van de online racegame Trackmania. Koen is net zoals vele andere gamers van mening dat eSports moet worden erkend als echte sport. In een aantal Aziatische landen zoals Korea is dit al het geval. Recent is er ook discussie gaande of dat eSports thuis zouden horen op de olympische spelen. De BBC meldde dat er discussie gaande is om eSports aan de olympische spelen van Parijs in 2024 toe te voegen. 
 
-### De geschiedenis van eSports
+### Hoe zijn eSports ontstaan en zo groot geworden?
 
 #### De jaren 70
 Sinds het begin van video games is er ook een competitieve aard tussen de spelers om de beste te willen zijn in de game. Het eerste eSports event dat werd gehouden vond plaats op de Stanford Universiteit in Amerika. Het was 1972 en de videogame genaamd Spacewar was erg populair. De eerste prijs die kon worden gewonnen was een jaar lange subscription op het populaire Stones magazine. 

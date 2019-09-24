@@ -4,8 +4,8 @@
             <div class="col-lg-6 col-xs-12 about-company text-white">
                 <h3 class="mb-2">Afstudeer Portfolio Martijn Koch</h3>
                 <p class="pr-5 text-white-50">Voor <a href="https://www.fontys.nl" target="_blank"> Fontys </a> Hogeschool ICT</p>
-                <a href="#"><i class="fa fa-facebook-square mr-1"></i></a>
-                <a href="#"><i class="fa fa-linkedin-square"></i></a>
+                <a href="https://www.facebook.com/martijn.koch.94"><i class="fa fa-facebook-square mr-1"></i></a>
+                <a href="https://www.linkedin.com/in/martijn-koch-a1728a62/"><i class="fa fa-linkedin-square"></i></a>
             </div>
             <div class="col-lg-6 col-xs-12 links text-white">
                 <h4 class="mt-lg-0 mt-sm-3 mb-2">Links</h4>

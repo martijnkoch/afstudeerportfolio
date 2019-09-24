@@ -84,6 +84,7 @@
                             <li><a href="/docs/esports-geschiedenis">Producten</a></li>
                             <li><a href="/documents">Documenten</a>
                                 <ul class="sub-menu">
+                                    <li><a href="/docs/interview-experts">Interview experts</a></li>
                                     <li><a href="/docs/projectdocument">Projectdocument</a></li>
                                     <li><a href="/docs/urenverantwoording">Urenverantwoording</a></li>
                                 </ul>
