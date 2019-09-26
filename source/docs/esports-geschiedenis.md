@@ -4,18 +4,7 @@ description: Onderzoek naar het fenomeen
 extends: _layouts.document
 section: document
 ---
-
 # eSports onderzoek
-
-### Wat zijn eSports? 
-
-De term van eSports is een samenvoeging van twee woorden, nameklijk: electronic en sports. Een van de eerste betrouwbare bronnen die deze term gebruikte was de Online Gamers Association (OGA) eind jaren negentig. De definitie kan worden vertaald naar het competitief spelen van een videogame op een professioneel niveau. 
-Op meerdere platforms kunnen competities worden gehouden afhankelijk van de titel van de videogame. Zo zijn er titels die alleen op een PC of een console zijn. Echter zijn er ook games die cross-platform kunnen worden gespeeld. 
-Afhankelijk van de game kan de competitie in teamverband of individueel worden gespeeld. Uiteindelijk gaat het tussen de competitie tussen mensen. 
-
-Er is de laatste jaren veel discussie of dat eSporters moeten worden gezien als echte topsporters. Bij sporten wordt vaak gedacht aan mensen die veelal buiten met activiteiten bezig zijn. Echter worden eSports steeds meer geaccepteerd als echte sport. Om een topsporter te zijn heb je goed talent en veel training nodig. Dit verschilt voor een video game niet. eSporters trainen minimaal 8 uur per dag, hebben coaches, trainers, diëtisten en psychologen net zoals de andere atleten. Steeds meer scholen supporten eSporters en eSport teams. In Amerika zijn er momenteel rond de 50 colleges met een eSports team. De universiteiten spelen ook onderling tegen elkaar in leagues, net zoals bij reguliere sporten zoals basketbal of American football. 
-
-In Nederland werd in 2017 door het AMC in Amsterdam de topsportstatus afgegeven aan een eSporter voor het eerst. Koen Schobbers student geneeskunde kreeg deze status om zijn eSports carrière te combineren met zijn studie. Hij traint rond de 20 uur per week, wat niet te combineren was met zijn studie. Koen werd in 2013 derde op het wereldkampioenschap van de online racegame Trackmania. Koen is net zoals vele andere gamers van mening dat eSports moet worden erkend als echte sport. In een aantal Aziatische landen zoals Korea is dit al het geval. Recent is er ook discussie gaande of dat eSports thuis zouden horen op de olympische spelen. De BBC meldde dat er discussie gaande is om eSports aan de olympische spelen van Parijs in 2024 toe te voegen. 
 
 ### Hoe zijn eSports ontstaan en zo groot geworden?
 
@@ -83,49 +72,51 @@ Van alle battle royale titels is Fortnite de grootste game, in maart van 2018 he
 
 Vanwege de grote populariteit van Fortnite heeft Epic games een World Cup georganiseerd in februari van 2019. Deze World Cup had maarliefst een prijzenpot van $15.5 miljoen dollar. Elk werelddeel had online kwalificaties waar iedereen aan mee kon doen om zich te kwalificeren voor de finale in het Arthur Ashe stadion in New York. Er keken meer dan twee miljoen mensen online naar de Fortnite World Cup. 
 
-Niet alleen Fortnite is een game die bekend staat om zijn skins, de eerste online game die bekend staat om zijn skins is Counter Strike Global Offensive. De Counter Strike reeks bestaat al sinds 1999 en wordt nog alsmaar populairder. Counter Strike Global Offensive oftewel CSGO werd uitgegeven in 2013 en in het begin was de game helemaal niet populair. Op de stream market is het mogelijk om skins te verkopen aan andere gamers. Deze skins lopen van een paar cent in waarde tot wel $20.000 voor de duurste skins. Met deze ontwikkeling van skins kwamen er ook skin gambling op professionele wedstrijden in de scene. Deze gambling zorgde voor populariteit in de game maar er kwam ook een donkere kant. Professionele games worden gefixt wat resulteerde in de ban van twee bekende spelers uit Amerika genaamd Dazed en Steel. Zij werden door Valve gebanned van alle toernooien. Ook is CSGO de eerste game waar verboden middelen rondom eSportsers werden geconstateerd. In 2015 werd er bij het Amerikaanse team C9 adderal gevonden. Dit is een prestatieverhogende drug die vaak wordt ingezet voor patiënten met ADHD. Sinds dit incident worden er vaker drugstesten gedaan onder eSporters. Dankzij gebeurtenissen zoals het gefixte wedstrijden en verboden middelen is eSports wel een stuk serieuzer geworden. De wilde west jaren hebben eSports achter zich gelaten en tegenwoordig is het serious business.  
+##### Counter strike
+Niet alleen Fortnite is een game die bekend staat om zijn skins, de eerste online game die bekend staat om zijn skins is Counter Strike Global Offensive. De Counter Strike reeks bestaat al sinds 1999 en wordt nog alsmaar populairder. Counter Strike Global Offensive oftewel CSGO werd uitgegeven in 2013 en in het begin was de game helemaal niet populair. Steam introduceerde skins in 2013 en op de Stream market is het mogelijk om skins te verkopen aan andere gamers. Deze skins lopen van een paar cent in waarde tot wel $20.000 voor de duurste skins. Met deze ontwikkeling van skins kwamen er ook skin gambling op professionele wedstrijden in de scene. Deze gambling zorgde voor populariteit in de game maar er kwam ook een donkere kant. Professionele games worden gefixt wat resulteerde in de ban van twee bekende spelers uit Amerika genaamd Dazed en Steel. Zij werden door Valve gebanned van alle toernooien. Ook is CSGO de eerste game waar verboden middelen rondom eSportsers werden geconstateerd. In 2015 werd er bij het Amerikaanse team C9 adderal gevonden. Dit is een prestatieverhogende drug die vaak wordt ingezet voor patiënten met ADHD. Sinds dit incident worden er vaker drugstesten gedaan onder eSporters. Dankzij gebeurtenissen zoals het gefixte wedstrijden en verboden middelen is eSports wel een stuk serieuzer geworden. De wilde west jaren hebben eSports achter zich gelaten en tegenwoordig is het serious business.  
+ 
+#### Moba
+Naast battle royale games zijn ook MOBA (Multiplayer online battle arena) erg populair. Het genre is al redelijk oud maar blijft zeer populair. In 2009 werd de wereldbekende game League of Legends uitgegeven door Riot Games. Dit is nog altijd een van de meest populaire games ter wereld. Net zoals Fortnite is League of Legends gratis maar je betaalt in game voor extra skins of nieuwe characters. Elk jaar is er in League of Legends ook een groot toernooi dat wordt georganiseerd door de ontwikkelaar van de game. Deze heeft een prijzenpot die in de miljoenen loopt en over de wereld kijken er ook miljoenen fans naar dit evenement. 
+
+Naast League of Legends is Dota 2 de andere grote MOBA. Dota 2 is in 2013 uitgegeven door Valve wat de eigenaar van Steam is. Dota 2 is later uitgegeven dan League of Legends en heeft daarom moeite gekend om te groeien. Zo heeft League of Legends het afgelopen jaar maar liefst 120 miljoen spelers gekend waar Dota 2 ‘maar’ 20 miljoen spelers had. Echter is het prijzengeld voor Dota 2 een heel stuk hoger dan voor league. Elk jaar organiseert Valve het toernooi The International. Voorafgaande van het toernooi is er in de game een battle pass te koop. Als je deze battle pass koopt dan help je mee om het prijzengeld te verhogen. Van de battle pass die je koopt gaat 25% van de aankoopprijs naar het prijzengeld voor The International. Op deze manier is de grootste prijzenpot tot nu toe voor een toernooi bereikt. In augustus van 2019 stond het prijzengeld voor The International op maar liefst  $34,330,068. Dit is momenteel de hoogste prize pool ooit voor een videogame. 
+
 
 #### Bronnenlijst
 <div class="bronnenlijst">
+<p class="bron">Gaming Through the Decades: From the 80s to 2018. (2018, 20 juli). Geraadpleegd op 13 september 2019. Geraadpleegd van</p> <a class="bronlink" href="https://newretrowave.com/2018/07/20/gaming-through-the-decades-from-the-80s-to-2018/" target="_blank"> https://newretrowave.com/2018/07/20/gaming-through-the-decades-from-the-80s-to-2018/ </a>
 <p class="bron">
-Kossen, D. (2019, 20 juli). Wat is esports. Geraadpleegd van</p> <a class="bronlink" href="https://esportsclub.nl/artikelen/2197/wat-is-esports" target="_blank">https://esportsclub.nl/artikelen/2197/wat-is-esports </a>
+Rivenes, L. (2017, 17 januari). The History of Online Gaming. Geraadpleegd op 16 september 2019. Geraadpleegd van </p> <a class="bronlink" href="https://datapath.io/resources/blog/the-history-of-online-gaming" target="_blank">https://datapath.io/resources/blog/the-history-of-online-gaming/ </a>
 <p class="bron">
-Nusselder, A. (2017). eSports: Is competitief gamen een sport? Universiteit van Amsterdam. Geraadpleegd van </p><a class="bronlink" href="http://www.scriptiesonline.uba.uva.nl/document/648857" target="_blank">http://www.scriptiesonline.uba.uva.nl/document/648857</a>
-
-<p class="bron">Gaming Through the Decades: From the 80s to 2018. (2018, 20 juli). Geraadpleegd van</p> <a class="bronlink" href="https://newretrowave.com/2018/07/20/gaming-through-the-decades-from-the-80s-to-2018/" target="_blank"> https://newretrowave.com/2018/07/20/gaming-through-the-decades-from-the-80s-to-2018/ </a>
-
+Multi-User Dungeon. (z.d.). Geraadpleegd op 16 september 2019. Geraadpleegd van </p> <a class="bronlink" href="https://www.revolvy.com/page/MUD1" target="_blank"> https://www.revolvy.com/page/MUD </a>
 <p class="bron">
-Rivenes, L. (2017, 17 januari). The History of Online Gaming. Geraadpleegd van </p> <a class="bronlink" href="https://datapath.io/resources/blog/the-history-of-online-gaming" target="_blank">https://datapath.io/resources/blog/the-history-of-online-gaming/ </a>
+The Sega Mega Modem. (2016, 26 september). Geraadpleegd op 16 september 2019. Geraadpleegd van</p> <a class="bronlink" href="https://segadoes.com/2016/09/26/the-sega-mega-modem/" target="_blank"> https://segadoes.com/2016/09/26/the-sega-mega-modem/ </a>
 <p class="bron">
-Multi-User Dungeon. (z.d.). Geraadpleegd van </p> <a class="bronlink" href="https://www.revolvy.com/page/MUD1" target="_blank"> https://www.revolvy.com/page/MUD </a>
+Golden Sachs. (2018). The world of Games, From Wild West to Mainstream. Geraadpleegd op 17 september 2019. Geraadpleegd van </p> <a class="bronlink" href="https://www.goldmansachs.com/insights/pages/infographics/e-sports/report.pdf" target="_blank"> https://www.goldmansachs.com/insights/pages/infographics/e-sports/report.pdf </a>
 <p class="bron">
-The Sega Mega Modem. (2016, 26 september). Geraadpleegd van</p> <a class="bronlink" href="https://segadoes.com/2016/09/26/the-sega-mega-modem/" target="_blank"> https://segadoes.com/2016/09/26/the-sega-mega-modem/ </a>
+Oelschlägel, H. (2017, 18 mei). ESL and ESEA expand the esports experience on Facebook. Geraadpleegd op 18 september 2019. eraadpleegd van </p> <a class="bronlink" href="https://www.eslgaming.com/article/esl-and-esea-expand-esports-experience-facebook-3532" target="_blank"> https://www.eslgaming.com/article/esl-and-esea-expand-esports-experience-facebook-3532 </a>
 <p class="bron">
-Golden Sachs. (2018). The world of Games, From Wild West to Mainstream. Geraadpleegd van </p> <a class="bronlink" href="https://www.goldmansachs.com/insights/pages/infographics/e-sports/report.pdf" target="_blank"> https://www.goldmansachs.com/insights/pages/infographics/e-sports/report.pdf </a>
+ESL and Facebook Gaming expand partnership on a non-exclusive basis through 2019. (2019, 12 februari). Geraadpleegd op 18 september 2019. Geraadpleegd van </p> <a class="bronlink" href="https://www.eslgaming.com/article/esl-and-facebook-gaming-expand-partnership-non-exclusive-basis-through-2019-4181" target="_blank"> https://www.eslgaming.com/article/esl-and-facebook-gaming-expand-partnership-non-exclusive-basis-through-2019-4181 </a>
 <p class="bron">
-Gamer Koen Schobbers krijgt topsportstatus op zijn universiteit. (2017, 26 april). Geraadpleegd van </p> <a class="bronlink" href="https://nos.nl/op3/artikel/2170171-gamer-koen-schobbers-krijgt-topsportstatus-op-zijn-universiteit.html" target="_blank"> https://nos.nl/op3/artikel/2170171-gamer-koen-schobbers-krijgt-topsportstatus-op-zijn-universiteit.html </a>
+DreamHack. (z.d.). Geraadpleegd op 19 september 2019. Geraadpleegd van </p> <a class="bronlink" href="https://liquipedia.net/counterstrike/DreamHack" target="_blank"> https://liquipedia.net/counterstrike/DreamHack </a>
 <p class="bron">
-Oelschlägel, H. (2017, 18 mei). ESL and ESEA expand the esports experience on Facebook. Geraadpleegd van </p> <a class="bronlink" href="https://www.eslgaming.com/article/esl-and-esea-expand-esports-experience-facebook-3532" target="_blank"> https://www.eslgaming.com/article/esl-and-esea-expand-esports-experience-facebook-3532 </a>
+Largest LAN party. (z.d.). Geraadpleegd op 19 september 2019. Geraadpleegd van</p>  <a class="bronlink" href="https://www.guinnessworldrecords.com/world-records/largest-lan-party" target="_blank"> https://www.guinnessworldrecords.com/world-records/largest-lan-party </a>
 <p class="bron">
-ESL and Facebook Gaming expand partnership on a non-exclusive basis through 2019. (2019, 12 februari). Geraadpleegd van </p> <a class="bronlink" href="https://www.eslgaming.com/article/esl-and-facebook-gaming-expand-partnership-non-exclusive-basis-through-2019-4181" target="_blank"> https://www.eslgaming.com/article/esl-and-facebook-gaming-expand-partnership-non-exclusive-basis-through-2019-4181 </a>
+Marshall , R. (2019, 18 april). Geraadpleegd op 19 september 2019. The history of the Xbox. Geraadpleegd van </p> <a class="bronlink" href="https://www.digitaltrends.com/gaming/the-history-of-the-xbox/" target="_blank"> https://www.digitaltrends.com/gaming/the-history-of-the-xbox/ </a>
 <p class="bron">
-DreamHack. (z.d.). Geraadpleegd van </p> <a class="bronlink" href="https://liquipedia.net/counterstrike/DreamHack" target="_blank"> https://liquipedia.net/counterstrike/DreamHack </a>
+Playstation 2. (z.d.). Geraadpleegd op 19 september 2019. Geraadpleegd van </p> <a class="bronlink" href="https://playstationhistory.fandom.com/wiki/Playstation_2" target="_blank"> https://playstationhistory.fandom.com/wiki/Playstation_2 </a>
 <p class="bron">
-Largest LAN party. (z.d.). Geraadpleegd van</p>  <a class="bronlink" href="https://www.guinnessworldrecords.com/world-records/largest-lan-party" target="_blank"> https://www.guinnessworldrecords.com/world-records/largest-lan-party </a>
-<p class="bron">
-Marshall , R. (2019, 18 april). The history of the Xbox. Geraadpleegd van </p> <a class="bronlink" href="https://www.digitaltrends.com/gaming/the-history-of-the-xbox/" target="_blank"> https://www.digitaltrends.com/gaming/the-history-of-the-xbox/ </a>
-<p class="bron">
-Playstation 2. (z.d.). Geraadpleegd van </p> <a class="bronlink" href="https://playstationhistory.fandom.com/wiki/Playstation_2" target="_blank"> https://playstationhistory.fandom.com/wiki/Playstation_2 </a>
-<p class="bron">
-Popper, B. (2014, 5 augustus). Justin.tv, the live video pioneer that birthed Twitch, officially shuts down. Geraadpleegd van </p>  <a class="bronlink" href="https://www.theverge.com/2014/8/5/5971939/justin-tv-the-live-video-pioneer-that-birthed-twitch-officially-shuts" target="_blank"> https://www.theverge.com/2014/8/5/5971939/justin-tv-the-live-video-pioneer-that-birthed-twitch-officially-shuts </a>
+Popper, B. (2014, 5 augustus). Justin.tv, the live video pioneer that birthed Twitch, officially shuts down. Geraadpleegd op 20 september 2019. Geraadpleegd van </p>  <a class="bronlink" href="https://www.theverge.com/2014/8/5/5971939/justin-tv-the-live-video-pioneer-that-birthed-twitch-officially-shuts" target="_blank"> https://www.theverge.com/2014/8/5/5971939/justin-tv-the-live-video-pioneer-that-birthed-twitch-officially-shuts </a>
 <p class="bron">
 Hornshaw, P. (2019, 10 april). The history of Battle Royale: From mod to worldwide phenomenon. Geraadpleegd van </p>  <a class="bronlink" href="https://www.digitaltrends.com/gaming/history-of-battle-royale-games/" target="_blank"> https://www.digitaltrends.com/gaming/history-of-battle-royale-games/ </a>
 <p class="bron">
-Loveridge, S. (2019, 13 augustus). How many people play Fortnite? Is it really as many as people say? Geraadpleegd van </p>  <a class="bronlink" href="https://www.gamesradar.com/how-many-people-play-fortnite/" target="_blank"> https://www.gamesradar.com/how-many-people-play-fortnite/ </a>
+Loveridge, S. (2019, 13 augustus). How many people play Fortnite? Is it really as many as people say? Geraadpleegd op 23 september 2019. Geraadpleegd van </p>  <a class="bronlink" href="https://www.gamesradar.com/how-many-people-play-fortnite/" target="_blank"> https://www.gamesradar.com/how-many-people-play-fortnite/ </a>
 <p class="bron">
-Kopinga, W. (2018, 27 december). Waarom Fortnite in 2018 zó groot werd. Geraadpleegd van </p>  <a class="bronlink" href="https://nos.nl/artikel/2265250-waarom-fortnite-in-2018-zo-groot-werd.html" target="_blank"> https://nos.nl/artikel/2265250-waarom-fortnite-in-2018-zo-groot-werd.html </a>
+Kopinga, W. (2018, 27 december). Waarom Fortnite in 2018 zó groot werd. Geraadpleegd op 23 september 2019. Geraadpleegd van </p>  <a class="bronlink" href="https://nos.nl/artikel/2265250-waarom-fortnite-in-2018-zo-groot-werd.html" target="_blank"> https://nos.nl/artikel/2265250-waarom-fortnite-in-2018-zo-groot-werd.html </a>
 <p class="bron">
-Summers, N. (2015, 17 juli). Top “Counter-Strike” player admits eSports has a doping problem. Geraadpleegd van </p>  <a class="bronlink" href="https://www.engadget.com/2015/07/17/esports-adderall-doping/" target="_blank"> https://www.engadget.com/2015/07/17/esports-adderall-doping/ </a>
+Summers, N. (2015, 17 juli). Top “Counter-Strike” player admits eSports has a doping problem. Geraadpleegd op 23 september 2019. Geraadpleegd van </p>  <a class="bronlink" href="https://www.engadget.com/2015/07/17/esports-adderall-doping/" target="_blank"> https://www.engadget.com/2015/07/17/esports-adderall-doping/ </a>
 <p class="bron">
-Richardson, E. (2015, 14 augustus). How Counter-Strike: Global Offensive’s Economy Works. Geraadpleegd van </p> <a class="bronlink" href="https://www.rockpapershotgun.com/2015/08/14/csgo-skin-economy-explained/" target="_blank" > https://www.rockpapershotgun.com/2015/08/14/csgo-skin-economy-explained/ </a>
+Richardson, E. (2015, 14 augustus). How Counter-Strike: Global Offensive’s Economy Works. Geraadpleegd op 23 september 2019. Geraadpleegd van </p> <a class="bronlink" href="https://www.rockpapershotgun.com/2015/08/14/csgo-skin-economy-explained/" target="_blank" > https://www.rockpapershotgun.com/2015/08/14/csgo-skin-economy-explained/ </a>
+<p class="bron">
+Pollack, C. (2019, 2 mei). League of Legends vs. DOTA 2. Geraadpleegd op 25 september 2019</p>
+<a class="bronlink" href="https://estnn.com/league-of-legends-vs-dota-2/" taget="_blank">https://estnn.com/league-of-legends-vs-dota-2/</a>
 </div>

@@ -1162,13 +1162,23 @@ ol {
 	background: rgb(98, 24, 168);
 	/* Old browsers */
 	/* FF3.6-15 */
-	background: -webkit-linear-gradient(45deg, rgba(45, 24, 84, 1) 0%, rgba(98, 24, 168, 1) 100%);
+	background: -webkit-linear-gradient(45deg, rgba(45, 24, 84, 1) 0%, rgb(98, 24, 168, 1) 100%);
 	/* Chrome10-25,Safari5.1-6 */
 	background: -o-linear-gradient(45deg, rgba(45, 24, 84, 1) 0%, rgba(98, 24, 168, 1) 100%);
 	background: linear-gradient(45deg, rgba(45, 24, 84, 1) 0%, rgba(98, 24, 168, 1) 100%);
 	/* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#501755', endColorstr='#2d1854', GradientType=1);
 	/* IE6-9 fallback on horizontal gradient */
+}
+
+.gradient-two {
+	background: rgb(113, 46, 97);
+	/* Old browsers */
+	/* FF3.6-15 */
+	background: -webkit-linear-gradient(45deg, rgba(45, 24, 84, 1) 0%, rgb(113, 46, 97));
+	/* Chrome10-25,Safari5.1-6 */
+	background: -o-linear-gradient(45deg, rgba(45, 24, 84, 1) 0%, rgb(113, 46, 97));
+	background: linear-gradient(45deg, rgba(45, 24, 84, 1) 0%, rgb(113, 46, 97));
 }
 
 .game-single-preview {
@@ -1980,6 +1990,14 @@ img[alt=gaben]{
 		color: white;
 		font-size: 18px;
 		margin-bottom: 50px;
+	}
+}
+.producten {
+	margin-top: 10px;
+	color: #ffffff;
+	font-size: 20px;
+	a {
+		color: blueviolet;
 	}
 }
 .btn-hover::after {

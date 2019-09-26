@@ -12,8 +12,5 @@ return [
     ],
     'Geschiedenis' => [
         'url' => 'docs/esports-geschiedenis'
-    ],
-    'Documents' => [
-        'url' => 'documents'
     ]
 ];

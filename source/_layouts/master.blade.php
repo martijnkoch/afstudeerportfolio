@@ -35,33 +35,12 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
-        <!--
-          <header class="flex items-center shadow bg-white border-b h-24 mb-8 py-4" role="banner">
-            <div class="container flex items-center max-w-8xl mx-auto px-4 lg:px-8">
-                <div class="flex items-center">
-                    <a href="/" title="{{ $page->siteName }} home" class="inline-flex items-center">
-                        <img class="h-8 md:h-10 mr-3" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" />
 
-                        <h1 class="text-lg md:text-2xl text-blue-900 font-semibold hover:text-blue-600 my-0 pr-4">{{ $page->siteName }}</h1>
-                    </a>
-                </div>
-
-                <div class="flex flex-1 justify-end items-center text-right md:pl-10">
-                    @if ($page->docsearchApiKey && $page->docsearchIndexName)
-                        @include('_nav.search-input')
-                    @endif
-                </div>
-            </div>
-
-            @yield('nav-toggle')
-        </header>
-    -->
-        <!-- Preload 
-
+        <!-- Preload -->
         <div id="preloder">
             <div class="loader"></div>
         </div>
-        -->
+        
         <!-- Header section -->
         <header class="header-section">
             <div class="header-warp">
@@ -76,13 +55,14 @@
                         <!-- Menu -->
                         <ul class="main-menu primary-menu">
                             <li><a href="/">Leeswijzer</a></li>
-                            <li><a href="/docs/getting-started" title="test">Onderzoek</a>
+                            <li><a href="/onderzoek-overview" title="test">Onderzoek</a>
                                 <ul class="sub-menu">
-                                    <li><a href="/docs/esports-onderzoek">eSports onderzoek</a></li>
+                                    <li><a href="/docs/wat-zijn-esports?-">Wat zijn eSports?</a></li>
+                                    <li><a href="/docs/esports-geschiedenis">eSports geschiedenis</a></li>
                                 </ul>
                             </li>
                             <li><a href="/docs/esports-geschiedenis">Producten</a></li>
-                            <li><a href="/documents">Documenten</a>
+                            <li><a href="/document-overview">Documenten</a>
                                 <ul class="sub-menu">
                                     <li><a href="/docs/interview-experts">Interview experts</a></li>
                                     <li><a href="/docs/projectdocument">Projectdocument</a></li>
@@ -97,6 +77,7 @@
   
         @include('_partials.progress_wrap')
         @yield('body')
+        @yield('document-overview')
         @include('_partials.footer')
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
         @stack('scripts')
