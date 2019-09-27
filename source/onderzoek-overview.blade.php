@@ -18,7 +18,7 @@
 					<div class="col-lg-8">
 						<div class="review-content text-box text-white">
 							<h3>eSports geschiedenis</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.Vivamus volutpat nibh ac sollicitudin imperdiet. Donec scelerisque lorem sodales odio ultricies, nec rhoncus ex lobortis. Vivamus tincidunt sit amet sem id varius. Donec elementum aliquet tortor. Curabitur justo mi, efficitur sed eros aliquealiqua.....</p>
+							<p></p>
 
 							<a href="/docs/esports-geschiedenis" class="read-more">Ga naar <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 						</div>
@@ -36,7 +36,7 @@
 					<div class="col-lg-8">
 						<div class="review-content text-box text-white">
 							<h3>Wat zijn eSports?</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.Vivamus volutpat nibh ac sollicitudin imperdiet. Donec scelerisque lorem sodales odio ultricies, nec rhoncus ex lobortis. Vivamus tincidunt sit amet sem id varius. Donec elementum aliquet tortor. Curabitur justo mi, efficitur sed eros aliquealiqua.....</p>
+							<p>Als eerste was het belangrijk om te kijken wat precies eSports zijn. Wat betekent dit woord eigenlijk en hoe kijkt de maatschappij tegen dit fenomeen aan? En zullen eSporters ook als echte leden worden geaccepteerd?</p>
 
 							<a href="/docs/wat-zijn-esports" class="read-more">Ga naar <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 						</div>
