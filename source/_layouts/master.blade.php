@@ -35,12 +35,7 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
-
-        <!-- Preload -->
-        <div id="preloder">
-            <div class="loader"></div>
-        </div>
-        
+        @include('_partials.preloader')
         <!-- Header section -->
         <header class="header-section">
             <div class="header-warp">
@@ -61,7 +56,7 @@
                                     <li><a href="/docs/esports-geschiedenis">eSports geschiedenis</a></li>
                                 </ul>
                             </li>
-                            <li><a href="/docs/esports-geschiedenis">Producten</a></li>
+                            <li><a href="/product-overview">Producten</a></li>
                             <li><a href="/document-overview">Documenten</a>
                                 <ul class="sub-menu">
                                     <li><a href="/docs/interview-experts">Interview experts</a></li>
