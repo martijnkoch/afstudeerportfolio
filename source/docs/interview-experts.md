@@ -34,7 +34,7 @@ __Vragen voor geluidsopname:__ “Vind je het goed als ik het interview opneem? 
 | Gaming en streaming | - Wat voor projecten heeft Blossom al gedaan op het gebied van gaming en streaming?<br> - Zijn deze projecten een succes geweest? | 
 | Visie | - Hoe essentieel vind je het dat Greenhouse zich ook op streaming platforms gaat richten?<br> - Heb je nog andere ideeën om gaming en streaming in te zetten voor marketingcampagnes? | 
 
-#### Jos van de Manakker - Creative Craft & DOOH 
+#### Jos van de Manakker - Creative Craft & DOOH Greenhouse
 
 | Topics | Vragen | 
 | ------------- |:-------------:|  

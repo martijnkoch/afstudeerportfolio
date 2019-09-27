@@ -54,7 +54,7 @@
 						
 					</div>
 					<h4 class="producten">Bijbehorende producten</h4>
-					<a href="/docs/projectdocument">projectdocument</a>
+					<a href="/docs/projectdocument">Projectdocument</a>
 				</div>
 			</div>
 		</div>

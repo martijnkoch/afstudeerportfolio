@@ -138,6 +138,8 @@ Ik wil meer initiatief tonen gedurende mijn opdracht. Soms leun ik achterover en
 #### Documenteren
 Documenteren is een van mijn zwakkere punten. Ik maak vaak pas achteraf een bronnenlijst en dan moet opnieuw terugvinden welke bronnen ik allemaal heb gebruikt. Nu wil ik vanaf het begin voor mezelf duidelijkheid scheppen en een gestructureerde manier van documenteren leren. In de lange termijn op het einde van de stage zal me dit alleen maar helpen.
 
+#### Expert worden op streaming gebied
+Het is belangrijk voor mijn opdracht om de streaming platforms in en out te kennen. Hoe kunnen deze platforms worden ingezet en welke manieren tot adverteren zijn er allemaal mogelijk. 
 
 ## 5.0 Planning
 
