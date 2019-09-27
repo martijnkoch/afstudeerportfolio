@@ -43,6 +43,6 @@ section: document
 | ------------- |:-------------:| 
 | Maandag | Timeline, eSports onderzoek  | 
 | Dinsdag | Interview vragen opstellen, eSports onderzoek |
-| Woensdag | Meeting met stagebegeleider, Interview vragen verbeteren |
-| Donderdag |  | 
-| Vrijdag |  |
+| Woensdag | Meeting met stagebegeleider, Interview vragen verbeteren, eSports onderzoek afronden |
+| Donderdag | Styling portfolio website, eSports onderzoek bronvermelding | 
+| Vrijdag | Interviews inplannen, styling portfolio website |

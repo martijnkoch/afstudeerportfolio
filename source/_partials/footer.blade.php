@@ -11,9 +11,9 @@
                 <h4 class="mt-lg-0 mt-sm-3 mb-2">Links</h4>
                 <ul class="m-0 p-0">
                 <li>- <a href="/">Leeswijzer</a></li>
-                <li>- <a href="/onderzoek">Onderzoek overzicht</a></li>
-                <li>- <a href="/products">Producten overzicht</a></li>
-                <li>- <a href="/documenten">Documenten overzicht</a></li>
+                <li>- <a href="/onderzoek-overview">Onderzoek overzicht</a></li>
+                <li>- <a href="/product-overview">Producten overzicht</a></li>
+                <li>- <a href="/document-overview">Documenten overzicht</a></li>
                 </ul>
             </div>
         </div>
