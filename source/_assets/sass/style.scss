@@ -2060,10 +2060,41 @@ img[alt=gaben]{
 
 .uitvoering-section {
 	h3{
-		margin-bottom: 40px;
+		margin-bottom: 15px;
+		color: #77458e;
+	}
+	h4 {
+		color: #e853dc;
+	}
+	p {
+		color: #757373;
+		font-size: 15px;
 	}
 }
+.collapselink {
+	color: #ffffff;
+	&:hover {
+		color: #d22cc5;
+	}
+	strong{
+		color: #ffffff;
+		margin-bottom: 10px;
+	}
 
+}
+.interview-name {
+	margin-left: 10px;
+	color: #d22cc5;
+	&:hover {
+		color: #ffffff;
+	}
+}
+#interview-david, #interview-jos, #interview-noel{
+	margin-left: 10px;
+}
+.embed-responsive-16by9{
+	margin-bottom: 40px;
+}
 .colour-behind-text {
 	h3:before{
 		background: green;
