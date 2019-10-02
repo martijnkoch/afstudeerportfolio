@@ -18,7 +18,7 @@
 					<div class="col-lg-8">
 						<div class="review-content text-box text-white">
 							<h3>eSports geschiedenis</h3>
-							<p></p>
+							<p>Er is gekeken hoe dat eSports zo groot zijn geworden? Hoe zijn bepaalde genres ontstaan en </p>
 
 							<a href="/docs/esports-geschiedenis" class="read-more">Ga naar <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 						</div>

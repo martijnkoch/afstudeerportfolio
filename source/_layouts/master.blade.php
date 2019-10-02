@@ -35,7 +35,7 @@
     </head>
 
     <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
-        @include('_partials.preloader')
+        @include('_partials.preloader   ')
         <!-- Header section -->
         <header class="header-section">
             <div class="header-warp">
@@ -52,13 +52,15 @@
                             <li><a href="/">Leeswijzer</a></li>
                             <li><a href="/onderzoek-overview" title="test">Onderzoek</a>
                                 <ul class="sub-menu">
-                                    <li><a href="/docs/wat-zijn-esports?-">Wat zijn eSports?</a></li>
+                                    <li><a href="/docs/hoe-verdient-een-streamer-zijn-geld">Hoe verdient een streamer zijn geld?</a></li>
                                     <li><a href="/docs/esports-geschiedenis">eSports geschiedenis</a></li>
+                                    <li><a href="/docs/wat-zijn-esports?-">Wat zijn eSports?</a></li>
                                 </ul>
                             </li>
                             <li><a href="/product-overview">Producten</a></li>
                             <li><a href="/document-overview">Documenten</a>
                                 <ul class="sub-menu">
+                                    <li><a href="/docs/interview-doelgroep">Interview doelgroep</a></li>
                                     <li><a href="/docs/interview-experts">Interview experts</a></li>
                                     <li><a href="/docs/projectdocument">Projectdocument</a></li>
                                     <li><a href="/docs/urenverantwoording">Urenverantwoording</a></li>
@@ -69,13 +71,11 @@
                 </div>
             </div>
         </header>
-  
         @include('_partials.progress_wrap')
         @yield('body')
         @yield('document-overview')
         @include('_partials.footer')
-    <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
+        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
         @stack('scripts')
-
     </body>
 </html>

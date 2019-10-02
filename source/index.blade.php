@@ -90,11 +90,11 @@
 
 	<!-- Uitvoering section -->
 	<section class="featured-section">
-		<div class="featured-bg set-bg" data-setbg="/assets/img/featured-bg.jpg"></div>
+		<div class="featured-bg set-bg" data-setbg="/assets/img/virtus-pro.png"></div>
 			<div class="featured-box uitvoering-section">
 				<h3>Uitvoering</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquamet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum posuere porttitor justo id pellentesque. Proin id lacus feugiat, posuere erat sit amet, commodo ipsum. Donec pellentesque vestibulum metus...</p>
-				<a href="#" class="read-more">Read More  <img src="img/icons/double-arrow.png" alt="#"/></a>
+				<a href="#" class="read-more">Read More  <img src="assets/img/icons/double-arrow.png" alt="#"/></a>
 			</div>
 		</div>
 	</section>
@@ -132,11 +132,12 @@
 
 	<!-- Bewijs section -->
 	<section class="featured-section">
-		<div class="featured-bg set-bg" data-setbg="/assets/img/featured-bg.jpg"></div>
+		<div class="featured-bg set-bg" data-setbg="/assets/img/stadium-2.jpg"></div>
 			<div class="featured-box uitvoering-section">
 				<h3>Bewijs</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquamet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum posuere porttitor justo id pellentesque. Proin id lacus feugiat, posuere erat sit amet, commodo ipsum. Donec pellentesque vestibulum metus...</p>
-				<a href="#" class="read-more">Read More  <img src="img/icons/double-arrow.png" alt="#"/></a>
+				<h4>Kennis en inzicht </h4>
+				<p>Dit onderdeel wordt bewezen gedurende het hele proces. Mijn afstudeerportfolio staat centraal in dit punt. Het afstudeerportfolio laat het gehele proces gedurende de stageperiode zien.</p>
+				<a href="http://afstudeerportfolio.herrkoch.nl" class="read-more">http://afstudeerportfolio.herrkoch.nl</a>
 			</div>
 		</div>
 	</section>
