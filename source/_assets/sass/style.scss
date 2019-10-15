@@ -2073,6 +2073,7 @@ img[alt=gaben]{
 }
 .collapselink {
 	color: #ffffff;
+	font-size: 28px;
 	&:hover {
 		color: #d22cc5;
 	}
@@ -2091,6 +2092,9 @@ img[alt=gaben]{
 }
 #interview-david, #interview-jos, #interview-noel{
 	margin-left: 10px;
+	a {
+		word-break: break-word;
+	}
 }
 .embed-responsive-16by9{
 	margin-bottom: 40px;

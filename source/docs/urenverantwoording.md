@@ -14,7 +14,7 @@ section: document
 | Maandag       | Student intro dag bij greenhouse | 
 | Dinsdag        | Alle logins gefixt voor Greenhouse account, Vier certificaten van WPP behaald |
 | Woensdag | Workshop over LemonPi, Begonnen aan PID, Opzet portfolio |
-| Donderdag | Verder werken aan PID, Meeting met stagebegeleider, Portfoliowebsite| 
+| Donderdag | Verder werken aan PID, Meeting met bedrijfsbegeleider, Portfoliowebsite| 
 | Vrijdag | PID, Portfolio website updates|
 
 ### Week 2 09-09-2019 / 13-09-2019
@@ -24,7 +24,7 @@ section: document
 | Maandag |  Projectdocument, portfolio website | 
 | Dinsdag |  Projectdocument, portfolio website, Workshop over DOOH |
 | Woensdag | Eerste versie PID ingeleverd, Portfolio website |
-| Donderdag | Meeting met stagebegeleider, Workshop over social, Feedback van stagebegeleider op PID toegepast | 
+| Donderdag | Meeting met bedrijfsbegeleider, Workshop over social, Feedback van bedrijfsbegeleider op PID toegepast | 
 | Vrijdag | Styling portfolio website, onderzoek naar eSports begonnen |
 
 ### Week 3 16-09-2019 / 20-09-2019
@@ -34,7 +34,7 @@ section: document
 | Maandag | Onderzoek naar geschiedenis eSports, styling portfolio website | 
 | Dinsdag | Feedback op projectdocument verwerken, eSports geschiedenis onderzoek |
 | Woensdag | eSports geschiedenis onderzoek, styling portfolio website |
-| Donderdag | Meeting met stagebegeleider, Onderzoek eSports | 
+| Donderdag | Meeting met bedrijfsbegeleider, Onderzoek eSports | 
 | Vrijdag |  Begonnen met timeline voor gaming geschiedenis, Onderzoek |
 
 ### Week 4 23-09-2019 / 27-09-2019
@@ -43,6 +43,17 @@ section: document
 | ------------- |:-------------:| 
 | Maandag | Timeline, eSports onderzoek  | 
 | Dinsdag | Interview vragen opstellen, eSports onderzoek |
-| Woensdag | Meeting met stagebegeleider, Interview vragen verbeteren, eSports onderzoek afronden |
+| Woensdag | Meeting met bedrijfsbegeleider, Interview vragen verbeteren, eSports onderzoek afronden |
 | Donderdag | Styling portfolio website, eSports onderzoek bronvermelding | 
 | Vrijdag | Interviews inplannen, styling portfolio website |
+
+### Week 5 30-09-2019 / 04-10-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Onderzoek naar hoe een streamer geld verdient  | 
+| Dinsdag | Interview David, Onderzoek |
+| Woensdag | Interview verwerken, Styling Portfolio website |
+| Donderdag | Bedrijfsbezoek stagebegeleider, Interview Jos, Meeting bedrijfsbegeleider, Interview verwerken | 
+| Vrijdag | Interview Noel, Interview verwerken |
+
