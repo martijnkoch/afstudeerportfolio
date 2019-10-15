@@ -17,7 +17,7 @@
 					</div>
 					<div class="col-lg-8">
 						<div class="review-content text-box text-white">
-							<h3>Placeholder</h3>
+							<h3>Procesverslag</h3>
 							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.Vivamus volutpat nibh ac sollicitudin imperdiet. Donec scelerisque lorem sodales odio ultricies, nec rhoncus ex lobortis. Vivamus tincidunt sit amet sem id varius. Donec elementum aliquet tortor. Curabitur justo mi, efficitur sed eros aliquealiqua.....</p>
 
 							<a href="#" class="read-more">Ga naar <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>

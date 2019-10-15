@@ -165,7 +165,6 @@ ol {
 	min-width: 186px;
 	padding: 24px 30px;
 	border-radius: 0;
-	text-transform: uppercase;
 	color: #081624;
 	line-height: normal;
 	cursor: pointer;
@@ -589,8 +588,7 @@ ol {
 	}
 	.read-more {
 		font-size: 15px;
-		text-transform: uppercase;
-		font-weight: 700;
+		font-weight: 400;
 		font-style: italic;
 		color: #fff;
 		img {
@@ -2326,3 +2324,35 @@ img[alt=gaben]{
   }
 }
 
+.competenties {
+	color: #d22cc5 !important;
+	font-size: 17px !important; 
+	span {
+		color: #ffffff;
+	}
+}
+
+.pdf-icon {
+	max-width: 3%;
+}
+.document-overview {
+	h2 {
+		color: #d5d3de;	
+	} 
+	p {
+		font-size: 17px;
+		color: #d5d3de;	
+	}
+}
+hr {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,0.95), rgba(255,255,255,0));
+}
+
+.bewijs-item {
+	p {
+		margin-bottom: 0.5rem!important;
+	}
+	margin-bottom: 1rem!important;
+}

@@ -7,7 +7,7 @@
 				<div class="container">
                     <div class="row">         
                         <h2>Leeswijzer</h2>
-                        <p>Martijn Koch heeft van september 2019 tot januari 2020 gewerkt aan zijn afstudeeropdracht bij Greenhousegroep te Eindhoven. Deze leeswijzer is een korte versie van het gehele procesverslag. Er is onderzoek gedaan naar de mogelijkheden tot adverteren met betrekking op streaming platforms. Op deze platforms wordt vooral gameplay gekeken en hier worden ook eSport wedstrijden bekeken. Mochten deze termen voor u onbekend zijn, dan adviseer ik u om op onderstaande button te klikken om naar een uitlegvideo over eSports te gaan.</p>
+                        <p>Martijn Koch heeft van september 2019 tot januari 2020 gewerkt aan zijn afstudeeropdracht bij Greenhouse te Eindhoven. Deze leeswijzer is een korte versie van het gehele procesverslag. Er is onderzoek gedaan naar de mogelijkheden tot marketing met betrekking op streaming platformen. Op deze platformen wordt vooral naar gameplay gekeken en ook worden hier eSport wedstrijden bekeken. Mochten deze termen onbekend zijn, dan adviseer ik u om op onderstaande button te klikken om naar een uitlegvideo over eSports te gaan.</p>
                         <a href="#" class="site-btn btn-hover">Ga naar video<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>     
                 	</div>
                 </div>
@@ -135,9 +135,37 @@
 		<div class="featured-bg set-bg" data-setbg="/assets/img/stadium-2.jpg"></div>
 			<div class="featured-box uitvoering-section">
 				<h3>Bewijs</h3>
-				<h4>Kennis en inzicht </h4>
-				<p>Dit onderdeel wordt bewezen gedurende het hele proces. Mijn afstudeerportfolio staat centraal in dit punt. Het afstudeerportfolio laat het gehele proces gedurende de stageperiode zien.</p>
-				<a href="http://afstudeerportfolio.herrkoch.nl" class="read-more">http://afstudeerportfolio.herrkoch.nl</a>
+				<div class="bewijs-item">
+					<h4>1. Kennis en inzicht</h4>
+					<p>Dit onderdeel wordt bewezen gedurende het hele proces. Mijn afstudeerportfolio staat hier centraal in. Met dit portfolio wordt kennis en inzicht van de gehele ICT life cycle getoond.</p>
+					<a href="http://afstudeerportfolio.herrkoch.nl" class="read-more pb-3">Portfolio</a>
+				</div>
+				<div class="bewijs-item">
+					<h4>2.1 Toepassen Kennis en Inzicht - Beheer</h4>
+					<p>Gedurende de afstudeerstage is er gebruikt gemaakt van de Scrum methode. Elke week heeft er een meeting met mijn stagebegeleider plaatsgevonden. Op online vlak is vanaf het begin gebruik gemaakt van GIT voor de versiecontrole van de portfolio website.</p>
+					<a href="https://github.com/martijnkoch/afstudeerportfolio" class="read-more mb-3">Github</a>
+				</div>
+				<div class="bewijs-item">
+					<h4>2.2 Toepassen Kennis en Inzicht - Analyse</h4>
+				</div>
+				<div class="bewijs-item">
+					<h4>2.3 Toepassen Kennis en Inzicht - Advies</h4>
+				</div>
+				<div class="bewijs-item">
+					<h4>2.4 Toepassen Kennis en Inzicht - Ontwerp</h4>
+				</div>
+				<div class="bewijs-item">
+					<h4>2.5 Toepassen Kennis en Inzicht - Realisatie</h4>
+				</div>
+				<div class="bewijs-item">
+					<h4>3. Oordeelsvorming</h4>
+				</div>
+				<div class="bewijs-item">
+					<h4>4. Communicatie</h4>
+				</div>
+				<div class="bewijs-item">
+					<h4>5. Leervermogen </h4>
+				</div>
 			</div>
 		</div>
 	</section>

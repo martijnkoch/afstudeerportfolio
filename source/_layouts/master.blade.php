@@ -50,22 +50,8 @@
                         <!-- Menu -->
                         <ul class="main-menu primary-menu">
                             <li><a href="/">Leeswijzer</a></li>
-                            <li><a href="/onderzoek-overview" title="test">Onderzoek</a>
-                                <ul class="sub-menu">
-                                    <li><a href="/docs/hoe-verdient-een-streamer-zijn-geld">Hoe verdient een streamer zijn geld?</a></li>
-                                    <li><a href="/docs/esports-geschiedenis">eSports geschiedenis</a></li>
-                                    <li><a href="/docs/wat-zijn-esports?-">Wat zijn eSports?</a></li>
-                                </ul>
-                            </li>
-                            <li><a href="/product-overview">Producten</a></li>
-                            <li><a href="/document-overview">Documenten</a>
-                                <ul class="sub-menu">
-                                    <li><a href="/docs/interview-doelgroep">Interview doelgroep</a></li>
-                                    <li><a href="/docs/interview-experts">Interview experts</a></li>
-                                    <li><a href="/docs/projectdocument">Projectdocument</a></li>
-                                    <li><a href="/docs/urenverantwoording">Urenverantwoording</a></li>
-                                </ul>
-                            </li>
+                            <li><a href="/procesverslag">Procesverslag</a></li>
+                            <li><a href="/document-overview">Documenten</a></li>
                         </ul>
                     </nav>
                 </div>
