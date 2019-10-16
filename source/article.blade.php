@@ -1,5 +1,4 @@
 @extends('_layouts.master')
-
     <section class="games-single-page">
         <div class="container">
             <div class="game-single-preview">

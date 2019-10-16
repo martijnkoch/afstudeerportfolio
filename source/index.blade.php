@@ -80,7 +80,7 @@
 				<div class="col-md-12">
 					<div class="intro-text-box text-box text-white">
 						<h3>Aanpak</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida....</p>
+						<p>Om het project te structureren is gekozen om deze onder te verdelen in verschillende fases. Dit is gebaseerd op het Double Diamond ontwerpproces maar met ietwat andere benamingen. Het project bestaat uit de volgende fases: verkenningsfase, onderzoeksfase, concepting fase en ontwikkelfase. Gedurende elke fase is wekelijks gescrumd om de vooruitgang van het project te bespreken met mijn bedrijfsbegeleider. </p>
 					</div>
 				</div>
 			</div>
@@ -93,8 +93,16 @@
 		<div class="featured-bg set-bg" data-setbg="/assets/img/virtus-pro.png"></div>
 			<div class="featured-box uitvoering-section">
 				<h3>Uitvoering</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliquamet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum posuere porttitor justo id pellentesque. Proin id lacus feugiat, posuere erat sit amet, commodo ipsum. Donec pellentesque vestibulum metus...</p>
-				<a href="#" class="read-more">Read More  <img src="assets/img/icons/double-arrow.png" alt="#"/></a>
+				<p>Om een goed inzicht te krijgen in de wereld van eSports is eerst gekeken wat precies 
+				officiële betekenis is van eSports en of dat eSports worden gezien als een echte sport. Nadat de definitie was vastgelegd was het zaak om te kijken naar de geschiedenis van eSports en streaming. Hoe zijn deze ontstaan en wat voor soort games zijn er op de markt die momenteel erg populair zijn. 
+				Dit onderzoek is te vinden in de <a href="/docs/literatuurstudie">literatuurstudie</a>
+				</p>
+				<p>
+				Toen er een genoeg literaire kennis was opgedaan zijn er <a href="/docs/interview-experts/">interviews</a> gehouden met experts om te kijken hoe dat zij tegen streaming en gaming aankijken. Waar zien zij mogelijkheden en in hoeverre zet Greenhouse streaming en gaming al in. 
+				</p>
+				<p>
+				Om de doelgroep beter inzichtelijk te krijgen is er onderzoek gedaan naar <a href="/docs/esports-in-nederland/">hoe groot gaming en streaming in Nederland is</a>. Daarnaast zijn er ook <a href="/docs/interview-doelgroep/">interviews</a> gehouden met de doelgroep. Aan de hand van deze interviews was het mogelijk om persona’s te creëren. 	
+				</p>
 			</div>
 		</div>
 	</section>
