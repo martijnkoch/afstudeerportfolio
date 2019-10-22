@@ -96,6 +96,7 @@
 				<p>Om een goed inzicht te krijgen in de wereld van eSports is eerst gekeken wat precies 
 				officiële betekenis is van eSports en of dat eSports worden gezien als een echte sport. Nadat de definitie was vastgelegd was het zaak om te kijken naar de geschiedenis van eSports en streaming. Hoe zijn deze ontstaan en wat voor soort games zijn er op de markt die momenteel erg populair zijn. 
 				Dit onderzoek is te vinden in de <a href="/docs/literatuurstudie">literatuurstudie</a>
+				Ook is <a href="/docs/eSportsx">eSportsX</a> bezocht in Ahoy Rotterdam, dit is de grootste conferentie over gaming in de Benelux. eSportsX was onderdeel van Rotterdam Games Week waar ook Dreamhack aanwezig was. 
 				</p>
 				<p>
 				Toen er een genoeg literaire kennis was opgedaan zijn er <a href="/docs/interview-experts/">interviews</a> gehouden met experts om te kijken hoe dat zij tegen streaming en gaming aankijken. Waar zien zij mogelijkheden en in hoeverre zet Greenhouse streaming en gaming al in. 

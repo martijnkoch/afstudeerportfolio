@@ -16,25 +16,77 @@ Er is de laatste jaren veel discussie of dat eSporters moeten worden gezien als 
 
 In Nederland werd in 2017 door het AMC in Amsterdam de topsportstatus afgegeven aan een eSporter voor het eerst. Koen Schobbers student geneeskunde kreeg deze status om zijn eSports carrière te combineren met zijn studie. Hij traint rond de 20 uur per week, wat niet te combineren was met zijn studie. Koen werd in 2013 derde op het wereldkampioenschap van de online racegame Trackmania. Koen is net zoals vele andere gamers van mening dat eSports moet worden erkend als echte sport. In een aantal Aziatische landen zoals Korea is dit al het geval. Recent is er ook discussie gaande of dat eSports thuis zouden horen op de olympische spelen. De BBC meldde dat er discussie gaande is om eSports aan de olympische spelen van Parijs in 2024 toe te voegen. 
 
+Tijdens een toernooi van Blast pro sesies hield de ministerpresident van Denemarken een speech over eSports en dat deze gamers als echte atleten moeten worden gezien. In de gaming wereld werd daarna vol lof gesproken over ministerpræsident Lars Løkke Rasmussen.  
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_-4m8j18ano" allowfullscreen></iframe>
+</div>
+
 ### Hoe zijn eSports ontstaan en zo groot geworden?
 
 #### De jaren 70
 Sinds het begin van video games is er ook een competitieve aard tussen de spelers om de beste te willen zijn in een videogame. Het eerste eSports event dat is gehouden vond plaats op de Stanford Universiteit in Amerika. Het was 1972 en de videogame genaamd Spacewar was erg populair. De eerste prijs die kon worden gewonnen was een jaar lange subscription op het populaire Stones magazine. 
-![esports-geschiedenis](/assets/img/stanford.jpg "Stanford")
+
+<div id="jaren70carousel" class="carousel slide mb-4" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#jaren70carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#jaren70carousel" data-slide-to="1"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/img/stanford.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/spaceinvaders.jpg" alt="Second slide">
+    </div>
+
+  </div>
+  <a class="carousel-control-prev" href="#jaren70carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#jaren70carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
 
 #### De jaren 80
 Het duurde echter tot 1980 voordat het eerste grote toernooi in space invaders werd gehouden met Atari als organisator. Het toernooi heette The Space Invaders Championship en er waren meer dan 10,000 participanten. Het toernooi vergaarde wereldwijde media bekendheid. Dankzij de populariteit van dit toernooi kwamen op televisie de eerste programma’s die over gaming gingen. Op nationale televisie in amerika kwam ook een televisieprogramma Starcade genaamd. In dit programma’s namen gamers het tegen elkaar op. Echter was het programma niet erg populair en werd na 123 episodes de kabel uit het programma getrokken. 
 
 In het begin van de jaren 80 werden video games nog veelal gespeelde in de arcade hallen. Gamen was toen nog een sociale activiteit en je kon gemakkelijk in contact met nieuwe game fanatiekelingen. Een belangrijke gebeurtenis was de release van de arcade game Twin Galaxies in 1981. Dit was een arcade game die erg competitief werd. Het was de eerste arcade game waar highscores door heel de USA werden opgeslagen en mensen zo tegen elkaar konden spelen. De zestien spelers met de hoogste highscores werden uitgenodigd en werden geportretteerd als superstars. Dit is de eerste keer dat videogamers als sterren bekeken werden. 
-![esports-geschiedenis](/assets/img/twin-galaxies.jpg "Twin Galaxies")
 
 Op 1 januari 1983 werd internet officieel uitgegeven aan het grote publiek, en hierdoor kon online gaming commercieel worden. In 1984 werd de eerste online game uitgebracht genaamd MUD1. Dit was een text-based dungeon game die ontwikkeld werd door studenten aan de universiteit van Essex. Het Britse bedrijf Compunet zorgde voor de online ondersteuning voor de video game. Tot 1987 werd MUD1 actief gespeeld tot Compunet er in 1987 mee stopte. 
-![esports-geschiedenis](/assets/img/MUD1.jpg "MUD 1")
 
 De ontwikkeling met de meeste impact in de jaren 80 vond plaats in 1989. Toen werd ondersteuning voor IP Multicast ontwikkeld. Hiermee is het mogelijk om real-time connecties over een netwerk te creëren door middel van IP adressen.  
 Sega was het eerste bedrijf dat van deze nieuwe technologie gebruik ging maken. Ze creëerden een online gaming service genaamd Meganet die alleen in Japan verkrijgbaar was. Voor de Genesis console van Sega kon een modem worden gekocht voor $75. Naast de modem moest ook een maandelijkse subscription worden afgesloten voor $6 dollar per maand. Met deze subscription kreeg je toegang tot online newsletters en downloadbare games. Ook was het mogelijk om een aantal games online te spelen tegen andere gamers.  Het was ook zelfs mogelijk om met elkaar te communiceren door middel van voice-chat met een ingebouwde microfoon. In veel manieren was de online service ver voor op zijn tijd. Ondanks alle technische hoogstandjes die de Mega Modem had werkte het niet al te soepel. Zo waren er vaak latency problemen in de online games waardoor de videogame niet meer goed speelbaar was. 
 
-![sega-modem](/assets/img/sega-modem.jpg "Sega Modem")
+<div id="jaren80carousel" class="carousel slide mb-4" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#jaren80carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#jaren80carousel" data-slide-to="1"></li>
+    <li data-target="#jaren80carousel" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/img/twin-galaxies.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/nes.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/genesis.jpg" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#jaren80carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#jaren80carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 #### De jaren 90
 
@@ -42,6 +94,33 @@ De jaren 90 was een ongemakkelijk periode voor eSports en gaming. Ze staan typer
 
 Een andere belangrijke gebeurtenis in de jaren 90 was de geboorte van RPG (role-playing game) en RTS (Real-time strategy) games. De bekende RPG titel Warcraft kwam voor het eerst uit in 1994 en dit is een van de succesvolste series in gaming tot nu toe geworden. 
 Door de opkomst van internet en video games als Warcraft, Starcraft en Counter Strike werden ook de eerste professionele leagues opgezet. In Europa werd Clanliga opgezet in Duitsland die Europese toernooien organiseerde. In Amerika werden ESEA en CPL opgericht. Met deze leagues kwamen ook de eerste sponsoren en prijzengelden voor video games. CPL was de eerste grote organisator met redelijke prijzen gelden en eSporters van over heel de wereld. Zo liep het prijzengeld voor sommige competities wel op tot $15,000.  
+
+<div id="jaren90carousel" class="carousel slide mb-4" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#jaren90carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#jaren90carousel" data-slide-to="1"></li>
+    <li data-target="#jaren90carousel" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/img/warcraft2.jpg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/starcraft.jpg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/counterstrike.jpg" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#jaren90carousel" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#jaren90carousel" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 In 2000 werd Clanliga hernoemd naar ESL (Electronic Sports League). Dit is de grootste eSports organisatie momenteel in de wereld. Ze organiseren zowel online als offline leagues over heel de wereld. Hand in hand met de leagues werden ook de eerste eSports teams gevormd. Veel van deze oldschool teams zijn opgeheven, maar een van de oudste organisaties genaamd SK-Gaming is al sinds 1997 actief op het hoogste niveau. SK-Gaming is opgericht in Oberhausen te Duitsland door vier broer die allemaal de videogame Quake speelden. Sk-gaming breidde de organisatie uit naar de first-person shooter Counter Strike. Sk-gaming nam een zweeds team over en zij werden het eerste team in de geschiedenis dat binnen een eSports organisatie onder contract stonden en een maandsalaris verdienen. 
 

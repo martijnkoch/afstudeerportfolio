@@ -1,6 +1,6 @@
 ---
-title: eSports onderzoek
-description: Onderzoek naar het fenomeen
+title: Hoe groot zijn eSports en gaming in Nederland?
+description: Hoe groot zijn eSports en gaming in Nederland?
 extends: _layouts.document
 section: document
 ---

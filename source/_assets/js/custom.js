@@ -65,8 +65,6 @@ $(window).on('load', function() {
 		}
 	});
 
-
-
 	/*------------------
 		Video Popup
 	--------------------*/
@@ -470,3 +468,8 @@ $(".site-btn").click(function() {
 			return window.getComputedStyle(document.querySelector('.cd-horizontal-timeline'), '::before').getPropertyValue('content').replace(/'/g, "").replace(/"/g, "");
 		}
 	});
+
+/*------------------
+	Slider literaturpagina
+	--------------------*/	
+$('#jaren70carousel, #jaren80carousel, #jaren90carousel').carousel();
