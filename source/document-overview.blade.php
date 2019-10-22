@@ -43,6 +43,16 @@
 				</div>
 				<hr>
 				<div class="big-blog-item">
+					<a href="/docs/esportsx"><img src="/assets/img/document-overview/esportsx.jpg" alt="#" class="blog-thumbnail"></a>
+					<div class="blog-content text-box text-white">
+						<div class="top-meta">18.10.19</div>
+						<h3>eSportsX</h3>
+						<p class="competenties">Competenties: <span>Analyse, Oordeelsvorming</span></p>
+						<a href="/docs/literatuurstudie" class="read-more">Ga naar document <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+					</div>
+				</div>
+				<hr>
+				<div class="big-blog-item">
 					<a href="/docs/interview-experts/"><img src="/assets/img/document-overview/interview.jpg" alt="#" class="blog-thumbnail"></a>
 					<div class="blog-content text-box text-white">
 						<div class="top-meta">11.10.19</div>

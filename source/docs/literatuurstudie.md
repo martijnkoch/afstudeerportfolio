@@ -34,9 +34,15 @@ Sinds het begin van video games is er ook een competitieve aard tussen de speler
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/stanford.jpg" alt="First slide">
+        <div class="carousel-caption d-none d-md-block mt-5">
+          <h3>Standford Universiteit - 1972</h3>
+        </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/spaceinvaders.jpg" alt="Second slide">
+      <img class="d-block w-100" src="/assets/img/test2.jpg" alt="Second slide">
+        <div class="carousel-caption d-none d-md-block mt-5">
+          <h3>Space invaders</h3>
+        </div>
     </div>
 
   </div>
