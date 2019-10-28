@@ -50,7 +50,6 @@
                         <!-- Menu -->
                         <ul class="main-menu primary-menu">
                             <li><a href="/">Leeswijzer</a></li>
-                            <li><a href="/procesverslag">Procesverslag</a></li>
                             <li><a href="/document-overview">Documenten</a></li>
                         </ul>
                     </nav>

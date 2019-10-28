@@ -5,7 +5,7 @@ extends: _layouts.document
 section: document
 ---
 
-### Hoe groot zijn eSports en gaming in Nederland?
+## Hoe groot zijn eSports en gaming in Nederland?
 
 Gaming is een Nederland een zeer populaire activiteit door vooral jongeren. In 2018 was de omzet in de gaming industrie ruim 1 miljard. Momenteel heeft Nederland de vijftiende grootste gamersmarkt ter wereld. Verwacht wordt dat de gaming industrie tot 2022 jaarlijks rond de 3 procent zal groeien. Dit maakt Nederland een van de best groeiende landen in West-Europa op gaming gebied. Deze groei is ondere andere te danken aan een goede infrastructuur in Nederland. Er is een goed netwerk beschikbaar met op veel plekken de beschikking tot glasvezel en er is een goed dekkend 4G netwerk in Nederland aanwezig. 
 Doelgroep

@@ -39,7 +39,7 @@ Sinds het begin van video games is er ook een competitieve aard tussen de speler
         </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/test2.jpg" alt="Second slide">
+      <img class="d-block w-100" src="/assets/img/spaceinvaders.jpg" alt="Second slide">
         <div class="carousel-caption d-none d-md-block mt-5">
           <h3>Space invaders</h3>
         </div>
@@ -76,12 +76,21 @@ Sega was het eerste bedrijf dat van deze nieuwe technologie gebruik ging maken. 
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/twin-galaxies.jpg" alt="First slide">
+      <div class="carousel-caption d-none d-md-block">
+          <h3>Beste Twin Galaxies spelers - 1981</h3>
+      </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/assets/img/nes.jpg" alt="Second slide">
+      <div class="carousel-caption d-none d-md-block">
+          <h3>NES Nintendo controller</h3>
+      </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/assets/img/genesis.jpg" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block">
+          <h3>Sega Genesis</h3>
+      </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#jaren80carousel" role="button" data-slide="prev">
@@ -110,12 +119,21 @@ Door de opkomst van internet en video games als Warcraft, Starcraft en Counter S
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="/assets/img/warcraft2.jpg" alt="First slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>Warcraft 2 - 1995</h3>
+      </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/assets/img/starcraft.jpg" alt="Second slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>Starcraft - 1998</h3>
+      </div>
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="/assets/img/counterstrike.jpg" alt="Third slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>Counter Strike  - 1999</h3>
+      </div>
     </div>
   </div>
   <a class="carousel-control-prev" href="#jaren90carousel" role="button" data-slide="prev">
@@ -147,7 +165,41 @@ Een belangrijke gebeurtenis was de uitgave van het online video game platform St
 Valve ontwikkeld zelf games en op Steam worden ook games van third-party publishers aangeboden. Steam is grootste digitale aanbieder van PC games, en ze bezitten 75% van de huidige markt. De omzet van Steam is $4,3 biljoen. In 2019 zijn er in totaal een biljoen geregistreerde account op Steam en er zijn 90 miljoen maandelijkse gebruikers. Verscheidene bedrijven zoals Yahoo en Microsoft hebben geprobeerd om Steam over te kopen, maar alle voorstellen zijn afgewezen. De CEO en co founder van steam Gabe Newell wordt door de gebruikers van Steam liefkozend Lord Gaben genoemd. 
 
 Naast Steam zijn er in de loop jaren zijn er meerdere platforms gecreëerd door verschillende game studios. Zo heeft EA games in 2011 het platform Origin uitgebracht. Op Origin zijn alleen games te vinden die door EA worden uitgebracht. Enkele bekende titels die op Origin te spelen zijn zijn: Fifa, The Sims, Simcity en Battlefield.      
-![gaben](/assets/img/Lord_Gaben.jpg "Gaben")
+<div id="online-marketplaces" class="carousel slide mb-4" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#online-marketplaces" data-slide-to="0" class="active"></li>
+    <li data-target="#online-marketplaces" data-slide-to="1"></li>
+    <li data-target="#online-marketplaces" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/img/steam.jpg" alt="First slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>Steam Logo</h3>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/steam-store.jpg" alt="Second slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>Steam store</h3>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/lordgaben.jpg" alt="Third slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>Lord gaben</h3>
+      </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#online-marketplaces" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#online-marketplaces" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 ##### Consoles
 Naast de ontwikkelingen op PC gebied waren ook de consoles booming in het nieuwe millennium. Sony kwam als eerste met een nieuwe console in maart van 2000. De Playstation 2 is nog altijd de meest verkochte console ooit, met meer dan 150 miljoen verkochte systemen. 
@@ -164,6 +216,42 @@ In 2014 werd Twitch overgekocht door tech bedrijf Amazon. Voor de overname was e
 Naast Twitch zijn er meerdere platforms gekomen waar games op worden bekeken.Youtube Gamng is een ander populair alternatief. Het is vooral voor bekende Youtubers een manier om een andere manier van content te creëren en interactie met hun publiek te genereren. 
 Microsoft heeft ook een eigen streaming website ontwikkeld genaamd, Mixer. Microsoft is van plan om een directe concurrent van Twitch te worden. Dit doen ze door bekende streamers van Twitch te overtuigen om voor Mixer te gaan streamen. De bekendste streamer die Mixer heeft overgenomen is Tyler “Ninja” Blevins. Ninja is een bekende Fortnite streamer en is een van de grootste Twitch streamers. Microsoft heeft ninja $50 miljoen dollar betaald om exclusief op Mixer te streamen. Door bonussen en goals kan het bedrag tot $100 miljoen oplopen.  
 
+<div id="onlinestreaming" class="carousel slide mb-4" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#onlinestreaming" data-slide-to="0" class="active"></li>
+    <li data-target="#onlinestreaming" data-slide-to="1"></li>
+    <li data-target="#onlinestreaming" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/img/twitchlogo.jpg" alt="First slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>Twitch logo</h3>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/justintv.jpg" alt="Second slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>Justin Kan van JustinTV</h3>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/ninja.jpg" alt="Third slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>Tyler “Ninja” Blevins</h3>
+        </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#onlinestreaming" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#onlinestreaming" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
 ##### Battle Royale
 Sinds een paar jaar zijn de battle royale games heel erg in populariteit gestegen. In de battle royale games worden 100 spelers gedropt in een map en ze vechten onderling uit wie er het langste overblijft. Verspreid over de map liggen wapens en andere items die je helpen om de tegenstander uit te schakelen. Als je een tegenstanders weet te elimineren kan je zijn spullen pakken om er zelf sterker van te worden. Het game genre is geïnspireerd op de film The Hunger Games waar je ook als laatste moest zien te overleven.
 De eerste battle royale game die populair werd was DayZ in 2013. De game werkte niet optimaal maar toch werd het vrij snel populair onder een groot publiek. Er was zoveel mis met DayZ dat de officiële release van de game pas plaatsvond in 2018 toen er eigenlijk geen interesse meer was omdat andere battle royale games meer te bieden hadden. Zo werden er in 2017 twee populaire battle royale games uitgebracht: PUBG en Fortnite. PUBG is een serieus uitziende game waar je solo kan spelen, in duo’s of in een groep van vier personen. 
@@ -173,6 +261,42 @@ Van alle battle royale titels is Fortnite de grootste game, in maart van 2018 he
 
 Vanwege de grote populariteit van Fortnite heeft Epic games een World Cup georganiseerd in februari van 2019. Deze World Cup had maarliefst een prijzenpot van $15.5 miljoen dollar. Elk werelddeel had online kwalificaties waar iedereen aan mee kon doen om zich te kwalificeren voor de finale in het Arthur Ashe stadion in New York. Er keken meer dan twee miljoen mensen online naar de Fortnite World Cup. 
 
+<div id="battleroyale" class="carousel slide mb-4" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#battleroyale" data-slide-to="0" class="active"></li>
+    <li data-target="#battleroyale" data-slide-to="1"></li>
+    <li data-target="#battleroyale" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/img/fortnite.jpg" alt="First slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>Fortnite - 2017</h3>
+        </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/pubg.jpg" alt="Second slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>PlayerUnknown's Battlegrounds - 2017</h3>
+        </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/dayz.jpg" alt="Third slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>DayZ - 2013</h3>
+        </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#battleroyale" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#battleroyale" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
 ##### Counter strike
 Niet alleen Fortnite is een game die bekend staat om zijn skins, de eerste online game die bekend staat om zijn skins is Counter Strike Global Offensive. De Counter Strike reeks bestaat al sinds 1999 en wordt nog alsmaar populairder. Counter Strike Global Offensive oftewel CSGO werd uitgegeven in 2013 en in het begin was de game helemaal niet populair. Steam introduceerde skins in 2013 en op de Stream market is het mogelijk om skins te verkopen aan andere gamers. Deze skins lopen van een paar cent in waarde tot wel $20.000 voor de duurste skins. Met deze ontwikkeling van skins kwamen er ook skin gambling op professionele wedstrijden in de scene. Deze gambling zorgde voor populariteit in de game maar er kwam ook een donkere kant. Professionele games worden gefixt wat resulteerde in de ban van twee bekende spelers uit Amerika genaamd Dazed en Steel. Zij werden door Valve gebanned van alle toernooien. Ook is CSGO de eerste game waar verboden middelen rondom eSportsers werden geconstateerd. In 2015 werd er bij het Amerikaanse team C9 adderal gevonden. Dit is een prestatieverhogende drug die vaak wordt ingezet voor patiënten met ADHD. Sinds dit incident worden er vaker drugstesten gedaan onder eSporters. Dankzij gebeurtenissen zoals het gefixte wedstrijden en verboden middelen is eSports wel een stuk serieuzer geworden. De wilde west jaren hebben eSports achter zich gelaten en tegenwoordig is het serious business.  
  
@@ -180,6 +304,42 @@ Niet alleen Fortnite is een game die bekend staat om zijn skins, de eerste onlin
 Naast battle royale games zijn ook MOBA (Multiplayer online battle arena) erg populair. Het genre is al redelijk oud maar blijft zeer populair. In 2009 werd de wereldbekende game League of Legends uitgegeven door Riot Games. Dit is nog altijd een van de meest populaire games ter wereld. Net zoals Fortnite is League of Legends gratis maar je betaalt in game voor extra skins of nieuwe characters. Elk jaar is er in League of Legends ook een groot toernooi dat wordt georganiseerd door de ontwikkelaar van de game. Deze heeft een prijzenpot die in de miljoenen loopt en over de wereld kijken er ook miljoenen fans naar dit evenement. 
 
 Naast League of Legends is Dota 2 de andere grote MOBA. Dota 2 is in 2013 uitgegeven door Valve wat de eigenaar van Steam is. Dota 2 is later uitgegeven dan League of Legends en heeft daarom moeite gekend om te groeien. Zo heeft League of Legends het afgelopen jaar maar liefst 120 miljoen spelers gekend waar Dota 2 ‘maar’ 20 miljoen spelers had. Echter is het prijzengeld voor Dota 2 een heel stuk hoger dan voor league. Elk jaar organiseert Valve het toernooi The International. Voorafgaande van het toernooi is er in de game een battle pass te koop. Als je deze battle pass koopt dan help je mee om het prijzengeld te verhogen. Van de battle pass die je koopt gaat 25% van de aankoopprijs naar het prijzengeld voor The International. Op deze manier is de grootste prijzenpot tot nu toe voor een toernooi bereikt. In augustus van 2019 stond het prijzengeld voor The International op maar liefst  $34,330,068. Dit is momenteel de hoogste prize pool ooit voor een videogame. 
+
+<div id="mobas" class="carousel slide mb-4" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#mobas" data-slide-to="0" class="active"></li>
+    <li data-target="#mobas" data-slide-to="1"></li>
+    <li data-target="#mobas" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="/assets/img/league.jpg" alt="First slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>League of Legends - 2009</h3>
+        </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/dota2.jpg" alt="Second slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>Dota 2 - 2013</h3>
+        </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="/assets/img/theinternational.jpg" alt="Third slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h3>The International</h3>
+        </div>
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#mobas" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#mobas" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
 ##### Sport games
 

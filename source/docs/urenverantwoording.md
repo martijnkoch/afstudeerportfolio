@@ -53,7 +53,36 @@ section: document
 | ------------- |:-------------:| 
 | Maandag | Onderzoek naar hoe een streamer geld verdient  | 
 | Dinsdag | Interview David, Onderzoek |
-| Woensdag | Interview verwerken, Styling Portfolio website |
+| Woensdag | Interview David verwerken, Styling Portfolio website |
 | Donderdag | Bedrijfsbezoek stagebegeleider, Interview Jos, Meeting bedrijfsbegeleider, Interview verwerken | 
-| Vrijdag | Interview Noel, Interview verwerken |
+| Vrijdag | Interview Noel, Projectdocument inDesign |
 
+### Week 6 07-10-2019 / 11-10-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Projectdocument inDesign afronden, interview Jos verwerken  | 
+| Dinsdag | Interview Noel verwerken |
+| Woensdag | Onderzoek gaming in Nederland|
+| Donderdag | Ziek  | 
+| Vrijdag | Ziek |
+
+### Week 7 14-10-2019 / 18-10-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Onderzoek gaming in Nederland | 
+| Dinsdag | Opzet portfolio website veranderen |
+| Woensdag | Onderzoek gaming in Nederland |
+| Donderdag | Meeting bedrijfsbegeleider, interviewvragen doelgroep opstellen  | 
+| Vrijdag | eSportsX in Rotterdam |
+
+### Week 8 21-10-2019 / 25-10-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Interview CSGO fan, eSportsx documentatie verwerken | 
+| Dinsdag | Interview Fifa fan, DDW bezocht met craft|
+| Woensdag | Interview League fan, interviews verwerken|
+| Donderdag | Interviews verwerken | 
+| Vrijdag | Persona's creëren |
