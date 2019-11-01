@@ -64,8 +64,8 @@ section: document
 | Maandag | Projectdocument inDesign afronden, interview Jos verwerken  | 
 | Dinsdag | Interview Noel verwerken |
 | Woensdag | Onderzoek gaming in Nederland|
-| Donderdag | Ziek  | 
-| Vrijdag | Ziek |
+| Donderdag | __Ziek__  | 
+| Vrijdag | __Ziek__ |
 
 ### Week 7 14-10-2019 / 18-10-2019
 
@@ -85,4 +85,14 @@ section: document
 | Dinsdag | Interview Fifa fan, DDW bezocht met craft|
 | Woensdag | Interview League fan, interviews verwerken|
 | Donderdag | Interviews verwerken | 
-| Vrijdag | Persona's creëren |
+| Vrijdag | Fontys bezocht en werk besproken met schoolbegeleider |
+
+### Week 9 28-10-2019 / 01-11-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Images gefixt voor literatuurstudie | 
+| Dinsdag | Interview met video team, esportsX verder uitwerken|
+| Woensdag | Eerste concept animatie maken|
+| Donderdag | Meeting bedrijfsbegeleider, Interviews verwerken | 
+| Vrijdag | Interviews verwerken |

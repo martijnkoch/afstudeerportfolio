@@ -327,7 +327,7 @@ Naast League of Legends is Dota 2 de andere grote MOBA. Dota 2 is in 2013 uitgeg
     <div class="carousel-item">
       <img class="d-block w-100" src="/assets/img/theinternational.jpg" alt="Third slide">
         <div class="carousel-caption d-none d-md-block">
-          <h3>The International</h3>
+          <h3>The International van Dota</h3>
         </div>
     </div>
   </div>

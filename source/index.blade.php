@@ -50,11 +50,8 @@
 							<li>Op welk soort manieren kan nog meer worden geadverteerd?</li>
 							<li>Hoe effectief zijn deze nieuwe manieren van adverteren?</li>
 							<li>Wat voor soort advertenties spreken de doelgroep het meeste aan?</li>
-						</ul>
-						
+						</ul>	
 					</div>
-					<h4 class="producten">Bijbehorende producten</h4>
-					<a href="/docs/projectdocument">Projectdocument</a>
 				</div>
 			</div>
 		</div>
@@ -92,6 +89,9 @@
 		<div class="featured-bg set-bg" data-setbg="/assets/img/virtus-pro.png"></div>
 			<div class="featured-box uitvoering-section">
 				<h3>Uitvoering</h3>
+				<h4>Verkenningsfase</h4>
+				<p>Het begin van de stage stond in het teken om de opdracht beter af te bakenen. Hiervoor is in het begin van de stageperiode het projectdocument opgesteld. In het <a href="/docs/projectdocument">projectdocument</a> wordt de opdracht uitgebreider besproken en gedefinieerd.</p>
+				<h4>Onderzoeksfase</h4>
 				<p>Om een goed inzicht te krijgen in de wereld van eSports is eerst gekeken wat precies 
 				officiële betekenis is van eSports en of dat eSports worden gezien als een echte sport. Nadat de definitie was vastgelegd was het zaak om te kijken naar de geschiedenis van eSports en streaming. Hoe zijn deze ontstaan en wat voor soort games zijn er op de markt die momenteel erg populair zijn. 
 				Dit onderzoek is te vinden in de <a href="/docs/literatuurstudie">literatuurstudie</a>
@@ -103,6 +103,10 @@
 				<p>
 				Om de doelgroep beter inzichtelijk te krijgen is er onderzoek gedaan naar <a href="/docs/esports-in-nederland/">hoe groot gaming en streaming in Nederland is</a>. Daarnaast zijn er ook <a href="/docs/interview-doelgroep/">interviews</a> gehouden met de doelgroep. Aan de hand van deze interviews was het mogelijk om persona’s te creëren. 	
 				</p>
+				<h4>Concepting fase</h4>
+				<p></p>
+				<h4>Ontwikkelfase</h4>
+				<p></p>
 			</div>
 		</div>
 	</section>
