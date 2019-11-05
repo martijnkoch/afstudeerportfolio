@@ -7,8 +7,6 @@ section: document
 
 # eSportsX 
 
-Op vrijdag 18 oktober werd eSportsX gehouden in Ahoy Rotterdam. eSportsX is al jaren de grootste gaming conferentie van de Benelux met veel invloedrijke sprekers uit de gaming wereld. In Ahoy werd tegelijkertijd ook het eerste evenement van Dreamhack in Nederland georganiseerd. Met het ticket van eSportsX was het ook mogelijk om Dreamhack gratis te bezoeken in Ahoy. Wat Dreamhack is wordt al besproken in de [literatuurstudie](/docs/literatuurstudie). Maar kort gezegd is het een LAN-party waar ook een competitie aan verbonden zit. Dreamhack ziet zichzelf als levensstijl voor gamers. Er was een toernooi voor zowel CSGO als voor Dota2. Beide toernooien zaten de hele tijd vol toeschouwers en online kreeg het Nederlands publiek complimenten voor de opkomst. 
-
 Op vrijdag 18 oktober werd eSportsX gehouden in Ahoy Rotterdam. eSportsX is al jaren de grootste gaming conferentie van de Benelux met veel invloedrijke sprekers uit de gaming wereld. In Ahoy werd tegelijkertijd ook het eerste evenement van Dreamhack in Nederland georganiseerd. Met het ticket van eSportsX was het ook mogelijk om Dreamhack gratis te bezoeke. Wat Dreamhack is wordt al besproken in de [literatuurstudie](/docs/literatuurstudie) onder de jaren 90. Maar kort gezegd is het een LAN-party waar ook een competitief wordt gegamed door professionele teams. Dreamhack ziet zichzelf als levensstijl voor gamers. Er was een toernooi voor zowel CSGO als voor Dota2. Beide toernooien zaten de hele tijd vol toeschouwers en online kreeg het Nederlands publiek complimenten voor de opkomst. 
 
 <div id="jaren80carousel" class="carousel slide mb-4" data-ride="carousel">

@@ -94,17 +94,18 @@
 				<h4>Onderzoeksfase</h4>
 				<p>Om een goed inzicht te krijgen in de wereld van eSports is eerst gekeken wat precies 
 				officiële betekenis is van eSports en of dat eSports worden gezien als een echte sport. Nadat de definitie was vastgelegd was het zaak om te kijken naar de geschiedenis van eSports en streaming. Hoe zijn deze ontstaan en wat voor soort games zijn er op de markt die momenteel erg populair zijn. 
-				Dit onderzoek is te vinden in de <a href="/docs/literatuurstudie">literatuurstudie</a>
+				Dit onderzoek is te vinden in de <a href="/docs/literatuurstudie">literatuurstudie</a>.
 				Ook is <a href="/docs/esportsx">eSportsX</a> bezocht in Ahoy Rotterdam, dit is de grootste conferentie over gaming in de Benelux. eSportsX was onderdeel van Rotterdam Games Week waar ook Dreamhack aanwezig was. 
 				</p>
 				<p>
-				Toen er een genoeg literaire kennis was opgedaan zijn er <a href="/docs/interview-experts/">interviews</a> gehouden met experts om te kijken hoe dat zij tegen streaming en gaming aankijken. Waar zien zij mogelijkheden en in hoeverre zet Greenhouse streaming en gaming al in. 
+				Toen er een genoeg literaire kennis was opgedaan zijn er <a href="/docs/interview-experts/">interviews</a> gehouden met experts binnen Greenhouse. Met de interviews is gekeken hoe dat zij tegen streaming en gaming aankijken. Waar zien zij mogelijkheden en in hoeverre zet Greenhouse streaming en gaming al in. 
 				</p>
+				<p>Om de doelgroep beter inzichtelijk te krijgen is er onderzoek gedaan naar <a href="/docs/esports-in-nederland/"> hoe groot gaming en streaming in Nederland zijn. </a> Daarnaast zijn er ook <a href="/docs/interview-doelgroep/">interviews</a> gehouden met de doelgroep. Aan de hand van deze interviews was het mogelijk om erachter te komen wat de doelgroep als irritant ervaart als zij streams kijken. En wat eventuele mogelijkheden zouden zijn om gepersonaliseerde reclame aan te bieden die beter bij de doelgroep past.  </p>
 				<p>
-				Om de doelgroep beter inzichtelijk te krijgen is er onderzoek gedaan naar <a href="/docs/esports-in-nederland/">hoe groot gaming en streaming in Nederland is</a>. Daarnaast zijn er ook <a href="/docs/interview-doelgroep/">interviews</a> gehouden met de doelgroep. Aan de hand van deze interviews was het mogelijk om persona’s te creëren. 	
+				De bevindingen van het onderzoek zijn terug te lezen in een conclusie document. 
 				</p>
 				<h4>Concepting fase</h4>
-				<p></p>
+				<p>Om een goed beeld te krijgen van hoe streaming reclames eruit kunnen komen te zien zijn een aantal <a href="/docs/concept-animaties">animatie prototypes </a> gemaakt. Er is gekeken naar verschillende games en wat hierin mogelijkheden zijn tot animaties. Elke animatie heeft betrekking op een klant van Greenhouse. Zo zijn er concept animaties gemaakt voor: Toto, KPN, Vodafone, Volkswagen, Nike en Axe. Er is ook gekeken welke klant bij welke game zou passen.</p>
 				<h4>Ontwikkelfase</h4>
 				<p></p>
 			</div>
@@ -154,7 +155,7 @@
 				</div>
 				<div class="bewijs-item">
 					<h4>2.1 Toepassen Kennis en Inzicht - Beheer</h4>
-					<p>Gedurende de afstudeerstage is er gebruikt gemaakt van de Scrum methode. Elke week heeft er een meeting met mijn stagebegeleider plaatsgevonden. Op online vlak is vanaf het begin gebruik gemaakt van GIT voor de versiecontrole van de portfolio website.</p>
+					<p>Gedurende de afstudeerstage is er gebruikt gemaakt van de Scrum methode. Elke week heeft er een meeting met mijn stagebegeleider plaatsgevonden. Op online vlak is vanaf het begin gebruik gemaakt van GIT voor de versie controle van de portfolio website.</p>
 					<a href="https://github.com/martijnkoch/afstudeerportfolio" class="read-more mb-3">Github</a>
 				</div>
 				<div class="bewijs-item">

@@ -63,6 +63,26 @@
 				</div>
 				<hr>
 				<div class="big-blog-item">
+					<a href="/docs/interview-doelgroep/"><img src="/assets/img/document-overview/interview.jpg" alt="#" class="blog-thumbnail"></a>
+					<div class="blog-content text-box text-white">
+						<div class="top-meta">11.10.19</div>
+						<h3>Interview doelgroep</h3>
+						<p class="competenties">Competenties: <span>Analyse, Communicatie, Oordeelsvorming</span></p>
+						<a href="/docs/interview-doelgroep/" class="read-more">Ga naar document <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+					</div>
+				</div>
+				<hr>
+				<div class="big-blog-item">
+					<a href="/docs/concept-animaties/"><img src="/assets/img/document-overview/concept-animatie.jpg" alt="#" class="blog-thumbnail"></a>
+					<div class="blog-content text-box text-white">
+						<div class="top-meta">11.10.19</div>
+						<h3>Concept animaties</h3>
+						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
+						<a href="/docs/concept-animaties/" class="read-more">Ga naar document <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+					</div>
+				</div>
+				<hr>
+				<div class="big-blog-item">
 					<a href="/docs/urenverantwoording/"><img src="/assets/img/document-overview/urenverantwoording.jpg" alt="#" class="blog-thumbnail"></a>
 					<div class="blog-content text-box text-white">
 						<div class="top-meta">14.01.20</div>
