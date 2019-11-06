@@ -35,15 +35,19 @@ section: document
         <tbody>
         <tr>
             <td>Fifa </td>
-            <td>- Hoe lang speel je al Fifa??<br> - Hoeveel uur per week ben je bezig met Fifa?<br> - Wat maakt Fifa leuker dan andere games voor je? <br> - Kijk je naar casual Fifa streamers of naar Fifa wedstrijden? <br> - Heb je wel eens geld gedonate aan een Fifa streamer of aan een toernooi? </td>
+            <td>- Hoe lang speel je al Fifa??<br> - Hoeveel uur per week ben je bezig met Fifa?<br> - Wat maakt Fifa leuker dan andere games voor je? <br> - Heb je wel eens geld gedonate aan een Fifa streamer of aan een toernooi? </td>
         </tr>
         <tr>
             <td>eSports</td>
-            <td>- Wordt er op gaming en streaming gebied al advertentieruimte ingekocht?<br> - Hoe precies worden deze advertentie ruimtes ingekocht? <br> Is deze manier van adverteren succesvol?</td>
+            <td>- Zie jij deze professionele Fifa spelers als echte topsporters?<br> - Ben je wel eens naar een gaming event geweest?</td>
         </tr>
         <tr>
-            <td>Visie</td>
-            <td>- Hoe essentieel vind je het dat Greenhouse zich ook op streaming platforms gaat richten?<br> - Heb je nog andere ideeën om gaming en streaming in te zetten voor marketingcampagnes?</td>
+            <td>Gokken</td>
+            <td>- Gok je wel eens voor geld op wedstrijden van Fifa? <br> - HOpen je wel eens fifa packs waar player cards in zitten? <br>- Voelt het minder erg aan om een paar ‘pixels’ te verkopen voor verlies dan echt geld?</td>
+        </tr>
+        <tr>
+            <td>Reclames</td>
+            <td>- Gebruik je een adblocker op streaming websites? <br> - Wat voor reclames vind je irritant op streaming platforms?<br> - Heb je een idee hoe je reclames op een leukere manier zou kunnen brengen aan de viewers?</td>
         </tr>
         <tbody>
     </table>
@@ -62,15 +66,19 @@ section: document
         </tr>
         <tr>
             <td>eSports</td>
-            <td>- Zie jij deze professionele League spelers als echte topsporters?  <br> - Kijk je naast League nog naar andere games?<br>- Ben je wel eens naar een gaming event geweest?<br>- Ken je de sanquin first blood campagne?<br>-Zou jij bloed doneren voor een unieke league of legends skin?<br>- Gok je wel eens voor geld op wedstrijden van League?<br> - Heb je wel eens League characters gekocht?<br>- Voelt het niet zo erg om League characters te kopen omdat de game an sich al gratis is?</td>
+            <td>- Zie jij deze professionele League spelers als echte topsporters?  <br> - Kijk je naast League nog naar andere games?<br>- Ben je wel eens naar een gaming event geweest? <br> - Ken je de sanquin first blood campagne?<br>-Zou jij bloed doneren voor een unieke league of legends skin?</td>
+        </tr>
+        <tr>
+            <td>Gokken</td>
+            <td>- Gok je wel eens voor geld op wedstrijden van League?<br> - Heb je wel eens League characters gekocht?<br>- Voelt het niet zo erg om League characters te kopen omdat de game an sich al gratis is?</td>
         </tr>
         <tr>
             <td>Reclames</td>
-            <td>- Gebruik je een adblocker op streaming websites?<br> - Wat voor reclames vind je irritant op streaming platforms?<br> - Heb je een idee hoe je reclames op een leukere manier zou kunnen brengen aan de viewers?<br> - Zou een tool als Loots iets zijn voor een betere manier van reclames?</td>
+            <td>- Gebruik je een adblocker op streaming websites?<br> - Wat voor reclames vind je irritant op streaming platforms?<br> - Heb je een idee hoe je reclames op een leukere manier zou kunnen brengen aan de viewers?</td>
         </tr>
         <tbody>
     </table>
-    <h4>Jos van de Manakker - Creative Craft & DOOH Greenhouse </h4>
+    <h4>Kevin Frambach - Counter Strike global offensive gamer </h4>
     <table class="fl-table">
         <thead>
         <tr>
@@ -80,16 +88,20 @@ section: document
         </thead>
         <tbody>
         <tr>
-            <td>Creative Craft </td>
-            <td>- Doet de creative craft al werkzaamheden gerelateerd met streaming en gaming?<br> - Wat is jouw rol binnen de creative craft?</td>
+            <td>Csgo </td>
+            <td>- Hoe lang speel je al Counter Strike?<br> - Hoeveel uur per week ben je bezig met CSGO?<br> - Wat maakt CSGO leuker dan andere games voor je? <br> - Op welke platformen kijk je naar CSGO?<br> - Kijk je naar casual CSGO streamers of naar CSGO wedstrijden?<br> - Heb je wel eens geld gedonate aan een CSGO streamer of aan een toernooi?</td>
         </tr>
         <tr>
-            <td>Visie</td>
-            <td>- Hoe essentieel vind je het dat Greenhouse zich ook op streaming platforms gaat richten?<br> - Heb je nog andere ideeën om gaming en streaming in te zetten voor marketingcampagnes?</td>
+            <td>eSports</td>
+            <td>- Zie jij deze professionele gamers als echte topsporters?<br> - Kijk je naast CSGO nog naar andere games?<br> - Ben je wel eens naar een gaming event geweest?</td>
         </tr>
         <tr>
-            <td>Loots</td>
-            <td>- Zou Loots een tool kunnen zijn die Greenhouse zou helpen met marketing?<br> - Is het mogelijk om een tools in eigen organisatie te ontwikkelen</td>
+            <td>Gokken</td>
+            <td>-Voelt het minder erg aan om een paar ‘pixels’ te verliezen dan echt geld?</td>
+        </tr>
+        <tr>
+            <td>Reclames</td>
+            <td>- Gebruik je een adblocker op streaming websites?<br> - Wat voor reclames vind je irritant op streaming platforms?<br> - Heb je een idee hoe je reclames op een leukere manier zou kunnen brengen aan de viewers?</td>
         </tr>
         <tbody>
     </table> 
@@ -103,17 +115,34 @@ section: document
     </a>
 </h3>
 <div class="collapse interview-david" id="interview-noel">
-    <h4>Kan je uitleggen wat de media kant van Greenhouse precies doet?</h4>
-    <p>De media kant binnen Greenhouse is verantwoordelijk voor het aankopen van advertentieruimtes binnen platforms. </p>
-    <h4>Wat is jouw rol binnen media?</h4>
-    <p>Binnen media is een kant die zich richt op social, hier maak ik deel van uit. Als Greenhouse hebben wij een aantal grote telecom klanten die gamers probeert aan te spreken. Dit onder de noemer van, wij hebben het beste netwerk en de hoogste netwerk snelheid.</p>
-    <h4>Wordt er op gaming en streaming gebied al advertentieruimte ingekocht?</h4>
-    <p>In de tijd dat ik bij Blossom werkte een paar jaar geleden hebben we gekeken of we een Twitch campagne konden opstarten. We hebben met de accountmanager van Twitch gesproken, maar er waren een hoop voorwaardes waar we toen niet aan konden voldoen. Ik denk dat er momenteel nog steeds weinig mee wordt gedaan. Greenhouse is een groot bedrijf dus het kan dat het elders binnen het bedrijf wel gebeurt, maar daar heb ik geen idee van.</p>
-    <h4>Hoe essentieel vind je het dat Greenhouse zich ook op streaming platforms gaat richten?</h4>
-    <p>Ik dat dat streaming platforms voor veel van onze klanten goede potentie heeft. Intern moet wel meer kennis worden vergaard over wie er precies kijkt naar bepaalde games. Er zal nu worden gezegd, leeftijd A tot B kijkt veel Fifa. Dus gaan we adverteren op Twitch. 
-    Ook zit een valkuil in het sponsoren van grote streamers. Deze grote streamers hebben een grote reach maar wel internationaal. En streamers die alleen in het Nederlands streamen zijn vaak veel te klein om hier wat mee te kunnen doen. Als je grote Nederlandse streamers hebt dan kun je deze prima benaderen. Je zou ook op Nederlandse gaming events kunnen promoten, maar ook deze zijn vaak relatief klein en hebben een te kleine reach. 
-    Een andere risico van streamers is dat je met live content te maken hebt. Een streamer kan een fout woord zeggen of er kan iets raars op stream gebeuren en dan wil je niet dat je merk wordt geassocieerd met die streamer. Een YouTube filmpje kan nog altijd worden ge-edit zodat bepaalde blunders er niet in komen. Je moet een klant ook brand safety kunnen waarborgen.
+    <h4>Hoe lang speel je al Fifa?</h4>
+    <p>Ik ben begonnen met Fifa in 2008. Tot ongeveer 2013 heb ik het heel actief gespeeld en toen heb ik een paar jaar een break genomen. Ik heb de game toen ook niet gekocht. Sinds vorig jaar ben ik Fifa weer actief gaan spelen op de Playstation.</p>
+    <h4>Hoeveel uur per week ben je bezig met Fifa?</h4>
+    <p>Tot 2013 was ik per dag wel een aantal uur bezig met Fifa. Omdat ik het te veel vond worden ben ik er toen ook mee gestopt. Tegenwoordig speel ik misschien een uurtje per dag, maar ik kijk wel meer Fifa dan vroeger.</p>
+    <h4>Wat maakt Fifa leuker dan andere games voor je?</h4>
+    <p>Ik heb sowieso een voetbal en daarom heb Fifa altijd leuker gevonden. Ook is Fifa de meest populaire voetbalgame. Tegenwoordig vind ik Fifa vooral leuk omdat er een interactie in zit met de echte wereld. Als een speler een hele goede wedstrijd heeft gespeeld dan verschijnt ook een speciale player card van hem.</p>
+    <h4>Op welke platformen kijk je naar Fifa?</h4>
+    <p>Ik ben begonnen met het volgen van de eDivisie toen dit uitkwam in 2017. Op FoxSports werden de wedstrijden uitgezonden en hier keek ik deze. 
+Vorig jaar ben ik begonnen met het kijken van Fifa video’s op Youtube. Hier keek ik vooral naar pack openings van Fifa player cards. Sinds een aantal maanden ben ik overgestapt naar Twitch. Hier zitten toch wel betere spelers waar ook de gameplay interessant van is. wej
     </p>
+    <h4>Heb je wel eens geld gedonate aan een Fifa streamer of aan een toernooi?</h4>
+    <p>Nee ik heb nog nooit geld gedonate aan een streamer. Maar ik zit er wel over na te denken. Zo heb ik wel onlangs een gifted sub gekregen op Castro, een Fifa streamer. En ik zit er wel over na te denken om deze dan ook te verlegen. Ik kijk graag naar zijn streams en wil hem dan ook graag supporten.</p>
+    <h4>Zie jij deze professionele Fifa spelers als echte topsporters?</h4>
+    <p>Lastig, wat ik topsport precies. Ik zie het meer als werk omdat ik toch vindt dat het fysieke aspect te weinig aanwezig is.</p>
+    <h4>Ben je wel eens naar een gaming event geweest?</h4>
+    <p>Nee nog nooit. Als het in de buurt zou zijn en mijn favoriete streamer is aanwezig dan zou ik best willen gaan. Maar als de eSporter van PSV bijvoorbeeld aanwezig is dan zou het mij minder interesseren. Ik zou dus eerder voor de persoon gaan dan dat ik zou gaan voor Fifa gameplay.</p>
+    <h4>Gok je wel eens voor geld op wedstrijden van Fifa?</h4>
+    <p>Nee nog nooit. Op normale voetbalwedstrijden wel maar nog nooit op Fifa.</p>
+    <h4>Open je wel eens fifa packs waar player cards in zitten?<h4>
+    <p>Nee ik vind het niet leuk om deze packs te openen. Ik vind het juist leuk om een team vanaf scratch op te bouwen. Als je zomaar 100 packs opent en dan de beste spelers hebt in de game dan is het toch maar een beetje saai.</p>
+    <h4>Voelt het minder erg aan om een paar ‘pixels’ te verkopen voor verlies dan echt geld?</h4>
+    <p>Als ik winst maak op bepaalde speler cards dan voelt dit natuurlijk wel lekker. Maar als ik verlies maak op een speler dan vind ik het wel jammer maar ik lig er verder niet wakker van. Er zijn weer genoeg kansen om wel winst te maken.</p>
+    <h4>Gebruik je een adblocker op streaming websites?</h4>
+    <p>Nee ik heb geen adblocker en block dus geen reclames.</p>
+    <h4>Wat voor reclames vind je irritant op streaming platforms?</h4>
+    <p>Bij twitch krijg ik de laatste tijd Amerikaanse reclames. Dan denk ik wel van deze reclames zijn niet per se relevant voor mij en ze zijn de hele tijd hetzelfde. En dat is dan wel irritant aan het worden.</p>
+    <h4>Heb je een idee hoe je reclames op een leukere manier zou kunnen brengen aan de viewers?</h4>
+    <p>Er moet meer variatie zitten in de reclames. En de reclames moeten meer gebaseerd zijn in mijn interesses. Nu heb ik niet het idee dat reclames op de kijker zijn gericht. Als je juist gepersonaliseerde reclame hebt kan dit een toevoeging zijn voor de kijker.</p>
     <button class="btn btn-outline-info mb-2" type="button" data-toggle="collapse" data-target="#interview-noel" aria-expanded="false" aria-controls="interview-noel">
     Sluit dit interview
   </button>
@@ -157,9 +186,7 @@ Ik vind dat er meerdere sporten zijn waar je niet fysiek heel actief bezig bent 
     <h4>Wat voor reclames vind je irritant op streaming platforms?</h4>
     <p>Reclames ben ik tegenwoordig wel gewend. Het zit zo in onze cultuur dat je er niet meer omheen kan. Wel leg ik vaak mijn telefoon weg als ik een reclame moet kijken. Dan staat de reclame wel op maar dan focus ik er verder niet op. Als de reclame interessant is en bij de game past die ik wil kijken dan kijk ik wel sneller. </p>
     <h4>Heb je een idee hoe je reclames op een leukere manier zou kunnen brengen aan de viewers? </h4>
-    <p>De reclames moeten je interesseren. Het moet iets zijn wat jij leuk vindt en het moet bij de doelgroep van de stream passen. </p>
-    <h4>Zou een tool als Loots iets zijn voor een betere manier van reclames?</h4>
-    <p>Ja ik denk dat je zo gepersonaliseerde content kan laten zien aan de kijkers. Zeker als je interaction wil creëren met je stream dan zou dit perfect zijn. Als er bij een event in de game wat gebeurt met de stream dan krijg je echt interaction. Na krijg je alleen interaction met een streamer op moment dat er een donation komt. </p>
+    <p>De reclames moeten je interesseren. Het moet iets zijn wat jij leuk vindt en het moet bij de doelgroep van de stream passen.  Zeker als je interaction wil creëren met je stream dan zou dit perfect zijn. Als er bij een event in de game wat gebeurt met de stream dan krijg je echt interaction. Na krijg je alleen interaction met een streamer op moment dat er een donation komt.</p>
     <h4>Conclusie </h4>
         <p> </p>
     <button class="btn btn-outline-info mb-2" type="button" data-toggle="collapse" data-target="#interview-david" aria-expanded="false" aria-controls="interview-david">
@@ -173,25 +200,48 @@ Ik vind dat er meerdere sporten zijn waar je niet fysiek heel actief bezig bent 
     </a>
 </h3>
 <div class="collapse interview-david" id="interview-jos">
-    <h4>Wat is jouw rol binnen de creative craft?</h4>
-    <p>Momenteel ben ik de lead van de divisie DOOH (digital out of home). Wij richten ons op het adverteren op schermen buitenshuis. Denk hierbij aan stations bijvoorbeeld waar veel interactieve schermen staan. Deze kunnen we lokaal aanpasbaar maken door lokale input mee te geven, zoals het weer of lokale nieuws evenementen. 
-Hiervoor was ik een ontwikkelaar binnen de creative craft. Ik richtte mij toen vooral op online banners, maar tegenwoordig dus op ‘banners’ buiten het online gebied.</p>
-    <h4>Doet de creative craft al werkzaamheden gerelateerd met streaming en gaming?</h4>
-    <p>Bij creative worden veel banners gemaakt. Deze bevatten soms wel eens game elementen. Dit is een aantal keer gedaan, en deze banners werken ook wel goed. Echter is het wel een tijdconsumerende taak, daarom wordt het niet heel vaak gedaan. Maar op streaming gebied is voor hoe ver ik weet nog niet gedaan binnen de creative craft. </p>
-    <h4>Hoe essentieel vind je het dat Greenhouse zich ook op streaming platforms gaat richten?</h4>
-    <p>Essentieel weet ik niet, maar ik denk dat er veel kansen liggen op dit gebied. In Nederland is streaming momenteel nog relatief klein ten opzichte van andere delen in de wereld. Maar er zit zeker toekomst in deze sector die moeten worden onderzocht.</p>
-    <h4>Heb je nog andere ideeën om gaming en streaming in te zetten voor marketingcampagnes?</h4>
-    <p>Ik zat te denken om streamers op bijvoorbeeld een Twitch producten te laten promoten. Zo kan je jouw merk bekend maken door middel van een influencer. Dit kan zowel op streams gebeuren als later nog in Youtube video’s.  
-    Het is ook interessant om te kijken buiten de content, het video gedeelte van streams wat er nog meer mogelijk is qua advertisement. Ik zou dus niet aan de video content komen, maar je hebt bijvoorbeeld ook een chat die mogelijkheden kan geven. Voor mijn gevoel is dat gebruiksvriendelijker. En wellicht kan je dan de streamer geen controle over de reclames laten hebben. Dan kan je op vaste basis reclames laten runnen. Een Greenhouse moet op een vaste basis inkomsten kunnen genereren aan een streaming website.  
-    Je zou ook nog kunnen kijken of je audio kan verwerken als advertentievorm. Zo kan je wel het visuele aspect van een stream in tact houden en toch reclame doorvoeren.</p>
-    <h4>Zou Loots een tool kunnen zijn die Greenhouse zou helpen met marketing?</h4>
-    <p>Op deze manier block je wel een deel van de content. Dit is wellicht iets wat ik als streamer niet zou willen maar het is wel een interessante optie. De vraag is wel hoe precies dit werkt om advertentie plek in te kopen. 
-    Het zou goed zijn om de streamer zelf controle te laten geven over wanneer zij een ad willen runnen en voor hoe lang. Dan kan je streamer daar bijvoorbeeld ook rekening mee houden voor de gameplay.</p>
-    <h4>Is het mogelijk om een tools in eigen organisatie te ontwikkelen?</h4>
-    <p>Je zou LemonPi kunnen inzetten om hierin de Ads op te slaan. Maar als een goede tool al bestaat zou ik niet proberen om het wiel opnieuw uit te vinden. Als dit goed werkt en genoeg mensen gebruiken het, dan zou ik dit gewoon gebruiken. </p>
+    <h4>Hoe lang speel je al Counter Strike? </h4>
+    <p>Ik speel ongeveer 4 jaar actief Counter Strike. Ik heb de voorloper van Global Offensive, Source ook wel een beetje gespeeld. Maar ik heb echt serieus gaan spelen sinds Global Offensive.</p>
+    <h4>Hoeveel uur per week ben je bezig met CSGO?</h4>
+    <p>In de periode dat ik echt veel competitief Counter Strike speelde haalde ik per dag wel 3 tot 4 uur gameplay per dag. Tegenwoordig speel ik nog een aantal uur per week. Heel veel competitive CSGO is leuk voor een tijdje, maar soms heb ik ook zin in een game om lekker te ontspannen.</p>
+    <h4>Wat maakt CSGO leuker dan andere games voor je?</h4>
+    <p>Buiten het teamaspect, het tactische en de gameplay vind ik vooral de randzaken rondom CSGO erg leuk. Ik heb heel lang gegokt met skins en dit vond ik vooral erg leuk. Ook op professionele games van CSGO doe ik in geld betten. Hiervoor kijk ik vaak naar CSGO games, om zo een beeld te krijgen van hoe goed bepaalde teams zijn en wie kans maakt om te winnen. Er waren ook goksites waar je skins voor CSGO kom upgraden. Je had een bepaald percentage om het up te traden of je was je wapen kwijt. Toen Valve het skin gambelen verbiedde is mijn interesse in de game ook wat minder geworden.</p>
+    <h4>Kijk je naar casual CSGO streamers of naar CSGO wedstrijden?</h4>
+    <p>Ik kijk vooral naar CSGO matches, omdat ik hier mijn betts op bepaal. Ook als je op een match hebt gebett maakt dit het extra spannend om te kijken. Naar casual streamers kijk ik soms. Zo kijk ik graag naar Pasha en Shroud. Maar ook als Shroud andere games speelt kijk ik graag naar hem.</p>
+    <h4>Heb je wel eens geld gedonate aan een CSGO streamer of aan een toernooi?</h4>
+    <p>Nee nog nooit gedaan. Als je donate heb je vaak een vraag aan een streamer en die komt dan eventjes in beeld. Dit vind ik een beetje zonde van mijn geld, ik koop dan liever wat extra CSGO skins om deze in te zitten om te gokken.</p>
+    <h4>Zie jij deze professionele gamers als echte topsporters?</h4>
+    <p>Vroeger zag ik ze alleen als gamers die competitief bezig zijn. Maar als je kijkt hoe ze tegenwoordig worden opgehaald op het vliegveld, slapen in een duur hotel, alle interviews en teamkleding dan zie ik ze wel echt als topsporters. 
+Door al deze stappen wordt het imago van de eSporters verbeterd en zo worden ook weer grote bedrijven geïnteresseerd in deze markt.</p>
+    <h4>Kijk je naast CSGO nog naar andere games? </h4>
+    <p>Ik volg niet actief andere games. Toen ik een tijdje PUBG speelde heb ik hier een aantal toernooien van gezien. PUBG vond ik nooit zo leuk om te kijken omdat een battle royale game te chaotisch is om te kijken. Er zijn 100 spelers dus je ziet nooit alle actie op tijd. Ook Rocket League heb ik een tijdje gevolgd maar dit vond ik ook niet heel erg boeiend. </p>
+    <h4>Ben je wel eens naar een gaming event geweest?</h4>
+    <p>Nee nog nooit maar ik zou het wel graag willen. Maar ik zou wel graag de sfeer een keer willen proeven en kijken hoe alles er aan toe gaat. Ik zou ook graag de handtekeningen van mijn favoriete spelers willen verzamelen.</p>
+    <h4>Voelt het minder erg aan om een paar ‘pixels’ te verliezen dan echt geld?</h4>
+    <p>Nee het voelt wel als echt geld voor me. Ik begon meestal juist met een kleine bett om zo een bedrag op te bouwen. Als ik dit dan verloor vond ik het wel jammer. Ook zijn er skins die ineens in waarde kunnen stijgen. Mocht je deze skin ooit in je bezit hebben gehad, dan baal je wel eventjes.</p>
+    <h4>Gebruik je een adblocker op streaming websites?</h4>
+    <p>Nee de reclames op Twitch worden niet geblokt bij mij. Ik heb wel een adblocker voor mijn webbrowser maar deze blokt Twitch niet.</p>
+    <h4>Wat voor reclames vind je irritant op streaming platforms?</h4>
+    <p>Reclames die ineens op heel hard staan als je een stream aanklikt. Verder heb ik een hekel aan reclames die niet relevant voor mij zijn. Dan denk ik ook van ja waarom krijg ik dit nou ineens te zien.</p>
+    <h4>Heb je een idee hoe je reclames op een leukere manier zou kunnen brengen aan de viewers? </h4>
+    <p>Het zou gaaf zijn als de reclame zich aanpast aan een specifieke gamer en wat hij aan doen is. Dan kan je relevante reclames tonen. Als je naar een gaming event kijkt zou het ook leuk zijn om ads te zien over het evenement of partners van het evenement.</p>
     <h4>Conclusie </h4>
     <p>De creative afdeling van Jos heeft nog vrij weinig op streaming en gaming gebied gedaan. Jos ziet wel in dat streaming groter aan het worden is en hier mogelijkheden liggen. In eerste instantie zat hij zelf te denken aan het promoten van producten aan influencers op YouTube of Twitch. Maar ook een tool als Loots lijkt hem interessant. Naast de gebruikelijke videobeelden denkt Jos ook verder dan dit. Wat zou bijvoorbeeld kunnen worden gedaan met audio of met de chat die op elke streaming website zit.</p>
     <button class="btn btn-outline-info mb-2" type="button" data-toggle="collapse" data-target="#interview-jos" aria-expanded="false" aria-controls="interview-jos">
     Sluit dit interview
+  </button>
+</div>
+
+<h3>
+    <a data-toggle="collapse" href="#conclusie" class="collapselink interview-name">Conclusie
+        <img src="/assets/img/icons/double-arrow.png" alt="#"/>
+    </a>
+</h3>
+<div class="collapse interview-david" id="conclusie">
+    <p>Wat opviel uit de interviews was dat de gamers vooral erg trouw zijn aan een video game die ze spelen. Vele jaren wordt dezelfde game gespeeld of blijven ze verbonden aan deze game. Ook kijken game fans anders aan tegen de echte eSporters en zij zijn eerder geneigd om hen als echte sporters te beschouwen. 
+    </p>
+    <p>Op reclamegebied worden de pre-rolls als irritant ervaren. En deze pre-rolls zijn vaak ook niet relevant voor de doelgroep van de game. Het zou veel beter zijn als dat reclames zouden gepersonaliseerd zijn op de kijker van een desbetreffende video game. Als deze reclames ook nog een interactie met gebeurtenissen in de stream zou hebben het helemaal mooi zijn. </p>
+    <button class="btn btn-outline-info mb-2" type="button" data-toggle="collapse" data-target="#conclusie" aria-expanded="false" aria-controls="conclusie">
+    Sluit conclusie
   </button>
 </div>
