@@ -96,3 +96,13 @@ section: document
 | Woensdag | Eerste concept animatie maken|
 | Donderdag | Meeting bedrijfsbegeleider, Interviews verwerken | 
 | Vrijdag | Interviews verwerken |
+
+### Week 10 04-11-2019 / 81-11-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Concept animatie voor Toto  | 
+| Dinsdag | Interview met video team, esportsX verder uitwerken|
+| Woensdag | Interviews toevoegen aan portfolio |
+| Donderdag | Meeting bedrijfsbegeleider, Interviews verwerken | 
+| Vrijdag | Concept animatie KPN |

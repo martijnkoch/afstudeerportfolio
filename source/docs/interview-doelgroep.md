@@ -187,8 +187,6 @@ Ik vind dat er meerdere sporten zijn waar je niet fysiek heel actief bezig bent 
     <p>Reclames ben ik tegenwoordig wel gewend. Het zit zo in onze cultuur dat je er niet meer omheen kan. Wel leg ik vaak mijn telefoon weg als ik een reclame moet kijken. Dan staat de reclame wel op maar dan focus ik er verder niet op. Als de reclame interessant is en bij de game past die ik wil kijken dan kijk ik wel sneller. </p>
     <h4>Heb je een idee hoe je reclames op een leukere manier zou kunnen brengen aan de viewers? </h4>
     <p>De reclames moeten je interesseren. Het moet iets zijn wat jij leuk vindt en het moet bij de doelgroep van de stream passen.  Zeker als je interaction wil creëren met je stream dan zou dit perfect zijn. Als er bij een event in de game wat gebeurt met de stream dan krijg je echt interaction. Na krijg je alleen interaction met een streamer op moment dat er een donation komt.</p>
-    <h4>Conclusie </h4>
-        <p> </p>
     <button class="btn btn-outline-info mb-2" type="button" data-toggle="collapse" data-target="#interview-david" aria-expanded="false" aria-controls="interview-david">
     Sluit dit interview
   </button>
@@ -225,8 +223,6 @@ Door al deze stappen wordt het imago van de eSporters verbeterd en zo worden ook
     <p>Reclames die ineens op heel hard staan als je een stream aanklikt. Verder heb ik een hekel aan reclames die niet relevant voor mij zijn. Dan denk ik ook van ja waarom krijg ik dit nou ineens te zien.</p>
     <h4>Heb je een idee hoe je reclames op een leukere manier zou kunnen brengen aan de viewers? </h4>
     <p>Het zou gaaf zijn als de reclame zich aanpast aan een specifieke gamer en wat hij aan doen is. Dan kan je relevante reclames tonen. Als je naar een gaming event kijkt zou het ook leuk zijn om ads te zien over het evenement of partners van het evenement.</p>
-    <h4>Conclusie </h4>
-    <p>De creative afdeling van Jos heeft nog vrij weinig op streaming en gaming gebied gedaan. Jos ziet wel in dat streaming groter aan het worden is en hier mogelijkheden liggen. In eerste instantie zat hij zelf te denken aan het promoten van producten aan influencers op YouTube of Twitch. Maar ook een tool als Loots lijkt hem interessant. Naast de gebruikelijke videobeelden denkt Jos ook verder dan dit. Wat zou bijvoorbeeld kunnen worden gedaan met audio of met de chat die op elke streaming website zit.</p>
     <button class="btn btn-outline-info mb-2" type="button" data-toggle="collapse" data-target="#interview-jos" aria-expanded="false" aria-controls="interview-jos">
     Sluit dit interview
   </button>

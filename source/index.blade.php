@@ -101,11 +101,11 @@
 				Toen er een genoeg literaire kennis was opgedaan zijn er <a href="/docs/interview-experts/">interviews</a> gehouden met experts binnen Greenhouse. Met de interviews is gekeken hoe dat zij tegen streaming en gaming aankijken. Waar zien zij mogelijkheden en in hoeverre zet Greenhouse streaming en gaming al in. 
 				</p>
 				<p>Om de doelgroep beter inzichtelijk te krijgen is er onderzoek gedaan naar <a href="/docs/esports-in-nederland/"> hoe groot gaming en streaming in Nederland zijn. </a> Daarnaast zijn er ook <a href="/docs/interview-doelgroep/">interviews</a> gehouden met de doelgroep. Aan de hand van deze interviews was het mogelijk om erachter te komen wat de doelgroep als irritant ervaart als zij streams kijken. En wat eventuele mogelijkheden zouden zijn om gepersonaliseerde reclame aan te bieden die beter bij de doelgroep past.  </p>
-				<p>
-				De bevindingen van het onderzoek zijn terug te lezen in een conclusie document. 
-				</p>
 				<h4>Concepting fase</h4>
-				<p>Om een goed beeld te krijgen van hoe streaming reclames eruit kunnen komen te zien zijn een aantal <a href="/docs/concept-animaties">animatie prototypes </a> gemaakt. Er is gekeken naar verschillende games en wat hierin mogelijkheden zijn tot animaties. Elke animatie heeft betrekking op een klant van Greenhouse. Zo zijn er concept animaties gemaakt voor: Toto, KPN, Vodafone, Volkswagen, Nike en Axe. Er is ook gekeken welke klant bij welke game zou passen.</p>
+				<p>Om een goed beeld te krijgen van hoe streaming reclames eruit kunnen komen te zien zijn een aantal <a href="/docs/concept-animaties">animatie prototypes </a> gemaakt. Er is gekeken naar verschillende games en wat hierin mogelijkheden zijn tot animaties. Elke animatie heeft betrekking op een klant van Greenhouse. Zo zijn er concept animaties gemaakt voor: Toto, Fox Sports en Mars.</p>
+				<p>Na de concept animaties is er gekeken wat er technisch nodig is om een eindproduct te verwezenlijken. De <a href="/docs/technisch-ontwerp">technische ontwerpschetsen </a>zijn besproken met het video team om te kijken wat er allemaal nodig is in de ontwikkelfase. De conclusie was dat er een online platform nodig is al tussenstuk voor de streamer en de developers van Greenhouse die de animaties maken. Als eerste is de  <a href="/docs/sitemap">sitemap</a> gemaakt om een overzicht te krijgen welke pagina’s er allemaal nodig zijn voor het online platform. Daarna is als eerste een <a href="/docs/inspiratiedocument">inspiratiedocument </a> aangelegd waarna vervolgens de <a href="/docs/wireframes">wireframes</a> zijn gecreëerd. Toen de wireframes af waren is het echt <a href="/docs/webdesign">webdesign </a> gemaakt. Ook zijn er drie <a href="/docs/personas"> persona’s </a>gemaakt, aan de hand van de persona’s zijn er <a href="/docs/user-stories">user stories</a> geschreven die tijdens het bouwen van het platform hebben geholpen. </p<>
+
+
 				<h4>Ontwikkelfase</h4>
 				<p></p>
 			</div>
