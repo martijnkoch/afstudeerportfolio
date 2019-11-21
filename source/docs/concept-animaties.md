@@ -22,12 +22,11 @@ Bekende Fifa streamer Koen Weijland scoort een goal en vervolgend verschijnt lin
     </video>
 </div>
 
-### 3. KPN 
-
-### 4. AXE
-
-### 5. Volkswagen
-
-### 6. Ziggo ad in Call of Duty 
-
-### 7. Nike 
+### 3. Mars ad na gewonnen ronde 
+Mars reclame na csgo ronde
+Nederlandse CSGO streamer Petra wint de ronde in Counter Strike Global Offensive. In de onderkant van het beeldscherm verschijnt een reclame die gaat over de nieuwe protein bars van Mars. De reclame is gemaakt met de huisstijl van Mars voor deze protein campagne. Deze reclames is een stuk groter en opvallender dan de vorige die gemaakt zijn. 
+<div align="center" class="embed-responsive embed-responsive-16by9">
+    <video loop controls class="embed-responsive-item">
+        <source src="/assets/video/mars-protein-bar.mp4" type="video/mp4">
+    </video>
+</div>
