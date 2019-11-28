@@ -97,7 +97,7 @@ section: document
 | Donderdag | Meeting bedrijfsbegeleider, Interviews verwerken | 
 | Vrijdag | Interviews verwerken |
 
-### Week 10 04-11-2019 / 81-11-2019
+### Week 10 04-11-2019 / 08-11-2019
 
 | Dag        | Werkzaamheden           |
 | ------------- |:-------------:| 
@@ -105,4 +105,44 @@ section: document
 | Dinsdag | Interview met video team, esportsX verder uitwerken|
 | Woensdag | Interviews toevoegen aan portfolio |
 | Donderdag | Meeting bedrijfsbegeleider, Interviews verwerken | 
-| Vrijdag | Concept animatie KPN |
+| Vrijdag | Concept animatie Mars |
+
+### Week 11 18-11-2019 / 22-11-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Persona's maken | 
+| Dinsdag | Portfolio website updates, Presentatie maken|
+| Woensdag | Terugkomdag Fontys |
+| Donderdag | Tussentijdse presentaties op bedrijf, sitemap maken | 
+| Vrijdag | Technisch ontwerp schetsen |
+
+### Week 12 18-11-2019 / 22-11-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Wireframes maken  | 
+| Dinsdag | Technisch ontwerp overleggen en aanpassen, Wireframes maken |
+| Woensdag | Wireframes maken |
+| Donderdag | Portfolio updaten | 
+| Vrijdag | Touchportal timeout intergratie gemaakt |
+
+### Week 13 25-11-2019 / 29-11-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Kleurpallet vaststellen, Web design maken  | 
+| Dinsdag | Web design maken |
+| Woensdag | Meeting met hoofd video team, Twitch API test  |
+| Donderdag | Portfolio updaten | 
+| Vrijdag | Touchportal visualisatie intergratie |
+
+### Week 14 25-11-2019 / 29-11-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Kleurpallet vaststellen, Web design maken  | 
+| Dinsdag | Web design maken |
+| Woensdag | Meeting met hoofd video team, Twitch API test  |
+| Donderdag | Portfolio updaten | 
+| Vrijdag | Laravel en Vuejs installeren en opzetten |

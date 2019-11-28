@@ -107,6 +107,11 @@
 
 
 				<h4>Ontwikkelfase</h4>
+				<h5 class="ontwikkelfase">Online platform</h5>
+				<p></p>
+				<h5 class="ontwikkelfase">Touchportal</h4>
+				<p>Een belangrijk aspect is dat de streamer in controle moet zijn wanneer hij/zij een reclame wil afspelen. Er is gekeken naar wat voor tools hier oplossingen in bieden. Er is gekozen voor het open source programma <a href="/docs/touchportal">TouchPortal</a>. Dit is een streaming deck dat gemakkelijk te openen is op een telefoon of tablet. Uiteindelijk is een <a href="/docs/touchportal-guide">guide</a> voor streamers opgesteld hoe zij precies TouchPortal moeten installeren en opzetten.</p>
+				<h5 class="ontwikkelfase">LemonPI</h5>
 				<p></p>
 			</div>
 		</div>

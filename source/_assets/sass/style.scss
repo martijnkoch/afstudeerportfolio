@@ -607,7 +607,7 @@ ol {
 	background: rgb(80, 23, 85);
 	/* Old browsers */
 	/* FF3.6-15 */
-	background: -webkit-linear-gradient(45deg, rgba(80, 23, 85, 1) 0%, rgba(45, 24, 84, 1) 100%);
+	background: -webkit-linear-gradient(45deg, rgb(80, 23, 85) 0%, rgba(45, 24, 84, 1) 100%);
 	/* Chrome10-25,Safari5.1-6 */
 	background: -o-linear-gradient(45deg, rgba(80, 23, 85, 1) 0%, rgba(45, 24, 84, 1) 100%);
 	background: linear-gradient(45deg, rgba(80, 23, 85, 1) 0%, rgba(45, 24, 84, 1) 100%);
@@ -2362,4 +2362,9 @@ hr {
 	h3 {
 		color: #ffffff;
 	}
+}
+
+.ontwikkelfase {
+		margin-top: 10px;
+		color: #43469e;
 }
