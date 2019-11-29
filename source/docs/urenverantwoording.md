@@ -107,7 +107,7 @@ section: document
 | Donderdag | Meeting bedrijfsbegeleider, Interviews verwerken | 
 | Vrijdag | Concept animatie Mars |
 
-### Week 11 18-11-2019 / 22-11-2019
+### Week 11 11-11-2019 / 15-11-2019
 
 | Dag        | Werkzaamheden           |
 | ------------- |:-------------:| 
