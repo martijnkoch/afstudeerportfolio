@@ -146,3 +146,23 @@ section: document
 | Woensdag | Meeting met hoofd video team, Twitch API test  |
 | Donderdag | Portfolio updaten | 
 | Vrijdag | Laravel en Vuejs installeren en opzetten |
+
+### Week 15 02-12-2019 / 06-12-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Laravel passport installeren en login en registratie gemaakt  | 
+| Dinsdag | Front-end pagina's maken|
+| Woensdag | Games toevoegen en image erbij  |
+| Donderdag | Met axios get calls maken naar de API | 
+| Vrijdag | Front-end webapp |
+
+### Week 16 09-12-2019 / 13-12-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Touchportal toggle + visualisatie, meeting met stagebegeleider | 
+| Dinsdag | Login met OAuth2 maken |
+| Woensdag |  Login met OAuth2 maken, login pagina front-end |
+| Donderdag | Tussentijdse presentatie maken, Content aanvullen op portfolio website | 
+| Vrijdag | |

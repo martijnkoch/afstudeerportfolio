@@ -30,9 +30,21 @@ In het stream programma OBS heb je verschillende lagen zitten net zoals in bijvo
 ![esports-geschiedenis](/assets/img/OBS-options.png "OBS options")
 
 Als de laag is toegevoegd aan OBS dan kan TouchPortal deze herkennen. Bij het aanmaken van een nieuwe button kan de bron van OBS de laag worden gekozen. Er zit automatisch als een toggle op de toegevoegde bron. Nu kan met je mobiel de layer worden aan en uitgezet.
-![esports-geschiedenis](/assets/img/touchportal-options.png "TouchPortal optoion")
-
+![esports-geschiedenis](/assets/img/touchportal-options.png "TouchPortal options")
 
 ### Hoe kan er een timer worden aangezet zodat reclames niet worden gespamt? 
- 
+ Als de streamer op een knop klikt om een reclame af te spelen is het de bedoeling dat er geen misbruik kan worden gemaakt. Zo is een scenario voor een reclame na een doelpunt bij Fifa. Dus alleen op die momenten zou de reclame mogen worden afgespeeld. 
+
+Als de reclame loopt moet er een timer worden ingebouwd die langer is dan de reclame. Daarna moet er nog een timer komen die als cooldown fungeert zodat de reclame niet weer meteen kan worden afgespeeld. 
+
+![esports-geschiedenis](/assets/img/touchportal-timer.png "TouchPortal timer")
+
 ### Hoe kan de visualisatie van de button worden veranderd als een reclame loopt?
+
+![esports-geschiedenis](/assets/img/touchportal-visualisatie.png "TouchPortal visualisatie")
+
+<div align="center" class="embed-responsive embed-responsive-16by9">
+    <video loop controls class="embed-responsive-item">
+        <source src="/assets/video/recording.mp4" type="video/mp4">
+    </video>
+</div>
