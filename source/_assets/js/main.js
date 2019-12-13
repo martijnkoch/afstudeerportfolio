@@ -7,6 +7,7 @@ require('owl.carousel/dist/owl.carousel');
 require('../js/jquery.slicknav.min');
 require('../js/jquery.magnific-popup.min');
 require('../js/jquery.sticky-sidebar.min');
+require('../js/flowplayer.min');
 require('../js/custom');
 
 hljs.registerLanguage('bash', require('highlight.js/lib/languages/bash'));
