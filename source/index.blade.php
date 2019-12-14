@@ -3,11 +3,11 @@
 	<!-- Leeswijzer section -->
 	<section class="hero-section overflow-hidden">
 		<div class="hero-slider owl-carousel">
-			<div class="hero-item set-bg d-flex align-items-center justify-content-center text-center leeswijzer-text" data-setbg="/assets/img/slider-bg-4.jpg">
+			<div class="hero-item set-bg d-flex align-items-center justify-content-center text-center leeswijzer-text" data-setbg="/assets/img/xypex.jpg">
 				<div class="container">
                     <div class="row">         
                         <h2>Leeswijzer</h2>
-                        <p>Martijn Koch heeft van september 2019 tot januari 2020 gewerkt aan zijn afstudeeropdracht bij Greenhouse te Eindhoven. Deze leeswijzer is een korte versie van het gehele procesverslag. Er is onderzoek gedaan naar de mogelijkheden tot marketing met betrekking op streaming platformen. Op deze platformen wordt vooral naar gameplay gekeken en ook worden hier eSport wedstrijden bekeken. Mochten deze termen onbekend zijn, dan adviseer ik u om op onderstaande button te klikken om naar een uitlegvideo over eSports te gaan.</p>
+                        <p>Martijn Koch heeft van september 2019 tot januari 2020 gewerkt aan zijn afstudeeropdracht bij <a href="https://www.greenhousegroup.com/" target="_blank">Greenhouse</a> te Eindhoven. Deze leeswijzer is een korte versie van het gehele procesverslag. Er is onderzoek gedaan naar de mogelijkheden tot marketing met betrekking op streaming platformen. Op deze platformen wordt vooral naar gameplay gekeken en ook worden hier eSport wedstrijden bekeken. Mochten deze termen onbekend zijn, dan adviseer ik u om op onderstaande button te klikken om naar een uitlegvideo over eSports te gaan.</p>
                         <a href="#" class="site-btn btn-hover">Ga naar video<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>     
                 	</div>
                 </div>

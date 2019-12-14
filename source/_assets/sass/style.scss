@@ -1720,10 +1720,14 @@ ol {
 		p{
 			margin-left: 15px;
 			margin-right: 15px;
+			text-shadow: 2px 2px black;
 		}
 	}
 	.site-btn{
 		margin-left: 15px;
+	}
+	.set-bg:first-child {
+		background-position: left;
 	}
 }
 
@@ -1984,10 +1988,18 @@ img[alt=gaben]{
 
 /* home page */
 .leeswijzer-text {
+	h2{
+		text-shadow: 1px 1px black;
+	}
 	p{
 		color: white;
 		font-size: 18px;
 		margin-bottom: 50px;
+		text-shadow: 1px 1px black;
+	}
+	a:first-child {
+		color: white;
+		font-weight: 700;
 	}
 }
 .producten {
