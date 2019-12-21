@@ -76,7 +76,10 @@
 				<div class="col-md-12">
 					<div class="intro-text-box text-box text-white">
 						<h3>Aanpak</h3>
-						<p>Om het project te structureren is gekozen om deze onder te verdelen in verschillende fases. Dit is gebaseerd op het Double Diamond ontwerpproces maar met ietwat andere benamingen. Het project bestaat uit de volgende fases: verkenningsfase, onderzoeksfase, concepting fase en ontwikkelfase. Gedurende elke fase is wekelijks gescrumd om de vooruitgang van het project te bespreken met mijn bedrijfsbegeleider. </p>
+						<p>Om het project te structureren is gekozen om deze onder te verdelen in verschillende fases. Dit is gebaseerd op het Double Diamond ontwerpproces maar met ietwat andere benamingen. Het project bestaat uit de volgende fases: verkenningsfase, onderzoeksfase, concepting fase en ontwikkelfase. Gedurende elke fase is wekelijks gescrumd om de vooruitgang van het project te bespreken met mijn bedrijfsbegeleider.
+						</p>
+						<p>
+						Tijdens elke fase is gebruik gemaakt van verschillende onderzoeksstrategieën van het DOT-framework. Iedere strategie is zorgvuldig gekozen en geselecteerd op de passende context binnen de opdracht.</p>
 					</div>
 				</div>
 			</div>
@@ -86,7 +89,7 @@
 
 	<!-- Uitvoering section -->
 	<section class="featured-section">
-		<div class="featured-bg set-bg" data-setbg="/assets/img/faze.jpeg"></div>
+		<div class="featured-bg set-bg" data-setbg="/assets/img/faze.jpg"></div>
 			<div class="featured-box uitvoering-section">
 				<h3>Uitvoering</h3>
 				<h4>Verkenningsfase</h4>
@@ -126,7 +129,10 @@
 				<div class="col-md-12">
 					<div class="intro-text-box text-box text-white">
 						<h3>Resultaat</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida....</p>
+						<p>Het resultaat van de afstudeeropdracht is voorgekomen uit verschillende vraagstukken die systematisch zijn beantwoord. Als eerste is uitgezoomd en gekeken naar de gaming wereld. Er is een duidelijk beeld gecreëerd welke games relevant zijn en hoe gaming en Nederland er uitziet. Ook is bestudeerd hoe adverteren momenteel wordt gedaan op streaming platform. Met de doelgroep is gesproken om te kijken hoe zij tegen deze reclames aankijken en wat een betere invulling voor hen zal zijn. Binnen het bedrijf is gesproken met experts om te kijken hoe zij tegen gaming aankijken en waar zij mogelijkheden zien. Aan de hand hiervan is een concept ontstaan om meer gepersonaliseerde reclames te tonen aan de doelgroep voor desbetreffende games.
+						</p>
+						<p>
+						Om dit te verwezenlijken is het noodzakelijk om een tussenplatform te hebben waar de streamer reclames te vinden om in te laden in de streaming software. De architectuur van het platform is gemaakt door middel van een sitemap waarna de wireframes zijn gemaakt. Hier is aan de hand van feedback een definitief webdesign voor gemaakt. Aan de hand van de wireframes is een MVP van het online platform gemaakt. Het platform in combinatie van TouchPortal en OBS zorgt voor een product dat werken is. Echter zijn er nog veel vervolgstappen en deze zijn terug te vinden in het adviesrapport.</p>
 					</div>
 				</div>
 			</div>
@@ -141,7 +147,20 @@
 				<div class="col-md-12">
 					<div class="intro-text-box text-box text-white">
 						<h3>Reflectie</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida....</p>
+						<p>De stageperiode bij Greenhouse was een zeer leerzame en fijne periode. Omdat Greenhouse zo groot is heb ik bij Greenhouse met veel mensen van verschillende disciplines mogen samenwerken. Zij gaven vanuit verschillende invalshoeken feedback en keken anders naar mijn project. Dit heeft ervoor gezorgd dat er afwegingen moesten worden gemaakt in de concepting fase.
+						</p>
+						<p>
+						Ik denk dat er een sterk concept ligt dat zeker nog verder kan worden uitgebreid en kan worden ingezet op meerdere platforms. Zelf heb ik er meer op concept en creatie gezeten en op marketinggebied is er niet veel over nagedacht. Dit zou een op zichzelf staande opdracht kunnen zijn.
+						</p>
+						<p>
+						Het is eigenlijk vreemd dat er nog amper advertentiemogelijkheden zijn op streaming platforms. En die advertentiemogelijkheden die er nu zijn worden vaak als irritant gevonden door de doelgroep. Deze vorm van adverteren is subtieler en zit de gameplay niet in de weg voor de kijker. De streamer kan inloggen op het platform en gemakkelijk reclames toegevoegd aan OBS. Er zijn guides aanwezig voor meer ondersteuning. Het opzetten van OBS en TouchPortal kan als uitdagend worden gevonden. Maar als alle linkjes goed staan hoeft de content aan de achterkant alleen worden ververst en hier hoeft de streamer niet meer naar te kijken.
+						</p>
+						<p>
+						Het bouwen van het platform was een leuke maar spannende fase. Ik had al wel enige ervaring met Vue maar met Laravel nog vrijwel niets. Sowieso was het maken van een API een hele nieuwe ervaring. De API maken in laravel ging eigenlijk vrij goed, ondanks dat sommige onderdelen vrij tricky waren zoals image en video upload. Ook de login met Oauth2 was een pittige uitdaging. Dit is een vrij nieuwe methode en er was nog niet veel informatie over te vinden. Aan de front-end ging het best goed. Ik had al enige Vue ervaring en ik kon het project dan ook snel opzetten. Het werken met Axios voor de eerste keer was ook een uitdaging, ik had nog nooit met deze library gewerkt. Toen het eenmaal liep allemaal zag ik snel de kracht van de API en de mogelijkheden die het allemaal gaf.
+						</p>
+						<p>
+						Ik wil mijn bedrijfsbegeleider Tim Deynen en schoolbegeleider David Schol hartelijk danken voor hun betrokkenheid dit project. Zij hebben mij voorzien van zeer goede feedback waar ik steeds meer verder kon. Ik kijk terug op een geslaagd en zeer leuk project waar ik veel van heb geleerd. Verder wil ik iedereen binnen Greenhouse bedanken en de mede stagiaires waar het altijd erg gezellig mee was!
+						</p>
 					</div>
 				</div>
 			</div>
@@ -151,7 +170,7 @@
 
 	<!-- Bewijs section -->
 	<section class="featured-section">
-		<div class="featured-bg set-bg" data-setbg="/assets/img/fnatic.jpeg"></div>
+		<div class="featured-bg set-bg" data-setbg="/assets/img/fnatic.jpg"></div>
 			<div class="featured-box uitvoering-section">
 				<h3>Bewijs</h3>
 				<div class="bewijs-item">
@@ -161,9 +180,10 @@
 				</div>
 				<div class="bewijs-item">
 					<h4>2.1 Toepassen Kennis en Inzicht - Beheer</h4>
-					<p>GGedurende de afstudeerstage is er gebruikt gemaakt van de Scrum methode. Elke week heeft er een meeting met mijn stagebegeleider plaatsgevonden. Om voor hem en mij zelf inzichtelijk wat er allemaal moest gebeuren is er een Trello gemaakt met backlogs voor verschillende onderdelen van de stageopdracht.  
-
-					Op development vlak is vanaf het begin gebruik gemaakt van GIT voor de versie controle van de portfolio website. Ook is het prototype van het online platform op GIT gezet. 
+					<p>Gedurende de afstudeerstage is er gebruikt gemaakt van de Scrum methode. Elke week heeft er een meeting met mijn stagebegeleider plaatsgevonden. Om voor hem en mijzelf inzichtelijk te maken wat er allemaal moest gebeuren, is er een Trello gemaakt met backlogs voor verschillende onderdelen van de stageopdracht.  
+					</p>
+					<p>
+					Op development vlak is vanaf het begin gebruikgemaakt van GIT voor de versie controle van de portfolio website. Ook is het prototype van het online platform op GIT gezet. 
 					</p>
 					<a href="https://github.com/martijnkoch/afstudeerportfolio" class="read-more mb-3">Github portfolio website</a><br>
 					<a href="https://github.com/martijnkoch/greenhouse" class="read-more mb-3">Github prototype</a><br>
@@ -171,17 +191,24 @@
 				</div>
 				<div class="bewijs-item">
 					<h4>2.2 Toepassen Kennis en Inzicht - Analyse</h4>
+					<p>Aan het begin van de stage was er nog weinig bekend over de gaming en streaming wereld. Binnen Greenhouse waren wel enkele projecten gedaan met betrekking tot gaming. Maar deze waren altijd maar tijdelijk en op continue basis adverteren werd totaal niet gedaan. Als eerste is gekeken naar de geschiedenis van gaming. Hoe is gaming zo snel groot geworden en welke populaire games zijn er. Vervolgens is ingezoomd op Nederland en bekeken hoe groot gaming hier is en welke games er populair zijn. </p>
+					<p>
+					Verder zijn er interviews gehouden met experts en met de doelgroep. Door de interviews met experts kon worden geconcludeerd wat Greenhouse met gaming doet / heeft gedaan en waar zij mogelijkheden zien tot adverteren. Er is ontdekt waarom de doelgroep een bepaalde game lange tijd kan spelen en volgen. En wat op streaming websites als irritante reclames wordt ervaren. </p>
+					<a href="http://afstudeerportfolio.herrkoch.nl/docs/literatuurstudie" class="read-more pb-3">Literatuurstudie</a><br>
+					<a href="/docs/esports-in-nederland/" class="read-more pb-3"> Doelgroep analyse Nederland </a><br>
+					<a href="/docs/interview-experts/" class="read-more pb-3"> Interview experts </a><br>
+					<a href="/docs/interview-doelgroep/" class="read-more pb-3"> Interview doelgroep </a><br>
 				</div>
 				<div class="bewijs-item">
 					<h4>2.3 Toepassen Kennis en Inzicht - Advies</h4>
-					<p>Een belangrijk onderdeel was de opdracht was om mensen advies te geven en uitleg te verschaffen. Zo is het enerzijds belangrijk om streamers te adviseren hoe zijn OBS en Touchportal het beste kunnen opzetten en hoe reclames kunnen worden toegevoegd. Anderzijds is het belangrijk om Greenhouse te adviseren hoe de video reclames moeten worden aangeleverd en hoe het platform verder kan worden ingericht. Ik heb zelf meer voor het concept en realisatie gezorgd maar op marketing vlak liggen nog een aantal interessante vraagstukken. Meer hierover is terug te lezen in het adviesrapport. </p>
+					<p>Een belangrijk onderdeel van de opdracht was om mensen advies te geven en uitleg te verschaffen. Zo is het enerzijds belangrijk om streamers te adviseren hoe zij OBS en Touchportal het beste kunnen opzetten en hoe reclames kunnen worden toegevoegd. Anderzijds is het belangrijk om Greenhouse te adviseren hoe de video reclames moeten worden aangeleverd en hoe het platform verder kan worden ingericht. Ik heb zelf meer voor het concept en realisatie gezorgd maar op marketing vlak liggen nog een aantal interessante vraagstukken. Meer hierover is terug te lezen in het adviesrapport. </p>
 					<a href="https://afstudeerportfolio.herrkoch.nl/docs/advies-rapport/" class="read-more mb-3">Advies Rapport</a><br>
 				</div>
 				<div class="bewijs-item">
 					<h4>2.4 Toepassen Kennis en Inzicht - Ontwerp</h4>
 					<p>Gedurende het project zijn verschillende ontwerpen gemaakt. Om de gepersonaliseerde video’s te visualiseren zijn als eerste concept animaties gemaakt. </p>
 					<p>
-					Toen de technische schetsen er lagen is het ontwerp van het online platform begonnen. Als eerste is er een sitemap gemaakt om vast te stellen welke pagina’s er allemaal aanwezig zullen zijn. Vervolgens zijn de wireframes gemaakt en uiteindelijk de echte website designs. Ook zijn van de website designs een clickable Adobe XD prototype van gemaakt.  
+					Toen de technische schetsen er lagen is het ontwerp van het online platform begonnen. Als eerste is er een sitemap gemaakt om vast te stellen welke pagina’s er allemaal aanwezig zullen zijn. Vervolgens zijn de wireframes gemaakt en uiteindelijk de echte website designs. Ook is er van de website designs een clickable Adobe XD prototype gemaakt.  
 					Daarnaast zijn er verschillende buttons ontwerpen gemaakt voor TouchPortal.
 					</p>
 					<a href="https://afstudeerportfolio.herrkoch.nl/docs/concept-animaties/" class="read-more mb-3">Concept Animaties</a><br>
@@ -193,16 +220,30 @@
 				</div>
 				<div class="bewijs-item">
 					<h4>2.5 Toepassen Kennis en Inzicht - Realisatie</h4>
+					<p>Toen alle designs klaar waren is er overlegd met het development team over welke stack gebruikt zou worden. De keus is komen te liggen op Laravel aan de backend, Vue aan de frontend en MYSQL als database. Er zijn verschillende dependencies geïnstalleerd met behulp van composer (backend) en NPM (frontend). De versiebeheer is verzorgd door GitHub. Ook is de logic achter de buttons voor TouchPortal gerealiseerd. </p>
+					<a href="https://github.com/martijnkoch/greenhouse" class="read-more mb-3">Github prototype</a>
+					<a href="/docs/backend" class="read-more mb-3">Backend </a><br>
+					<a href="/docs/frontend" class="read-more mb-3">Frontend </a><br>
+					<a href="/docs/touchportal" class="read-more mb-3">TouchPortal </a><br>
+					<a href="https://github.com/martijnkoch/greenhouse" class="read-more mb-3">Github prototype</a>
 				</div>
 				<div class="bewijs-item">
 					<h4>3. Oordeelsvorming</h4>
+					<p>De opdracht is onderverdeeld in verschillende fases om het project te structureren. In het begin is het projectdocument gemaakt om de opdracht beter vast te stellen. In het projectdocument zijn de eerste deelvragen geformuleerd om het project in grote lijnen op te zetten. Later was niet elke deelvraag meer even relevant voor het onderzoek. Voor verschillende onderzoeken en opdrachten zijn verschillende onderzoeksmethodes gebruikt van het DOT-framework. </p>
+					<a href="http://afstudeerportfolio.herrkoch.nl" class="read-more pb-3">Portfolio</a><br>
+					<a href="http://afstudeerportfolio.herrkoch.nl/docs/literatuurstudie" class="read-more pb-3">Literatuurstudie</a><br>
+					<a href="http://afstudeerportfolio.herrkoch.nl/docs/esportsx" class="read-more pb-3">eSportsx</a><br>
+					<a href="http://afstudeerportfolio.herrkoch.nl/docs/interview-experts" class="read-more pb-3">Interview experts</a><br>
+					<a href="http://afstudeerportfolio.herrkoch.nl/docs/interview-doelgroep" class="read-more pb-3">Interview doelgroep</a><br>
 				</div>
 				<div class="bewijs-item">
 					<h4>4. Communicatie</h4>
 					<p>
-					Zowel schriftelijk en mondeling heb ik mij zo professioneel geprobeerd te uiten. Ik heb veel presentaties gehouden gedurende de stageperiode om mijn concept aan verschillende partijen van en rondom Greenhouse te pitchen. Zo zijn er binnen het bedrijf elke maand presentaties gehouden voor alle stagiaires en begeleiders om elkaar op de hoogte te houden van de progressie. Op school heb ik een tussentijdse presentatie gehouden en als ik interviews ging houden werd mijn opdracht en concept ook kort besproken in het begin. </p>
+					Zowel schriftelijk als mondeling heb ik mij zo professioneel mogelijk geprobeerd te uiten. Ik heb veel presentaties gehouden gedurende de stageperiode om mijn concept aan verschillende partijen van en rondom Greenhouse te pitchen. Zo zijn er binnen het bedrijf elke maand presentaties gehouden voor alle stagiaires en begeleiders om elkaar op de hoogte te houden van de progressie. Op school heb ik een tussentijdse presentatie gehouden en als ik interviews ging houden werden mijn opdracht en concept ook kort besproken in het begin. 
+					</p>
 					<p>
-					Elke week had ik een meeting met mijn bedrijfsbegeleider waarin we bespreken wat ik had gedaan en of ik op de juist manier bezig was. Ook heb ik met trello gewerkt om mijn begeleider op de hoogte te houden waar ik precies mee bezig was. Dit gaf ook veel structuur voor mijzelf. Tevens heb ik voor elke dag een urenverantwoording gemaakt waar ik kort aangaf wat ik heb gedaan. Aangezien mijn bedrijfsbegeleider veel mensen binnen Greenhouse kent heeft hij er geregeld voor gezorgd dat we met verschillende partijen binnen Greenhouse mijn concept gingen bespreken.</p>
+					Elke week had ik een meeting met mijn bedrijfsbegeleider waarin we bespraken, wat ik had gedaan en of ik op de juiste manier bezig was. Ook heb ik met Trello gewerkt om mijn begeleider op de hoogte te houden waar ik precies mee bezig was. Dit gaf ook veel structuur voor mijzelf. Tevens heb ik voor elke dag een urenverantwoording gemaakt waar ik kort aangaf wat ik had gedaan. Aangezien mijn bedrijfsbegeleider veel mensen binnen Greenhouse kent heeft hij er geregeld voor gezorgd, dat we met verschillende partijen binnen Greenhouse mijn concept gingen bespreken.
+					</p>
 					<p>
 					Intern heeft de communicatie plaatsgevonden via Slack. Zowel de communicatie binnen Greenhouse als met mijn afstudeerbegeleider en mede afstudeerders. </p>
 					<p>
@@ -215,7 +256,7 @@
 				</div>
 				<div class="bewijs-item">
 					<h4>5. Leervermogen </h4>
-					<p> Gedurende het hele project heb ik mij niet tegen laten houden door uitdagingen. Zo heb ik op development vlak met technieken gewerkt waar ik nog niet veel ervaring mee had. Ik heb meer interviews gehouden voor een project dan ooit tevoren en ik heb het gevoel dat er een uniek concept staat dat veel potentie heeft. Het concept werd altijd positief ontvangen door verschillende partijen. Het project is zeker nog niet af maar ik staat wel een mooi begin van waaruit verder kan worden gewerkt. Voor de competenties gedurende het project die mijn leervermogen toelichten raad ik u aan verder te kijken op het afstudeerportfolio. </p>
+					<p> Gedurende het hele project ben ik de uitdagingen aangegaan. Zo heb ik op development vlak met technieken gewerkt, waar ik nog niet veel ervaring mee had. Ik heb meer interviews gehouden voor een project dan ooit tevoren en ik heb het gevoel, dat er een uniek concept staat dat veel potentie heeft. Het concept werd altijd positief ontvangen door verschillende partijen. Het project is zeker nog niet af. Maar er ligt een mooi begin van waaruit verder kan worden geborduurd. Voor de competenties gedurende het project die mijn leervermogen toelichten, raad ik u aan verder te kijken op het afstudeerportfolio. </p>
 					<a href="https://afstudeerportfolio.herrkoch.nl/" class="read-more mb-3">Portfolio website</a>
 				</div>
 			</div>
