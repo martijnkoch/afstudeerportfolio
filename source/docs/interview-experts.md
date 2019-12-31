@@ -85,10 +85,6 @@ section: document
             <td>Visie</td>
             <td>- Hoe essentieel vind je het dat Greenhouse zich ook op streaming platforms gaat richten?<br> - Heb je nog andere ideeën om gaming en streaming in te zetten voor marketingcampagnes?</td>
         </tr>
-        <tr>
-            <td>Loots</td>
-            <td>- Zou Loots een tool kunnen zijn die Greenhouse zou helpen met marketing?<br> - Is het mogelijk om een tools in eigen organisatie te ontwikkelen</td>
-        </tr>
         <tbody>
     </table> 
     <button class="btn btn-outline-info mb-2" type="button" data-toggle="collapse" data-target="#opzet-interview" aria-expanded="false" aria-controls="opzet-interview">
@@ -104,14 +100,15 @@ section: document
     <h4>Kan je uitleggen wat de media kant van Greenhouse precies doet?</h4>
     <p>De media kant binnen Greenhouse is verantwoordelijk voor het aankopen van advertentieruimtes binnen platforms. </p>
     <h4>Wat is jouw rol binnen media?</h4>
-    <p>Binnen media is een kant die zich richt op social, hier maak ik deel van uit. Als Greenhouse hebben wij een aantal grote telecom klanten die gamers probeert aan te spreken. Dit onder de noemer van, wij hebben het beste netwerk en de hoogste netwerk snelheid.</p>
+    <p>Binnen media is een kant die zich richt op social, hier maak ik deel van uit. Wij adverteren veel op social media zoals Facebook en Instagram. Het media team kijkt voor een klant welke platforms het beste zullen werken voor een campagne en wat de ROI(return on investment) zal zijn. Voor ons is het belangrijk om te weten wat een platform precies op zal leveren voor de klant.</p>
     <h4>Wordt er op gaming en streaming gebied al advertentieruimte ingekocht?</h4>
-    <p>In de tijd dat ik bij Blossom werkte een paar jaar geleden hebben we gekeken of we een Twitch campagne konden opstarten. We hebben met de accountmanager van Twitch gesproken, maar er waren een hoop voorwaardes waar we toen niet aan konden voldoen. Ik denk dat er momenteel nog steeds weinig mee wordt gedaan. Greenhouse is een groot bedrijf dus het kan dat het elders binnen het bedrijf wel gebeurt, maar daar heb ik geen idee van.</p>
+    <p>In de tijd dat ik bij Blossom werkte een paar jaar geleden hebben we gekeken of we een Twitch campagne konden opstarten. We hebben met de accountmanager van Twitch gesproken, maar er waren een hoop voorwaardes waar we toen niet aan konden voldoen. Zo moet er er onder andere een hoog startbedrag worden ingelegd om überhaupt op Twitch te mogen adverteren.</p><p>Ik denk dat er momenteel nog steeds weinig met gaming wordt gedaan. Maar Greenhouse is een groot bedrijf dus het kan dat het elders binnen het bedrijf wel gebeurt, maar daar heb ik dan geen idee van. </p>
     <h4>Hoe essentieel vind je het dat Greenhouse zich ook op streaming platforms gaat richten?</h4>
-    <p>Ik dat dat streaming platforms voor veel van onze klanten goede potentie heeft. Intern moet wel meer kennis worden vergaard over wie er precies kijkt naar bepaalde games. Er zal nu worden gezegd, leeftijd A tot B kijkt veel Fifa. Dus gaan we adverteren op Twitch. 
-    Ook zit een valkuil in het sponsoren van grote streamers. Deze grote streamers hebben een grote reach maar wel internationaal. En streamers die alleen in het Nederlands streamen zijn vaak veel te klein om hier wat mee te kunnen doen. Als je grote Nederlandse streamers hebt dan kun je deze prima benaderen. Je zou ook op Nederlandse gaming events kunnen promoten, maar ook deze zijn vaak relatief klein en hebben een te kleine reach. 
-    Een andere risico van streamers is dat je met live content te maken hebt. Een streamer kan een fout woord zeggen of er kan iets raars op stream gebeuren en dan wil je niet dat je merk wordt geassocieerd met die streamer. Een YouTube filmpje kan nog altijd worden ge-edit zodat bepaalde blunders er niet in komen. Je moet een klant ook brand safety kunnen waarborgen.
+    <p>Ik dat dat streaming platforms voor veel van onze klanten goede potentie heeft. Als Greenhouse hebben wij een aantal grote telecom klanten die gamers probeert aan te spreken. Dit onder de noemer van, wij hebben het beste netwerk en de hoogste netwerk snelheid. Voor hen zal de gaming doelgroep bijvoorbeeld ideaal zijn om te adverteren.
     </p>
+    <p>Intern moet wel meer kennis worden vergaard over wie er precies kijkt naar bepaalde games. Er zal nu worden gezegd, leeftijd A tot B kijkt veel Fifa. Dus gaan we adverteren op Twitch. En gamers worden gezien als een grote groep. Dit is hetzelfde als dat je zegt ‘sportfans’, terwijl iedereen weet dat een voetbalfan en een korfbal fan hele verschillende mensen zijn. </p>
+    <p>Ook zit een valkuil in het sponsoren van grote streamers. Deze grote streamers hebben een grote reach maar wel internationaal. En streamers die alleen in het Nederlands streamen zijn vaak veel te klein om hier wat mee te kunnen doen. Als je grote Nederlandse streamers hebt dan kun je deze prima benaderen. Je zou ook op Nederlandse gaming events kunnen promoten, maar ook deze zijn vaak relatief klein en hebben een te kleine reach.</p>
+    <p>Een andere risico van streamers is dat je met live content te maken hebt. Een streamer kan een fout woord zeggen of er kan iets raars op stream gebeuren en dan wil je niet dat je merk wordt geassocieerd met die streamer. Een YouTube filmpje kan nog altijd worden ge-edit zodat bepaalde blunders er niet in komen. Je moet een klant ook brand safety kunnen waarborgen.</p>
     <button class="btn btn-outline-info mb-2" type="button" data-toggle="collapse" data-target="#interview-noel" aria-expanded="false" aria-controls="interview-noel">
     Sluit dit interview
   </button>
@@ -143,7 +140,6 @@ section: document
     <p>Ik denk dat het voor veel automerken bijvoorbeeld tof zou kunnen zijn om meer met 360 livestreaming te doen. Dit kan voor de introductie van nieuwe auto’s, maar ook om performance te laten zien. Ik zou het bijvoorbeeld te gek vinden om een nieuwe Audi een wedstrijd te zien doen tegen, let’s say, een Apache helikopter. Puur om te laten zien hoe snel hij optrekt van 0-100, maar ook wegligging, remafstand, etc. Ik denk ook dat er voor bijna elk merk een samenwerking met BN’ers/ YouTubers/ Twitch-streamers of andere influencers te verzinnen is waarin je extra relevantie kunt toevoegen door dieper op onderwerpen in te gaan. Mensen meten hun eigen beslissingen graag af aan de hand van wat anderen doen, en door dit visueel (of luisterbaar op Spotify middels een podcast) te maken is dit veel behapbaarder voor de ontvanger. The possibilities are endless.</p>
     <h4>Conclusie </h4>
         <p>Blossom, de afdeling binnen Greenhouse waar David voor werkt heeft al veel projecten op gaming gebied gedaan. Deze projecten zijn altijd erg creatief en het zijn projecten die ludiek zijn en maar een korte periode duren. 
-
 David is een echte liefhebber van gaming die graag ziet dat de content van de streamer zelf niet wordt aangetast. Hij voelt wel dat streaming een opkomend fenomeen is waar veel kansen liggen, meer dan op het gaming vlak ansich. Vooral om bekende YouTubers of Twitch streamers bij een bepaald merk te betrekken. Ook moet de soort reclame goed gebaseerd zijn op de gebruiker en niet als vervelend worden ervaren. </p>
     <button class="btn btn-outline-info mb-2" type="button" data-toggle="collapse" data-target="#interview-david" aria-expanded="false" aria-controls="interview-david">
     Sluit dit interview
@@ -167,13 +163,8 @@ Hiervoor was ik een ontwikkelaar binnen de creative craft. Ik richtte mij toen v
     <p>Ik zat te denken om streamers op bijvoorbeeld een Twitch producten te laten promoten. Zo kan je jouw merk bekend maken door middel van een influencer. Dit kan zowel op streams gebeuren als later nog in Youtube video’s.  
     Het is ook interessant om te kijken buiten de content, het video gedeelte van streams wat er nog meer mogelijk is qua advertisement. Ik zou dus niet aan de video content komen, maar je hebt bijvoorbeeld ook een chat die mogelijkheden kan geven. Voor mijn gevoel is dat gebruiksvriendelijker. En wellicht kan je dan de streamer geen controle over de reclames laten hebben. Dan kan je op vaste basis reclames laten runnen. Een Greenhouse moet op een vaste basis inkomsten kunnen genereren aan een streaming website.  
     Je zou ook nog kunnen kijken of je audio kan verwerken als advertentievorm. Zo kan je wel het visuele aspect van een stream in tact houden en toch reclame doorvoeren.</p>
-    <h4>Zou Loots een tool kunnen zijn die Greenhouse zou helpen met marketing?</h4>
-    <p>Op deze manier block je wel een deel van de content. Dit is wellicht iets wat ik als streamer niet zou willen maar het is wel een interessante optie. De vraag is wel hoe precies dit werkt om advertentie plek in te kopen. 
-    Het zou goed zijn om de streamer zelf controle te laten geven over wanneer zij een ad willen runnen en voor hoe lang. Dan kan je streamer daar bijvoorbeeld ook rekening mee houden voor de gameplay.</p>
-    <h4>Is het mogelijk om een tools in eigen organisatie te ontwikkelen?</h4>
-    <p>Je zou LemonPi kunnen inzetten om hierin de Ads op te slaan. Maar als een goede tool al bestaat zou ik niet proberen om het wiel opnieuw uit te vinden. Als dit goed werkt en genoeg mensen gebruiken het, dan zou ik dit gewoon gebruiken. </p>
     <h4>Conclusie </h4>
-    <p>De creative afdeling van Jos heeft nog vrij weinig op streaming en gaming gebied gedaan. Jos ziet wel in dat streaming groter aan het worden is en hier mogelijkheden liggen. In eerste instantie zat hij zelf te denken aan het promoten van producten aan influencers op YouTube of Twitch. Maar ook een tool als Loots lijkt hem interessant. Naast de gebruikelijke videobeelden denkt Jos ook verder dan dit. Wat zou bijvoorbeeld kunnen worden gedaan met audio of met de chat die op elke streaming website zit.</p>
+    <p>De creative afdeling van Jos heeft nog vrij weinig op streaming en gaming gebied gedaan. Jos ziet wel in dat streaming groter aan het worden is en hier mogelijkheden liggen. In eerste instantie zat hij zelf te denken aan het promoten van producten aan influencers op YouTube of Twitch. Naast de gebruikelijke videobeelden denkt Jos ook verder dan dit. Wat zou bijvoorbeeld kunnen worden gedaan met audio of met de chat die op elke streaming website zit. Dit is zeker een interessant aspect om mee te nemen.</p>
     <button class="btn btn-outline-info mb-2" type="button" data-toggle="collapse" data-target="#interview-jos" aria-expanded="false" aria-controls="interview-jos">
     Sluit dit interview
   </button>

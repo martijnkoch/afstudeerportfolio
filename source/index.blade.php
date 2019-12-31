@@ -221,7 +221,7 @@
 				<div class="bewijs-item">
 					<h4>2.5 Toepassen Kennis en Inzicht - Realisatie</h4>
 					<p>Toen alle designs klaar waren is er overlegd met het development team over welke stack gebruikt zou worden. De keus is komen te liggen op Laravel aan de backend, Vue aan de frontend en MYSQL als database. Er zijn verschillende dependencies geïnstalleerd met behulp van composer (backend) en NPM (frontend). De versiebeheer is verzorgd door GitHub. Ook is de logic achter de buttons voor TouchPortal gerealiseerd. </p>
-					<a href="https://github.com/martijnkoch/greenhouse" class="read-more mb-3">Github prototype</a>
+					<a href="https://github.com/martijnkoch/greenhouse" class="read-more mb-3">Github prototype</a><br>
 					<a href="/docs/backend" class="read-more mb-3">Backend </a><br>
 					<a href="/docs/frontend" class="read-more mb-3">Frontend </a><br>
 					<a href="/docs/touchportal" class="read-more mb-3">TouchPortal </a><br>

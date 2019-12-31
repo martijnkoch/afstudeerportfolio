@@ -4,8 +4,9 @@ description: Web Desings
 extends: _layouts.document
 section: document
 ---
+<h6>Ook beschikbaar als PDF <a href="/assets/pdf/martijn_koch_web_desings.pdf" target="_blank" class="read-more"><img src="/assets/img/icons/iconmonstr-download-11.svg" class="pdf-icon"/></a></h6>
 
-# Web Desings
+# Web designs
 
 ![](/assets/img/webdesings/loginpage.png "Touchportal Mobile")
 

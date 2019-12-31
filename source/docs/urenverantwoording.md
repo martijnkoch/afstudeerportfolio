@@ -157,12 +157,32 @@ section: document
 | Donderdag | Met axios get calls maken naar de API | 
 | Vrijdag | Front-end webapp |
 
-### Week 16 09-12-2019 / 13-12-2019
+### Week 16 16-12-2019 / 20-12-2019
 
 | Dag        | Werkzaamheden           |
 | ------------- |:-------------:| 
 | Maandag | Touchportal toggle + visualisatie, meeting met stagebegeleider | 
-| Dinsdag | Login met OAuth2 maken |
-| Woensdag |  Login met OAuth2 maken, login pagina front-end |
-| Donderdag | Tussentijdse presentatie maken, Content aanvullen op portfolio website | 
-| Vrijdag | |
+| Dinsdag | Fontys bezoeken |
+| Woensdag |  Leen laptop opgehaald |
+| Donderdag | Programma's installeren | 
+| Vrijdag | Ad controller en model |
+
+### Week 17 23-12-2019 / 27-12-2019
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Video upload voor reclame| 
+| Dinsdag | One to many relation voor game en ads |
+| Woensdag |  __Feestdag__ |
+| Donderdag | __Feestdag__ | 
+| Vrijdag | Scene toevoegen voor reclame, meerdere axios calls |
+
+### Week 18 30-12-2019 / 03-01-2020
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Profile pagina front-end, api endpoints | 
+| Dinsdag | OBS guide maken |
+| Woensdag |  __Feestdag__ |
+| Donderdag | Touchportal guide maken | 
+| Vrijdag | Guides op website zetten |
