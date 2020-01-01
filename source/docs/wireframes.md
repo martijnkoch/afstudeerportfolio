@@ -6,6 +6,8 @@ section: document
 ---
 <h6>Ook beschikbaar als PDF <a href="/assets/pdf/martijn_koch_wireframes.pdf" target="_blank" class="read-more"><img src="/assets/img/icons/iconmonstr-download-11.svg" class="pdf-icon"/></a></h6>
 
+<h6>Adobe XD clickable prototype <a href="https://xd.adobe.com/view/8c581562-67ee-45ec-6285-246a271a3b92-fa69/" target="_blank" class="read-more"><img src="/assets/img/icons/iconmonstr-download-11.svg" class="pdf-icon"/></a></h6>
+
 # Wireframes
 
 ![](/assets/img/wireframes/loginpage.png "Touchportal Mobile")
@@ -18,7 +20,7 @@ section: document
 
 ![](/assets/img/wireframes/fifa-setup.png "Touchportal Mobile")
 
-![](/assets/img/wireframes/profile-page.png "Touchportal Mobile")
+![](/assets/img/wireframes/profilepage.png "Touchportal Mobile")
 
 ![](/assets/img/wireframes/stream-setup.png "Touchportal Mobile")
 
