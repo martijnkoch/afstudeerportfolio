@@ -1373,7 +1373,8 @@ ol {
 }
 
 .big-blog-item {
-	margin-bottom: 65px;
+	margin-bottom: 50px;
+	margin-top: 50px;
 	.blog-thumbnail {
 		margin-bottom: 30px;
 	}
@@ -1754,7 +1755,7 @@ ol {
 	h6 {
 		color: #d5d3de;
 		font-size: 16px;
-		margin-bottom: 10px;
+		margin-bottom: 40px;
 	}
 	p {
 		color: #d5d3de;
@@ -1784,6 +1785,9 @@ img[alt=code] {
 
 img[alt=organogram] {
 	max-width: 70%;
+}
+img[alt=router] {
+	max-width: 40%;
 }
 
 /* Urenverantwoording table */

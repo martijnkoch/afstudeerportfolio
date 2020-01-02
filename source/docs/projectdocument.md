@@ -4,7 +4,6 @@ description: Het projectdocument
 extends: _layouts.document
 section: document
 ---
-<h6>Ook beschikbaar als PDF <a href="/assets/pdf/martijn_koch_projectdocument.pdf" target="_blank" class="read-more"><img src="/assets/img/icons/iconmonstr-download-11.svg" class="pdf-icon"/></a></h6>
 # Project Document
 
 ## 1.0 Het Bedrijf 

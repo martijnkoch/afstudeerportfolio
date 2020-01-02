@@ -4,8 +4,6 @@ description: eSportX
 extends: _layouts.document
 section: document
 ---
-<h6>Ook beschikbaar als PDF <a href="/assets/pdf/martijn_koch_esportsx.pdf" target="_blank" class="read-more"><img src="/assets/img/icons/iconmonstr-download-11.svg" class="pdf-icon"/></a></h6>
-
 # eSportsX 
 
 Op vrijdag 18 oktober werd eSportsX gehouden in Ahoy Rotterdam. eSportsX is al jaren de grootste gaming conferentie van de Benelux met veel invloedrijke sprekers uit de gaming wereld. In Ahoy werd tegelijkertijd ook het eerste evenement van Dreamhack in Nederland georganiseerd. Met het ticket van eSportsX was het ook mogelijk om Dreamhack gratis te bezoeken. Wat Dreamhack is wordt al besproken in de [literatuurstudie](/docs/literatuurstudie) onder het kopje ‘de jaren 90’. Maar kort gezegd is het een LAN-party waar ook competitief wordt gegamed door professionele teams. Dreamhack ziet zichzelf als levensstijl voor gamers. Er was een toernooi voor zowel CSGO als voor Dota2. Beide toernooien zaten de hele tijd vol toeschouwers en online kreeg het Nederlands publiek complimenten voor de opkomst. 
