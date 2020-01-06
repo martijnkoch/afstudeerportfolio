@@ -4,8 +4,6 @@ description: Back-end
 extends: _layouts.document
 section: document
 ---
-<h6>Ook beschikbaar als PDF <a href="/assets/pdf/martijn_koch_backend.pdf" target="_blank" class="read-more"><img src="/assets/img/icons/iconmonstr-download-11.svg" class="pdf-icon"/></a></h6>
-
 # Backend
 
 Na overleg met het development team binnen Greenhouse is de keuze aan de backend kant op het PHP framewor [Laravel](https://laravel.com/) komen te vallen.
@@ -14,7 +12,7 @@ Omdat de backend veel functionaliteiten gaat krijgen is er gekozen voor een groo
 Hieronder worden een aantal backend hoofdzaken kort toegelicht met hiervan de bijbehorende code snippets. Voor alle backend code kan de volgende [Github](https://github.com/martijnkoch/Greenhouse/tree/master/backend) link worden bezocht.  
 
 ### Gebruiker registreren
-De eerste stap in het ontwikkelen van de applicatie was om een nieuwe streamer te registreren. Niet zomaar iedereen kan een account aanmaken en dit zal alleen door een admin kunnen worden gedaan Er is gebruik gemaakt van Laravel passport voor de beveiliging van de applicatie. [Laravel passport](https://laravel.com/docs/5.8/passport) zorgt voor Oauth 2 authentication en het is een losse dependency van laravel met [Composer](https://getcomposer.org/) is geinstalleerd. Bij het aanmaken van een nieuwe user wordt een access token meegegeven. Het testen van de API is gedaan door middel van [Postman](https://www.getpostman.com/). 
+De eerste stap in het ontwikkelen van de applicatie was om een nieuwe streamer te registreren. Niet zomaar iedereen kan een account aanmaken en dit zal alleen door een admin kunnen worden gedaan Er is gebruik gemaakt van Laravel passport voor de beveiliging van de applicatie. [Laravel passport](https://laravel.com/docs/5.8/passport) zorgt voor Oauth 2 authentication en het is een losse dependency van Laravel met [Composer](https://getcomposer.org/) is geinstalleerd. Bij het aanmaken van een nieuwe user wordt een access token meegegeven. Het testen van de API is gedaan door middel van [Postman](https://www.getpostman.com/). 
 
 ![](/assets/img/register-user-php.png "Register code")
 

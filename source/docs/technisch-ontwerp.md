@@ -4,8 +4,6 @@ description: Technisch ontwerp
 extends: _layouts.document
 section: document
 ---
-<h6>Ook beschikbaar als PDF <a href="/assets/pdf/martijn_koch_technisch_ontwerp.pdf" target="_blank" class="read-more"><img src="/assets/img/icons/iconmonstr-download-11.svg" class="pdf-icon"/></a></h6>
-
 # Technisch ontwerp
 
 Toen de concept animaties waren gemaakt, kreeg ik al snel de vraag hoe het technisch zou gaan werken. Visueel ziet het er sterk uit, maar hoe kunnen gepersonaliseerde reclames  worden verwezenlijkt. En hoe kan de streamer in controle zijn wanneer een reclame wordt afgespeeld. En welke handeling moet de streamer hiervoor doen. 
