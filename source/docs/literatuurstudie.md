@@ -8,15 +8,15 @@ section: document
 
 ### Wat zijn eSports? 
 
-De term van eSports is een samenvoeging van twee woorden, nameklijk: electronic en sports. Een van de eerste betrouwbare bronnen die deze term gebruikte was de Online Gamers Association (OGA) eind jaren negentig. De definitie kan worden vertaald naar het competitief spelen van een videogame op een professioneel niveau. 
+D. Kossen (2019) schrijft dat de term van eSports is een samenvoeging is van twee woorden, nameklijk: electronic en sports. De definitie kan worden vertaald naar het competitief spelen van een videogame op een professioneel niveau. 
 Op meerdere platforms kunnen competities worden gehouden afhankelijk van de titel van de videogame. Zo zijn er titels die alleen op een PC of een console zijn. Echter zijn er ook games die cross-platform kunnen worden gespeeld. 
-Afhankelijk van de game kan de competitie in teamverband of individueel worden gespeeld. Uiteindelijk gaat het tussen de competitie tussen mensen. 
+Afhankelijk van de game kan de competitie in teamverband of individueel worden gespeeld. Uiteindelijk gaat het om de competitie tussen mensen en ergens de beste in willen zijn. 
 
-Er is de laatste jaren veel discussie of dat eSporters moeten worden gezien als echte topsporters. Bij sporten wordt vaak gedacht aan mensen die veelal buiten met activiteiten bezig zijn. Echter worden eSports steeds meer geaccepteerd als echte sport. Om een topsporter te zijn heb je goed talent en veel training nodig. Dit verschilt voor een video game niet. eSporters trainen minimaal 8 uur per dag, hebben coaches, trainers, diëtisten en psychologen net zoals de andere atleten. Steeds meer scholen supporten eSporters en eSport teams. In Amerika zijn er momenteel rond de 50 colleges met een eSports team. De universiteiten spelen ook onderling tegen elkaar in leagues, net zoals bij reguliere sporten zoals basketbal of American football. 
+Er is de laatste jaren veel discussie of dat eSporters moeten worden gezien als echte topsporters. A. Nusselder (2017) zegt dat bij sporten vaak wordt gedacht aan mensen die veelal buiten met activiteiten bezig zijn. Echter worden eSports steeds meer geaccepteerd als echte sport. Om een topsporter te zijn heb je goed talent en veel training nodig. Dit verschilt voor een video game niet. eSporters trainen minimaal 8 uur per dag, hebben coaches, trainers, diëtisten en psychologen net zoals de andere atleten. Steeds meer scholen supporten eSporters en eSport teams. Gamedesigning.com (2020) meldt dat in Amerika er momenteel rond de 20 universiteiten zijn met een eSports team. De universiteiten spelen ook onderling tegen elkaar in leagues, net zoals bij reguliere sporten zoals basketbal of American football. 
 
-In Nederland werd in 2017 door het AMC in Amsterdam de topsportstatus afgegeven aan een eSporter voor het eerst. Koen Schobbers student geneeskunde kreeg deze status om zijn eSports carrière te combineren met zijn studie. Hij traint rond de 20 uur per week, wat niet te combineren was met zijn studie. Koen werd in 2013 derde op het wereldkampioenschap van de online racegame Trackmania. Koen is net zoals vele andere gamers van mening dat eSports moet worden erkend als echte sport. In een aantal Aziatische landen zoals Korea is dit al het geval. Recent is er ook discussie gaande of dat eSports thuis zouden horen op de olympische spelen. De BBC meldde dat er discussie gaande is om eSports aan de olympische spelen van Parijs in 2024 toe te voegen. 
+NOS (2017) meldt dat in Nederland het AMC te Amsterdam de topsportstatus als eerste gaf aan een eSporter. Koen Schobbers student geneeskunde kreeg deze status om zijn eSports carrière te combineren met zijn studie. Hij traint rond de 20 uur per week, wat niet te combineren is met zijn studie. Koen werd in 2013 derde op het wereldkampioenschap van de online racegame Trackmania. Koen is net zoals vele andere gamers van mening dat eSports moeten worden erkend als echte sport. In een aantal Aziatische landen zoals Korea is dit al het geval. Recent is er ook discussie gaande of dat eSports thuis zouden horen op de olympische spelen. De BBC (2018) meldde dat er discussie gaande is om eSports aan de olympische spelen van Parijs in 2024 toe te voegen.
 
-Tijdens een toernooi van Blast pro sesies hield de ministerpresident van Denemarken een speech over eSports en dat deze gamers als echte atleten moeten worden gezien. In de gaming wereld werd daarna vol lof gesproken over ministerpræsident Lars Løkke Rasmussen.  
+Tijdens een toernooi van Blast pro sesies (Kopenhagen, 2018) hield de ministerpresident van Denemarken een speech over eSports en dat deze gamers als echte atleten moeten worden gezien. In de gaming wereld werd daarna vol lof gesproken over ministerpræsident Lars Løkke Rasmussen. 
 <div class="embed-responsive embed-responsive-16by9">
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/_-4m8j18ano" allowfullscreen></iframe>
 </div>
@@ -24,7 +24,7 @@ Tijdens een toernooi van Blast pro sesies hield de ministerpresident van Denemar
 ### Hoe zijn eSports ontstaan en zo groot geworden?
 
 #### De jaren 70
-Sinds het begin van video games is er ook een competitieve aard tussen de spelers om de beste te willen zijn in een videogame. Het eerste eSports event dat is gehouden vond plaats op de Stanford Universiteit in Amerika. Het was 1972 en de videogame genaamd Spacewar was erg populair. De eerste prijs die kon worden gewonnen was een jaar lange subscription op het populaire Stones magazine. 
+Sinds het begin van video games is er ook een competitieve aard tussen de spelers om de beste te willen zijn in een videogame. L. Winkie (2019) zegt dat het eerste eSports event dat heeft plaatsgevonden gehouden werd op Stanford Universiteit in Amerika. Het was 1972 en de videogame genaamd Spacewar was erg populair. De eerste prijs die kon worden gewonnen was een jaar lange subscription op het populaire Stones magazine. 
 
 <div id="jaren70carousel" class="carousel slide mb-4" data-ride="carousel">
   <ol class="carousel-indicators">
@@ -355,6 +355,7 @@ Gamer Koen Schobbers krijgt topsportstatus op zijn universiteit. (2017, 26 april
 <p class="bron">
 Paris 2024 Olympics: Esports “in talks” to be included as demonstration sport. (2018, 25 april). Geraadpleegd op 26 september 2019, van </p><a class="bronlink" href="https://www.bbc.com/sport/olympics/43893891" target="_blank"> https://www.bbc.com/sport/olympics/43893891 </a>
 <p class="bron">Gaming Through the Decades: From the 80s to 2018. (2018, 20 juli). Geraadpleegd op 13 september 2019. Geraadpleegd van</p> <a class="bronlink" href="https://newretrowave.com/2018/07/20/gaming-through-the-decades-from-the-80s-to-2018/" target="_blank"> https://newretrowave.com/2018/07/20/gaming-through-the-decades-from-the-80s-to-2018/ </a>
+<p class="bron">Winkie, L. (2019, 7 februari). The story of the first esports champion, undefeated since 1972. Geraadpleegd op 14 2019, van</p><a class="bronlink" href="thtps://www.pcgamer.com/the-story-of-the-first-esports-champion-undefeated-since-1972/" target="_blank">https://www.pcgamer.com/the-story-of-the-first-esports-champion-undefeated-since-1972/</a>
 <p class="bron">
 Rivenes, L. (2017, 17 januari). The History of Online Gaming. Geraadpleegd op 16 september 2019. Geraadpleegd van </p> <a class="bronlink" href="https://datapath.io/resources/blog/the-history-of-online-gaming" target="_blank">https://datapath.io/resources/blog/the-history-of-online-gaming/ </a>
 <p class="bron">
