@@ -4,7 +4,7 @@ return [
     'baseUrl' => 'http://afstudeerportfolio.herrkoch.nl/',
     'production' => false,
     'siteName' => 'Afstudeerportfolio | Martijn Koch ',
-    'siteDescription' => 'Beautiful docs powered by Jigsaw',
+    'siteDescription' => 'Fontys Endgame',
 
     // Algolia DocSearch credentials
     'docsearchApiKey' => '',
