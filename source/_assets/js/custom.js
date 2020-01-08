@@ -80,15 +80,6 @@ $(window).on('load', function() {
 
 })(jQuery);
 
-/*------------------
-		Video scroll button
-	--------------------*/
-$(".site-btn").click(function() {
-	$('html, body').animate({
-			scrollTop: $(".intro-video-section").offset().top
-		}, 1500);
-	setTimeout(function(){ jQuery('.video-play-btn').click(); }, 1700);	
-});
 
 /*------------------
 		Scroll

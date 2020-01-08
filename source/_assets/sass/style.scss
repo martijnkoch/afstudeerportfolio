@@ -2401,13 +2401,14 @@ hr {
 		@font-face {
 			font-family: futura-bold; 
 			src: 
-				url('futura-bold-webfont.woff') format("woff"),
-				url('futura-bold-webfont.woff2') format("woff2");
+				url('/font/futura-bold-webfont.woff') format("woff"),
+				url('/font/futura-bold-webfont.woff2') format("woff2");
 		}
 		font-weight: bold;
 		line-height: 0.9;  
 		text-shadow: 1px 1px 1px rgba(225, 31, 229, 0.239);
 		margin-left: -10px;
+		padding-bottom: 40px;
 	}
 	span {
 		color: white;

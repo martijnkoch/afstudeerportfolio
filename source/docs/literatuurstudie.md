@@ -367,8 +367,6 @@ Golden Sachs. (2018). The world of Games, From Wild West to Mainstream. Geraadpl
 <p class="bron">
 Oelschlägel, H. (2017, 18 mei). ESL and ESEA expand the esports experience on Facebook. Geraadpleegd op 18 september 2019. eraadpleegd van </p> <a class="bronlink" href="https://www.eslgaming.com/article/esl-and-esea-expand-esports-experience-facebook-3532" target="_blank"> https://www.eslgaming.com/article/esl-and-esea-expand-esports-experience-facebook-3532 </a>
 <p class="bron">
-ESL and Facebook Gaming expand partnership on a non-exclusive basis through 2019. (2019, 12 februari). Geraadpleegd op 18 september 2019. Geraadpleegd van </p> <a class="bronlink" href="https://www.eslgaming.com/article/esl-and-facebook-gaming-expand-partnership-non-exclusive-basis-through-2019-4181" target="_blank"> https://www.eslgaming.com/article/esl-and-facebook-gaming-expand-partnership-non-exclusive-basis-through-2019-4181 </a>
-<p class="bron">
 DreamHack. (z.d.). Geraadpleegd op 19 september 2019. Geraadpleegd van </p> <a class="bronlink" href="https://liquipedia.net/counterstrike/DreamHack" target="_blank"> https://liquipedia.net/counterstrike/DreamHack </a>
 <p class="bron">
 Largest LAN party. (z.d.). Geraadpleegd op 19 september 2019. Geraadpleegd van</p>  <a class="bronlink" href="https://www.guinnessworldrecords.com/world-records/largest-lan-party" target="_blank"> https://www.guinnessworldrecords.com/world-records/largest-lan-party </a>
@@ -384,6 +382,7 @@ Hornshaw, P. (2019, 10 april). The history of Battle Royale: From mod to worldwi
 Loveridge, S. (2019, 13 augustus). How many people play Fortnite? Is it really as many as people say? Geraadpleegd op 23 september 2019. Geraadpleegd van </p>  <a class="bronlink" href="https://www.gamesradar.com/how-many-people-play-fortnite/" target="_blank"> https://www.gamesradar.com/how-many-people-play-fortnite/ </a>
 <p class="bron">
 Kopinga, W. (2018, 27 december). Waarom Fortnite in 2018 zó groot werd. Geraadpleegd op 23 september 2019. Geraadpleegd van </p>  <a class="bronlink" href="https://nos.nl/artikel/2265250-waarom-fortnite-in-2018-zo-groot-werd.html" target="_blank"> https://nos.nl/artikel/2265250-waarom-fortnite-in-2018-zo-groot-werd.html </a>
+<p class="bron"> Sayer, M. (2018, 12 september). The 15-year evolution of Steam. Geraadpleegd op 23 september 2019, van</p><a class="bronlink" href="https://www.pcgamer.com/steam-versions/" target="_blank">https://www.pcgamer.com/steam-versions/</a>
 <p class="bron">
 Summers, N. (2015, 17 juli). Top “Counter-Strike” player admits eSports has a doping problem. Geraadpleegd op 23 september 2019. Geraadpleegd van </p>  <a class="bronlink" href="https://www.engadget.com/2015/07/17/esports-adderall-doping/" target="_blank"> https://www.engadget.com/2015/07/17/esports-adderall-doping/ </a>
 <p class="bron">

@@ -9,7 +9,7 @@
                         <h2>End<span>game</span></h2>
                         <p>Martijn Koch heeft van september 2019 tot januari 2020 gewerkt aan zijn afstudeeropdracht bij <a href="https://www.greenhousegroup.com/" target="_blank">Greenhouse</a> te Eindhoven. Deze leeswijzer is een korte versie van het gehele procesverslag. Er is onderzoek verricht naar de marketing mogelijkheden met betrekking tot streaming platformen. Op deze platformen wordt vooral naar gameplay gekeken en ook worden hier eSport wedstrijden bekeken. Mochten deze termen onbekend zijn, dan adviseer ik u om op onderstaande button te klikken om naar een korte uitlegvideo over eSports te gaan. 
 						</p>
-                        <a href="#" class="site-btn btn-hover">Ga naar video<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>     
+                        <a href="https://www.youtube.com/watch?v=gcYaKJI7JYI" class="site-btn btn-hover video-popup">Open video<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>     
                 	</div>
                 </div>
 			</div>
@@ -40,12 +40,10 @@
 						<h5>“Hoe zit de streaming en eSports wereld in elkaar en wat zijn de beste mogelijkheden tot adverteren op streaming platformen?”</h5>
 						<p>Aan de hand van de hoofdvraag zijn de volgende deelvragen zijn geformuleerd: </p>
 						<ul>
-							<li> Wat zijn eigenlijk eSports?</li>
+							<li>Wat zijn eigenlijk eSports?</li>
 							<li>Hoe zijn eSports ontstaan en zo groot geworden?</li>
 							<li>Wat is het verschil tussen eSports en gaming?</li>
 							<li>Hoe groot zijn eSports en gaming in Nederland?</li>
-							<li>Welke bekende platforms zijn er waar op kan worden gestreamd?</li>
-							<li>Hoe verdient een streamer zijn inkomen?</li>
 							<li>Hoe ziet de doelgroep eruit die streams bezoekt?</li>
 							<li>Hoe adverteert Greenhouse momenteel op streaming websites?</li>
 							<li>Op welk soort manieren kan nog meer worden geadverteerd?</li>
@@ -64,7 +62,7 @@
 		<a href="https://www.youtube.com/watch?v=gcYaKJI7JYI" class="video-play-btn video-popup"><img src="/assets/img/icons/solid-right-arrow.png" alt="#"></a>
 		<div class="container">
 			<div class="video-text">
-				<h2>Wat zijn Esports?</h2>
+				<h2>Wat zijn eSports?</h2>
 			</div>
 		</div>
 	</section>
@@ -106,7 +104,8 @@
 				</p>
 				<p>Om beter inzicht te krijgen van de doelgroep is onderzoek gedaan naar<a href="/docs/esports-in-nederland/"> hoe groot gaming en streaming in Nederland zijn </a>. Daarnaast zijn er ook <a href="/docs/interview-doelgroep/">interviews</a> gehouden met de doelgroep. Aan de hand van deze interviews was het mogelijk om erachter te komen wat de doelgroep als irritant ervaart als zij streams bekijken. En wat eventuele mogelijkheden zouden zijn om reclames aan te bieden die beter bij de doelgroep past. </p>
 				<h4>Conceptingfase</h4>
-				<p>Om een goed beeld te krijgen hoe streaming reclames eruit kunnen komen te zien die beter bij de doelgroep passen, is er werkplaats onderzoek verricht. Er zijn een aantal <a href="/docs/concept-animaties">animatie prototypes </a> gemaakt. En er is gekeken naar verschillende games hoe reclames hierin kunnen uitzien. Elke animatie heeft betrekking op een klant van Greenhouse. Zo zijn er concept animaties gemaakt voor: Toto, Fox Sports en Mars. En voor de video games: FIFA, Counter Strike Global Offensive (CSGO) en League of Legends (LoL). De drie grootste eSport titels in Nederland. De animaties werden met enthousiasme ontvangen binnen Greenhouse.</p>
+				<p>Om een goed beeld te krijgen hoe streaming reclames eruit kunnen komen te zien die beter bij de doelgroep passen, is er werkplaats onderzoek verricht. Er zijn een aantal <a href="/docs/concept-animaties">animatie prototypes </a> gemaakt. En er is gekeken naar verschillende games hoe reclames hierin kunnen uitzien. Elke animatie heeft betrekking op een klant van Greenhouse. Zo zijn er concept animaties gemaakt voor: Toto, Fox Sports en Mars. En voor de video games: FIFA, Counter Strike Global Offensive (CSGO) en League of Legends (LoL). De drie grootste eSport titels in Nederland. De animaties werden met enthousiasme ontvangen binnen Greenhouse. Voor Greenhouse is het een grote meerwaarde als er op nieuwe kanalen kan worden geadverteerd. En dit concept spreekt erg aan omdat er op meerdere online streaming platformen kan worden geadverteerd. 
+				</p>
 				<p>Na de concept animaties is er gekeken wat er technisch nodig is om een eindproduct te verwezenlijken. De <a href="/docs/technisch-ontwerp">technische schets </a>is besproken met het video-team om te kijken wat er allemaal nodig is in de ontwikkelfase. De conclusie was dat er een online platform nodig is al tussenstuk voor de streamer en de developers van Greenhouse die de animaties maken. Als eerste is de  <a href="/docs/sitemap">sitemap</a> gemaakt om een overzicht te krijgen welke pagina’s er allemaal nodig zijn voor het online platform. Daarna zijn als eerste de <a href="/docs/wireframes">wireframes</a> gecreëerd. Toen de wireframes af waren is het <a href="/docs/webdesign">webdesign </a> gemaakt. Ook zijn er drie <a href="/docs/personas"> persona’s </a>gemaakt, aan de hand van de persona’s zijn er <a href="/docs/user-stories">user stories</a> geschreven die tijdens het bouwen van het platform centraal stonden.</p>
 				<h4>Ontwikkelfase</h4>
 				<h5 class="ontwikkelfase">Online platform</h5>
@@ -154,7 +153,7 @@
 						<p>De stageperiode bij Greenhouse was een zeer leerzame en fijne periode. Doordat Greenhouse zo groot is heb ik bij Greenhouse met veel mensen met verschillende disciplines mogen samenwerken. Zij gaven vanuit verschillende invalshoeken feedback en keken anders naar mijn project. Dit heeft ervoor gezorgd dat er afwegingen moesten worden gemaakt in de concepting fase.
 						</p>
 						<p>
-						Ik denk dat er een sterk concept ligt dat zeker nog verder kan worden uitgebreid en kan worden ingezet op meerdere platforms. Zelf heb ik er meer op concept en creatie gezeten en op marketinggebied is er niet veel over nagedacht. Dit zou een op zichzelf staande opdracht kunnen zijn.
+						Ik denk dat er een sterk concept ligt dat zeker nog verder kan worden uitgebreid en kan worden ingezet op meerdere platformen. Zelf heb ik meer aan concept en creatie gewerkt en aan het afrekenmodel is niet veel tijd besteed. Hier is wel enigszins over nagedacht en dit is terug te vinden in het adviesrapport. Hier kan dieper en worden gekeken en dit zou een op zichzelf staande opdracht kunnen zijn. 
 						</p>
 						<p>
 						Het is eigenlijk vreemd dat er nog amper advertentiemogelijkheden zijn op streaming platformen. En die advertentiemogelijkheden die er nu zijn worden vaak als irritant gevonden door de doelgroep. Deze vorm van adverteren is subtieler en zit de gameplay niet in de weg voor de kijker. De streamer kan inloggen op het platform en gemakkelijk reclames toevoegen aan OBS. Er zijn handleidingen aanwezig voor meer ondersteuning. Het opzetten van OBS en TouchPortal kan als uitdagend worden gevonden. Maar als alle linkjes goed staan hoeft de content aan de achterkant alleen worden ververst en hier hoeft de streamer niet meer naar te kijken.
@@ -177,8 +176,8 @@
 		<div class="featured-bg set-bg" data-setbg="/assets/img/fnatic.jpg"></div>
 			<div class="featured-box uitvoering-section">
 				<h3>Bewijs</h3>
-				<div class="bewijs-item">
-					<h4>1. Kennis en inzicht</h4>
+				<div class="bewijs-item"> 
+					<h4>1. Kennis en Inzicht</h4>
 					<p>Dit onderdeel wordt bewezen gedurende het hele proces. Mijn afstudeerportfolio staat hier centraal in. Met dit portfolio wordt kennis en inzicht van de gehele ICT life cycle getoond.</p>
 					<a href="http://afstudeerportfolio.herrkoch.nl" class="read-more pb-3">Portfolio</a>
 				</div>
