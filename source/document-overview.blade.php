@@ -161,6 +161,15 @@
 				<hr>
 				<div class="big-blog-item">
 					<div class="blog-content text-box text-white">
+						<h3>Backend Hosting</h3>
+						<p class="competenties">Competenties: <span>Realisatie</span></p>
+						<a href="/docs/backend-hosting/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_backend_hosting.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+					</div>
+				</div>
+				<hr>
+				<div class="big-blog-item">
+					<div class="blog-content text-box text-white">
 						<h3>Frontend</h3>
 						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
 						<a href="/docs/frontend/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
