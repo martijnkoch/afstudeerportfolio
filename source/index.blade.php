@@ -6,7 +6,7 @@
 			<div class="hero-item set-bg d-flex align-items-center justify-content-center text-center leeswijzer-text" data-setbg="/assets/img/xypex.jpg">
 				<div class="container">
                     <div class="row">         
-                        <h2>Leeswijzer</h2>
+                        <h2>End<span>game</span></h2>
                         <p>Martijn Koch heeft van september 2019 tot januari 2020 gewerkt aan zijn afstudeeropdracht bij <a href="https://www.greenhousegroup.com/" target="_blank">Greenhouse</a> te Eindhoven. Deze leeswijzer is een korte versie van het gehele procesverslag. Er is onderzoek verricht naar de marketing mogelijkheden met betrekking tot streaming platformen. Op deze platformen wordt vooral naar gameplay gekeken en ook worden hier eSport wedstrijden bekeken. Mochten deze termen onbekend zijn, dan adviseer ik u om op onderstaande button te klikken om naar een korte uitlegvideo over eSports te gaan. 
 						</p>
                         <a href="#" class="site-btn btn-hover">Ga naar video<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>     
@@ -37,7 +37,7 @@
 						In online games worden wedstrijden gehouden en dit wordt eSports genoemd. De beste spelers van een videogame spelen voor een gaming team en er worden grote toernooien over heel de wereld gehouden waar deze teams het tegen elkaar opnemen. Grote sportarena’s worden afgehuurd en zitten vol met joelende fans terwijl er thuis nog miljoenen mensen de wedstrijden online volgen. Deze e-atleten verdienen megasalarissen en worden gesponsord door grote internationale merken.</p>
 						<p>
 						Omdat deze online wereld erg nieuw is en snel is opgekomen is er nog weinig over onderzocht. Echter is het wel een gigantische markt die momenteel al meer kijkers genereert dan American football. Greenhouse wil weten wie de doelgroep exact is en hoe deze het beste kan worden bereikt. De hoofdvraag die is geformuleerd luidt als volgt: </p>
-						<p><b>“Hoe zit de streaming en eSports wereld in elkaar en wat zijn de beste mogelijkheden tot adverteren op streaming platformen?”</b></p>
+						<h5>“Hoe zit de streaming en eSports wereld in elkaar en wat zijn de beste mogelijkheden tot adverteren op streaming platformen?”</h5>
 						<p>Aan de hand van de hoofdvraag zijn de volgende deelvragen zijn geformuleerd: </p>
 						<ul>
 							<li> Wat zijn eigenlijk eSports?</li>

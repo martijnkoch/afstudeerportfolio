@@ -1518,6 +1518,7 @@ ol {
 	}
 	.hero-item h2 {
 		font-size: 110px;
+		color: #6218a8;
 	}
 	.hero-item p {
 		font-size: 16px;
@@ -1717,7 +1718,7 @@ ol {
 	}
 	.leeswijzer-text  {
 		h2 {
-			margin-left: 15px;	
+			margin-left: 10px !important;
 		}
 		p{
 			margin-left: 15px;
@@ -2134,6 +2135,9 @@ img[alt=gaben]{
 		margin-bottom: 2px;
 		margin-left: 19px;
 	}
+	h5 {
+		margin-bottom: 10px;
+	}
 }
 
 
@@ -2389,4 +2393,26 @@ hr {
 .ontwikkelfase {
 		margin-top: 10px;
 		color: #43469e;
+}
+
+.hero-item{
+	h2 {
+		color: #6218a8 !important;
+		@font-face {
+			font-family: futura-bold; 
+			src: 
+				url('futura-bold-webfont.woff') format("woff"),
+				url('futura-bold-webfont.woff2') format("woff2");
+		}
+		font-weight: bold;
+		line-height: 0.9;  
+		text-shadow: 1px 1px 1px rgba(225, 31, 229, 0.239);
+		margin-left: -10px;
+	}
+	span {
+		color: white;
+		text-shadow: 2px 3px 2px rgba(225, 31, 229, 0.239);
+		font-weight: bold;
+		line-height: 0.9; 
+	}
 }

@@ -44,7 +44,7 @@
                 <div class="header-bar-warp d-flex">
                     <!-- site logo -->
                     <a href="/" class="site-logo">
-                        <img src="/assets/img/logo.png" alt="">
+                        <img src="/assets/img/logo-small.png" alt="">
                     </a>
                     <nav class="top-nav-area w-100">
                         <!-- Menu -->
