@@ -97,12 +97,13 @@
 				<p>Om een goed inzicht te krijgen in de wereld van eSports is eerst gekeken wat precies de
 				officiële betekenis is van eSports. Nadat de definitie was vastgesteld was het zaak om te kijken naar het verleden en heden van eSports en streaming. Hoe zijn deze ontstaan, en wat voor soort games en diensten zijn er op de markt die momenteel erg populair zijn.
 				Dit onderzoek is te vinden in de <a href="/docs/literatuurstudie">literatuurstudie</a>.
-				Daarnaast is ook gekeken <a href="/docs/hoe-wordt-er-geadverteerd-op-streaming-websites">hoe er momenteel wordt geadverteerd op streaming websites.</a></p>
-				<p>Ook is <a href="/docs/esportsx">eSportsX</a> bezocht in Ahoy Rotterdam. Dit is de grootste conferentie over gaming in de Benelux. eSportsX was onderdeel van Rotterdam Games Week waar ook game toernooiorganisator Dreamhack aanwezig was. Hier is inspiratie opgedaan, om te kijken wat voor cases er al op streaming gebied zijn gedaan. En het aanwezige CSGO toernooi is bezocht om eSports in het echt te ervaren. 
+				Daarnaast is ook gekeken <a href="/docs/hoe-wordt-er-geadverteerd-op-streaming-websites">hoe er momenteel wordt geadverteerd op streaming websites.</a>
+				Voor bovenstaande punten is gebruik gemaakt van biebonderzoek.</p>
+				<p>Vervolgens is gebruik gemaakt van veldonderzoek en is <a href="/docs/esportsx">eSportsX</a> bezocht in Ahoy Rotterdam. Dit is de grootste conferentie over gaming in de Benelux. eSportsX was onderdeel van Rotterdam Games Week waar ook game toernooiorganisator Dreamhack aanwezig was. Hier is inspiratie opgedaan, om te kijken wat voor cases er al op streaming gebied zijn gedaan. En het aanwezige CSGO toernooi is bezocht om eSports in het echt te ervaren. 
 				</p>
-				<p>Toen er genoeg theoretische kennis was opgedaan, zijn er <a href="/docs/interview-experts/">interviews</a> gehouden met experts binnen Greenhouse. Door middel van interviews is vastgesteld hoe zij tegen streaming en gaming aankijken, waar zien zij mogelijkheden en in hoeverre zet Greenhouse streaming en gaming al in. 
+				<p>Toen er genoeg theoretische kennis was opgedaan, zijn er door middel van veldonderzoek <a href="/docs/interview-experts/">interviews</a> gehouden met experts binnen Greenhouse. Door middel van interviews is vastgesteld hoe zij tegen streaming en gaming aankijken, waar zien zij mogelijkheden en in hoeverre zet Greenhouse streaming en gaming al in. 
 				</p>
-				<p>Om beter inzicht te krijgen van de doelgroep is onderzoek gedaan naar<a href="/docs/esports-in-nederland/"> hoe groot gaming en streaming in Nederland zijn </a>. Daarnaast zijn er ook <a href="/docs/interview-doelgroep/">interviews</a> gehouden met de doelgroep. Aan de hand van deze interviews was het mogelijk om erachter te komen wat de doelgroep als irritant ervaart als zij streams bekijken. En wat eventuele mogelijkheden zouden zijn om reclames aan te bieden die beter bij de doelgroep past. </p>
+				<p>Om beter inzicht te krijgen van de doelgroep is er onderzoek verricht naar<a href="/docs/esports-in-nederland/"> hoe groot gaming en streaming in Nederland zijn </a> door middel van biebonderzoek. Daarnaast zijn er ook <a href="/docs/interview-doelgroep/">interviews</a> gehouden met de doelgroep door middel van veldonderzoek. Aan de hand van deze interviews was het mogelijk om erachter te komen wat de doelgroep als irritant ervaart als zij streams bekijken. En wat eventuele mogelijkheden zouden zijn om reclames aan te bieden die beter bij de doelgroep past. </p>
 				<h4>Conceptingfase</h4>
 				<p>Om een goed beeld te krijgen hoe streaming reclames eruit kunnen komen te zien die beter bij de doelgroep passen, is er werkplaats onderzoek verricht. Er zijn een aantal <a href="/docs/concept-animaties">animatie prototypes </a> gemaakt. En er is gekeken naar verschillende games hoe reclames hierin kunnen uitzien. Elke animatie heeft betrekking op een klant van Greenhouse. Zo zijn er concept animaties gemaakt voor: Toto, Fox Sports en Mars. En voor de video games: FIFA, Counter Strike Global Offensive (CSGO) en League of Legends (LoL). De drie grootste eSport titels in Nederland. De animaties werden met enthousiasme ontvangen binnen Greenhouse. Voor Greenhouse is het een grote meerwaarde als er op nieuwe kanalen kan worden geadverteerd. En dit concept spreekt erg aan omdat er op meerdere online streaming platformen kan worden geadverteerd. 
 				</p>
@@ -118,7 +119,7 @@
 				Vervolgens is zowel de backend als frontend gedeployed. Door middel van bieb onderzoek is gekeken welke <a href="/docs/backend-hosting">backend hosting</a> goed zou passen. Voor de hosting van de backend is gekozen, voor AWS van Amazon. De advertentie bestanden moeten een zo kort mogelijke laadtijd hebben voor soepele weergave. Het frontend prototype van de applicatie is gehost op mijn eigen webserver en kan <a href="">hier</a> worden gevonden. 
 				</p>
 				<h5 class="ontwikkelfase">Reclames in de stream</h4>
-				<p>Een belangrijk aspect is dat de streamer in controle moet zijn wanneer hij/zij een reclame wil afspelen. Er is gekeken naar wat voor tools hier oplossingen in bieden. Er is gekozen voor het open source programma <a href="/docs/touchportal">TouchPortal</a>. Dit programma is gemakkelijk te gebruiken op een telefoon en tablet voor zowel Android als IOS. Uiteindelijk is een <a href="/docs/touchportal-guide">handleiding</a> voor streamers opgesteld hoe zij precies TouchPortal moeten installeren en opzetten.</p>
+				<p>Een belangrijk aspect is dat de streamer in controle moet zijn wanneer hij/zij een reclame wil afspelen. Er is gekeken naar wat voor tools hier oplossingen in bieden. Er is gekozen voor het open source programma <a href="/docs/touchportal">TouchPortal</a>. Dit programma is gemakkelijk te gebruiken op een telefoon en tablet voor zowel Android als IOS. Uiteindelijk is een handleiding voor streamers opgesteld hoe zij precies TouchPortal moeten installeren en opzetten.</p>
 			</div>
 		</div>
 	</section>
@@ -205,7 +206,7 @@
 				<div class="bewijs-item">
 					<h4>2.3 Toepassen Kennis en Inzicht - Advies</h4>
 					<p>Een belangrijk onderdeel van de opdracht was om mensen advies te geven en uitleg te verschaffen. Zo is het enerzijds belangrijk om streamers te adviseren hoe zij OBS en Touchportal het beste kunnen opzetten en hoe reclames kunnen worden toegevoegd. Anderzijds is het belangrijk om Greenhouse te adviseren hoe de video reclames moeten worden aangeleverd en hoe het platform verder kan worden ingericht. Ik heb zelf meer voor het concept en realisatie gezorgd maar op marketing vlak liggen nog een aantal interessante vraagstukken. Meer hierover is terug te lezen in het adviesrapport. </p>
-					<a href="https://afstudeerportfolio.herrkoch.nl/docs/advies-rapport/" class="read-more mb-3">Advies Rapport</a><br>
+					<a href="https://afstudeerportfolio.herrkoch.nl/docs/advies-rapport/" class="read-more mb-3">Adviesrapport</a><br>
 				</div>
 				<div class="bewijs-item">
 					<h4>2.4 Toepassen Kennis en Inzicht - Ontwerp</h4>

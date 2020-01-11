@@ -7,20 +7,25 @@ section: document
 
 ## Hoe groot zijn eSports en gaming in Nederland?
 
-Gaming is een Nederland een zeer populaire activiteit door vooral jongeren. In 2018 was de omzet in de gaming industrie ruim 1 miljard. Momenteel heeft Nederland de vijftiende grootste gamersmarkt ter wereld. Verwacht wordt dat de gaming industrie tot 2022 jaarlijks rond de 3 procent zal groeien. Dit maakt Nederland een van de best groeiende landen in West-Europa op gaming gebied. Deze groei is ondere andere te danken aan een goede infrastructuur in Nederland. Er is een goed netwerk beschikbaar met op veel plekken de beschikking tot glasvezel en er is een goed dekkend 4G netwerk in Nederland aanwezig. 
-Doelgroep
-In de doelgroep tussen de 11 en 45 jarige is maar liefst 65% het afgelopen jaar in aanraking gekomen met eSports. Aanraking van eSports kan op verschillende manieren. Denk hierbij aan het kijken van een competitieve livestream, een LAN party bezoeken, een professionele gamer volgen of meedoen aan een gaming wedstrijd. 
+Gaming is een Nederland een zeer populaire activiteit door vooral jongeren. In 2018 was de omzet in de gaming industrie ruim 1 miljard zo meldt PCW (2018). Casper Scheffer (2018) zegt dat Nederland Momenteel de vijftiende grootste gamersmarkt ter wereld is. Verwacht wordt dat de gaming industrie tot 2022 jaarlijks rond de 3 procent zal groeien. Dit maakt Nederland een van de best groeiende landen in West-Europa op gaming gebied. Deze groei is ondere andere te danken aan een goede infrastructuur in Nederland. Er is een goed netwerk beschikbaar met op veel plekken de beschikking tot glasvezel en er is een goed dekkend 4G netwerk in Nederland aanwezig. 
+
+### Doelgroep
+In de doelgroep tussen de 11 en 45 jarige is maar liefst 65% het afgelopen jaar in aanraking gekomen met eSports zo meldt Nielsen Sports (2018). Aanraking van eSports kan op verschillende manieren. Denk hierbij aan het kijken van een competitieve livestream, een LAN party bezoeken, een professionele gamer volgen of meedoen aan een gaming wedstrijd. 
 In totaliteit kijkt maar 4 procent van de nederlandse bevolking tussen de 16 en 80 naar professionele game wedstrijden. En 18% van de Nederlandse bevolking heeft nog nooit van de term eSports gehoord. Onder de mensen die kijken naar eSports is er een klein verschil tussen de casual gamer en de intensieve gamer. De kans dat een casual gamer naar eSports kijkt is 23% op een wekelijkse basis, waar de intensieve gamer gemiddeld 18% gemiddeld kijkt op wekelijkse basis. De logische verklaring hiervoor is dat de intensieve gamer het te druk heeft om zelf te gamen.  
-Niet elke gamer is ook een eSporter, slechts 1% van de gamers speelt voor een gaming organisatie. Dit staat los van incidentele deelnames aan online of offline toernooien. 
+Niet elke gamer is ook een eSporter, slechts 1% van de gamers speelt voor een gaming organisatie. Dit staat los van incidentele deelnames aan online of offline toernooien.
 Net als bij traditionele sporten verschilt het kijkgedrag en de doelgroep per video game. Zoals een korfbalfan verschilt van een voetbalfan, zo verschilt een Fifa-fan van een Fortnite-fan.  
 
+![](/assets/img/esports-nederland-stats.png "Stats")
 
-### Platforms
-Er zijn verschillende platforms waar streams op kunnen worden gekeken. Onder de die-hard gamers is Twitch het meest populaire platform. Echter is bij het grotere publiek YouTube veel bekender en hier kijken in Nederland gemiddeld meer Nederlanders naar. Een Twitch kijker is per week gemiddeld 15,3 uur per week bezig met gaming. Waar een YouTube kijker per week gemiddeld 11,6 uur bezig is met gaming. Ook de games die worden gespeeld per platform verschillen. Op YouTube was Fifa 18 de meest populaire games terwijl Fortnite op Twitch de meest populaire game was in 2018. 
+
+### Platformen
+Er zijn verschillende platformen waar streams op kunnen worden gekeken. Onder de die-hard gamers is Twitch het meest populaire platform. Echter is bij het grotere publiek YouTube veel bekender en hier kijken in Nederland gemiddeld meer Nederlanders naar. Een Twitch kijker is per week gemiddeld 15,3 uur per week bezig met gaming. Waar een YouTube kijker per week gemiddeld 11,6 uur bezig is met gaming. Ook de games die worden gespeeld per platform verschillen. Op YouTube was Fifa 18 de meest populaire games terwijl Fortnite op Twitch de meest populaire game was in 2018. 
 
 Streams worden het meest bekeken op een PC of laptop, gevolgd door een smartphone en Playstation 4. Een Smart tv is wel in de opkomst voor eSports door de ontwikkeling van een YouTube en Twitch app voor Smart televisies en game programma’s op de digitale televisie. 
 
-### Populaire games 
+![](/assets/img/platformen3.png "Stats")
+
+### Populaire games in Nederland
 
 #### Fifa
 Fifa is de meest populaire voetbalgame gemaakt door EA games, elk jaar verschijnt een nieuwe editie van Fifa eind september. In Nederland is Fifa verreweg de meest populaire game, met iets meer dan 1 miljoen actieve spelers. Wereldwijd gezien is het opvallend dat Fifa hier zo populair is, in een aantal landen populaire game-landen staat Fifa niet eens tussen de 10 meest gespeelde games. Fifa is in Nederland zo populair dat maar liefst 18% van de Nederlandse bevolking het wel eens speelt. Op veel bedrijven staat wel een playstation maar daar Fifa waar collega’s een potje tegen elkaar spelen. Van de eSport volgers speelt 50% wel eens een potje Fifa. Doordat Fifa zo massaal is is de community van de game was losser. Fifa fans zijn over het algemeen minder fanatieke gamers en een gemiddelde Fifa-fan gamed gemiddeld 7,5 uur per week.  
