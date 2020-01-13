@@ -59,6 +59,14 @@
 				<hr>
 				<div class="big-blog-item">
 					<div class="blog-content text-box text-white">
+						<h3>Advertenties op streaming websites</h3>
+						<p class="competenties">Competenties: <span>Analyse, Oordeelsvorming</span></p>
+						<a href="/docs/hoe-wordt-er-geadverteerd-op-streaming-websites" class="read-more">Ga naar pagina<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+					</div>
+				</div>
+				<hr>
+				<div class="big-blog-item">
+					<div class="blog-content text-box text-white">
 						<h3>Interview experts</h3>
 						<p class="competenties">Competenties: <span>Analyse, Communicatie, Oordeelsvorming</span></p>
 						<a href="/docs/interview-experts/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
