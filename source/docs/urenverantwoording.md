@@ -186,3 +186,23 @@ section: document
 | Woensdag |  __Feestdag__ |
 | Donderdag | Touchportal guide maken | 
 | Vrijdag | Guides op website zetten |
+
+### Week 19 06-01-2020 / 10-01-2020
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Frontend prototype | 
+| Dinsdag | Feedback op leeswijzer verwerking |
+| Woensdag | Styling portfolio website  |
+| Donderdag | Adviesrapport | 
+| Vrijdag | Adviesrapport afronden |
+
+### Week 20 13-01-2020 / 17-01-2020
+
+| Dag        | Werkzaamheden           |
+| ------------- |:-------------:| 
+| Maandag | Website nalopen en afronden | 
+| Dinsdag | __Inleveren Portfolio__ |
+| Woensdag |   |
+| Donderdag | | 
+| Vrijdag |  |

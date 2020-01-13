@@ -136,15 +136,14 @@
 					<div class="blog-content text-box text-white">
 						<h3>User stories</h3>
 						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
-						<a href="/docs/user-stories/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="#" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<a href="/docs/assets/pdf/martijn_koch_user_stories.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
 				<div class="big-blog-item">
 					<div class="blog-content text-box text-white">
 						<h3>Database schets</h3>
-						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
+						<p class="competenties">Competenties: <span>Ontwerp</span></p>
 						<a href="/docs/db-schets/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 						<br><a href="#" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
@@ -153,7 +152,7 @@
 				<div class="big-blog-item">
 					<div class="blog-content text-box text-white">
 						<h3>Backend</h3>
-						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
+						<p class="competenties">Competenties: <span>Realisatie</span></p>
 						<a href="/docs/backend/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 						<br><a href="/assets/pdf/martijn_koch_backend.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
@@ -171,7 +170,7 @@
 				<div class="big-blog-item">
 					<div class="blog-content text-box text-white">
 						<h3>Frontend</h3>
-						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
+						<p class="competenties">Competenties: <span>Realisatie</span></p>
 						<a href="/docs/frontend/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 						<br><a href="/assets/pdf/martijn_koch_frontend.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
@@ -180,7 +179,7 @@
 				<div class="big-blog-item">
 					<div class="blog-content text-box text-white">
 						<h3>TouchPortal</h3>
-						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
+						<p class="competenties">Competenties: <span>Onderzoek, Ontwerp, Realisatie</span></p>
 						<a href="/docs/touchportal/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 						<br><a href="#" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
@@ -188,10 +187,10 @@
 				<hr>
 				<div class="big-blog-item">
 					<div class="blog-content text-box text-white">
-						<h3>Advies rapport</h3>
+						<h3>Adviesrapport</h3>
 						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
 						<a href="/docs/advies-rapport/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="#" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_adviesrapport.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>

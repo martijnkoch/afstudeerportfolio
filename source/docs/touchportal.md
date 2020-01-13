@@ -44,7 +44,7 @@ Als de reclame loopt moet er een timer worden ingebouwd die langer is dan de rec
 ![esports-geschiedenis](/assets/img/touchportal-visualisatie.png "TouchPortal visualisatie")
 
 <div align="center" class="embed-responsive embed-responsive-16by9">
-    <video loop controls class="embed-responsive-item">
+    <video loop controls class="embed-responsive-item" muted>
         <source src="/assets/video/recording.mp4" type="video/mp4">
     </video>
 </div>
