@@ -87,6 +87,27 @@ section: document
         </tr>
         <tbody>
     </table> 
+    <h4>Jordi Foliant & Olivier Ammann - Video-Team </h4>
+    <table class="fl-table">
+        <thead>
+        <tr>
+            <th>Topics</th>
+            <th>Vragen</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+            <td>Video-Team </td>
+            <td>- Kan je uitleggen wat het video-team precies doet binnen Greenhouse?
+?<br> - Wat is jouw/jullie rol binnen het video team?
+</td>
+        </tr>
+        <tr>
+            <td>Visie</td>
+            <td>- Maakt Ubisoft gebruik van streaming platformen voor marketing en zoja hoe doen ze dit? <br> - Zouden mid-rolls gedurende een stream werken?<br>- Hoe essentieel vind je het dat Greenhouse zich ook op streaming platforms gaat richten?</td>
+        </tr>
+        <tbody>
+    </table> 
     <button class="btn btn-outline-info mb-2" type="button" data-toggle="collapse" data-target="#opzet-interview" aria-expanded="false" aria-controls="opzet-interview">
     Sluit opzet interviews
   </button>
@@ -166,6 +187,42 @@ Hiervoor was ik een ontwikkelaar binnen de creative craft. Ik richtte mij toen v
     <h4>Conclusie </h4>
     <p>De creative afdeling van Jos heeft nog vrij weinig op streaming en gaming gebied gedaan. Jos ziet wel in dat streaming groter aan het worden is en hier mogelijkheden liggen. In eerste instantie zat hij zelf te denken aan het promoten van producten aan influencers op YouTube of Twitch. Naast de gebruikelijke videobeelden denkt Jos ook verder dan dit. Wat zou bijvoorbeeld kunnen worden gedaan met audio of met de chat die op elke streaming website zit. Dit is zeker een interessant aspect om mee te nemen.</p>
     <button class="btn btn-outline-info mb-2" type="button" data-toggle="collapse" data-target="#interview-jos" aria-expanded="false" aria-controls="interview-jos">
+    Sluit dit interview
+  </button>
+</div>
+<h3>
+    <a data-toggle="collapse" href="#interview-jordi" class="collapselink interview-name">Jordi Foliant & Olivier Ammann   
+        <img src="/assets/img/icons/double-arrow.png" alt="#"/>
+    </a>
+</h3>
+<div class="collapse interview-david" id="interview-jordi">
+    <h4>Kan je uitleggen wat het video team precies doet binnen Greenhouse?</h4>
+    <p>Het video team houdt zich bezig met zoals de naam eigenlijk al zegt met video advertisement. Sinds twee jaar is video een zelfstandige afdeling geworden waar wij ons echt focussen op video advertenties. Voor een groot deel is dit Youtube advertisement. Net als bij Faceook kan je hier specifiek op een bepaalde doelgroep inkopen. Naast Youtube kopen we ook advertentieruimte in op sites als Kijk.nl, RTL en NPO. Dat noemen we programmatic video. 
+
+Vrijwel altijd krijgen wij video’s aangeleverd van de klant. In sommige gevallen worden de video’s aangeleverd door het creative team. Wij werken heel veel samen met de M bedrijven uit Amsterdam, zij maken een TV-reclame en leveren voor ons de online variant aan. 
+</p>
+    <h4>Wat is jouw/jullie rol binnen het video team?
+</h4>
+    <p>Olivier: <br> 
+Ik ben video specialist en ik werk nu twee jaar bij de video afdeling. Ik ben binnengekomen als campagne manager en ben verantwoordelijk voor het contact met verschillende klanten. 
+</p>
+<p>Jordi: <br>
+Ik ben video campagne manager in het video team. Waar Olivier meer zit op het strategisch vlak zit ik meer op het uitvoerende vlak.   
+</p>
+    <h4>Maakt Ubisoft gebruik van streaming platformen voor marketing en zoja hoe doen ze dit? </h4>
+    <p>Ubisoft is heel gefocust op het vinden van de juist doelgroep. Zij draaien bijvoorbeeld vrijwel nooit een TV reclame maar vrijwel alle videocontent is digital gefocust. Zo hebben wij een tijd op Twitch gedraaid voor Ubisoft. Qua streaming websites is dit de enige website die wij hebben gebruikt. Voor Unisoft gebruiken we Youtube het meeste. 
+
+Ook is twitch momenteel hun technische setup aan het veranderen waardoor het niet makkelijk is op advertentieruimte in te kopen. Zo moet je eerst 15 duizend dollar inleggen om überhaupt op Twitch te mogen adverteren. Ook is het meten van hoe goed een advertentie het heeft gedaan niet mogelijk op Twitch. Youtube geeft bijvoorbeeld wel een hoop data terug die je naderhand kan analyseren. Twitch staat dit niet toe vanuit hun privacy, we zijn wel in gesprek met Twitch om dit te veranderen. We willen graag meer afnemen bij Twitch maar we hebben ook een bepaalde kwaliteitseis.  
+
+Bij Twitch is het alleen mogelijk om de pre roll in te kopen. Dit is de advertentie die je ziet voordat je een stream bekijkt. Voor de rest zijn er geen mogelijkheden tot adverteren. Verder zijn er mogelijkheden tot branding met een streamer zelf die producten kan promoten. Maar dat doet onze afdeling verder niet. Wij vinden Twitch een heel mooi platform met veel mogelijkheden maar we zitten wel te kijken hoe we daar het beste mee om kunnen gaan. 
+</p>
+    <h4>Zouden mid-rolls gedurende een stream werken?</h4>
+    <p>Ja en nee. Ja omdat het veel potentie heeft om als merk meer van je te laten horen. Maar mid-rolls zijn wel meer van de meeste gehate reclames die er zijn. Je moet het dan wel subtiel aanpakken. Als je het heel relevant voor merken kan brengen dan kan dit een grote meerwaarde brengen. Echter zit de uitdaging hem in het aantal werk en de schaalbaarheid van de mid-rolls. </p>
+    <h4>Hoe belangrijk vind je het dat Greenhouse zich meer op streaming platforms gaat richten? </h4>
+    <p>Persoonlijk zou ik wel willen zien dat wij streaming websites meer inzitten voor advertenties maar er zitten wel een paar haken en ogen aan live streaming. Een stukje brand safety is heel belangrijk voor veel klanten en op live content kan natuurlijk iets mis gaan. Je moet als merk wel het vertrouwen hebben dat je veilig kan adverteren op een platform. Het ene merk hecht hier meer waarde aan dan het andere. Zo is Ubisoft er vrij gemakkelijk in maar dat is omdat hun doelgroep vooral te vinden is op een Twitch. Binnen Youtube wordt adverteren op live streams bijvoorbeeld uitgesloten. </p>
+    <h4>Conclusie </h4>
+    <p>Het video-team heeft de meeste ervaring met streaming websites en gaven veel nieuwe inzichten. Er is een grote vraag om meer te kunnen adverteren op streaming websites. Maar niet voor elke klant is dit even relevant. Ook is er op bijvoorbeeld Twitch maar op 1 manier mogelijk tot adverteren. Reclames binnen de games worden als een goede toekomstmogelijkheid gezien door het video-team.</p>
+    <button class="btn btn-outline-info mb-2" type="button" data-toggle="collapse" data-target="#interview-jordi" aria-expanded="false" aria-controls="interview-jordi">
     Sluit dit interview
   </button>
 </div>

@@ -13,12 +13,11 @@
 				<p class="mb-5">Hieronder volgt een kort overzicht waar alle documenten kunnen worden gevonden. Ook zijn hier links naar ontwerpen en uitwerkingen verwerkt.</p>
 				<hr>
 				<div class="big-blog-item">
-					<div class="blog-content text-box text-white">
-						
+					<div class="blog-content text-box text-white">	
 						<h3>Leeswijzer</h3>
 						<p class="competenties">Competenties: <span>Communicatie</span></p>
 						<a href="/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="#" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_leeswijzer.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -27,7 +26,7 @@
 						<h3>Projectdocument</h3>
 						<p class="competenties">Competenties: <span>Communicatie, Leesvermogen</span></p>
 						<a href="/docs/projectdocument" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_projectdocument.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_projectdocument.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -36,7 +35,7 @@
 						<h3>Literatuurstudie</h3>
 						<p class="competenties">Competenties: <span>Analyse, Oordeelsvorming, Communicatie</span></p>
 						<a href="/docs/literatuurstudie" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="#" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_literatuurstudie.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -45,7 +44,7 @@
 						<h3>eSports in Nederland</h3>
 						<p class="competenties">Competenties: <span>Analyse, Communicatie, Oordeelsvorming</span></p>
 						<a href="/docs/esports-in-nederland/" class="read-more">Ga naar pagina<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="#" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_esports_in_nederland.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -54,7 +53,7 @@
 						<h3>eSportsX</h3>
 						<p class="competenties">Competenties: <span>Analyse, Oordeelsvorming</span></p>
 						<a href="/docs/esportsx" class="read-more">Ga naar pagina<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_esportsx.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_esportsx.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -63,7 +62,7 @@
 						<h3>Interview experts</h3>
 						<p class="competenties">Competenties: <span>Analyse, Communicatie, Oordeelsvorming</span></p>
 						<a href="/docs/interview-experts/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_esportsx.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_interview_experts.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -72,7 +71,7 @@
 						<h3>Interview doelgroep</h3>
 						<p class="competenties">Competenties: <span>Analyse, Communicatie, Oordeelsvorming</span></p>
 						<a href="/docs/interview-doelgroep/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_esportsx.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_interview_doelgroep.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -81,7 +80,6 @@
 						<h3>Concept animaties</h3>
 						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
 						<a href="/docs/concept-animaties/" class="read-more">Ga naar pagina<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_esportsx.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -90,7 +88,7 @@
 						<h3>Technisch ontwerp</h3>
 						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
 						<a href="/docs/technisch-ontwerp/" class="read-more">Ga naar pagina<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_esportsx.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_esportsx.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -99,7 +97,16 @@
 						<h3>Sitemap</h3>
 						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
 						<a href="/docs/sitemap/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_esportsx.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_esportsx.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+					</div>
+				</div>
+				<hr>
+				<div class="big-blog-item">
+					<div class="blog-content text-box text-white">
+						<h3>Inspiratiedocument</h3>
+						<p class="competenties">Competenties: <span>Ontwerp</span></p>
+						<a href="/docs/inspiratiedocument/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_inspiratiedocument.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -108,7 +115,7 @@
 						<h3>Wireframes</h3>
 						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
 						<a href="/docs/wireframes/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_wireframes.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_wireframes.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 						<br><a href="https://xd.adobe.com/view/8c581562-67ee-45ec-6285-246a271a3b92-fa69/" class="read-more" target="_blank">Adobe XD link<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
@@ -118,7 +125,7 @@
 						<h3>Web Design</h3>
 						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
 						<a href="/docs/webdesign/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_webdesign.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_webdesign.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 						<br><a href="https://xd.adobe.com/view/3bb7acdb-bccf-4acd-563b-3fa7d9ebd177-4d86/" class="read-more">Adobe XD link<img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
@@ -128,7 +135,7 @@
 						<h3>Persona's</h3>
 						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
 						<a href="/docs/personas/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_personas.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_personas.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -136,7 +143,7 @@
 					<div class="blog-content text-box text-white">
 						<h3>User stories</h3>
 						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
-						<a href="/docs/assets/pdf/martijn_koch_user_stories.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<a href="/docs/assets/pdf/martijn_koch_user_stories.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -145,7 +152,7 @@
 						<h3>Database schets</h3>
 						<p class="competenties">Competenties: <span>Ontwerp</span></p>
 						<a href="/docs/db-schets/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="#" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="#" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -154,7 +161,7 @@
 						<h3>Backend</h3>
 						<p class="competenties">Competenties: <span>Realisatie</span></p>
 						<a href="/docs/backend/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_backend.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_backend.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -163,7 +170,7 @@
 						<h3>Backend Hosting</h3>
 						<p class="competenties">Competenties: <span>Realisatie</span></p>
 						<a href="/docs/backend-hosting/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_backend_hosting.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_backend_hosting.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -172,7 +179,7 @@
 						<h3>Frontend</h3>
 						<p class="competenties">Competenties: <span>Realisatie</span></p>
 						<a href="/docs/frontend/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_frontend.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_frontend.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -181,7 +188,7 @@
 						<h3>TouchPortal</h3>
 						<p class="competenties">Competenties: <span>Onderzoek, Ontwerp, Realisatie</span></p>
 						<a href="/docs/touchportal/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="#" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="#" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -190,7 +197,7 @@
 						<h3>Adviesrapport</h3>
 						<p class="competenties">Competenties: <span>Ontwerp, Realisatie</span></p>
 						<a href="/docs/advies-rapport/" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_adviesrapport.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
+						<br><a href="/assets/pdf/martijn_koch_adviesrapport.pdf" class="read-more" target="_blank">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>
@@ -199,7 +206,6 @@
 						<h3>Urenverantwoording</h3>
 						<p class="competenties">Competenties: <span>Communicatie</span></p>
 						<a href="/docs/urenverantwoording" class="read-more">Ga naar pagina <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
-						<br><a href="/assets/pdf/martijn_koch_esportsx.pdf" class="read-more">Open als PDF <img src="/assets/img/icons/double-arrow.png" alt="#"/></a>
 					</div>
 				</div>
 				<hr>

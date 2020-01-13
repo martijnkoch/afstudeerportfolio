@@ -123,7 +123,7 @@ section: document
     <p>Ik heb sowieso een voetbal en daarom heb Fifa altijd leuker gevonden. Ook is Fifa de meest populaire voetbalgame. Tegenwoordig vind ik Fifa vooral leuk omdat er een interactie in zit met de echte wereld. Als een speler een hele goede wedstrijd heeft gespeeld dan verschijnt ook een speciale player card van hem.</p>
     <h4>Op welke platformen kijk je naar Fifa?</h4>
     <p>Ik ben begonnen met het volgen van de eDivisie toen dit uitkwam in 2017. Op FoxSports werden de wedstrijden uitgezonden en hier keek ik deze. 
-Vorig jaar ben ik begonnen met het kijken van Fifa video’s op Youtube. Hier keek ik vooral naar pack openings van Fifa player cards. Sinds een aantal maanden ben ik overgestapt naar Twitch. Hier zitten toch wel betere spelers waar ook de gameplay interessant van is. wej
+Vorig jaar ben ik begonnen met het kijken van Fifa video’s op Youtube. Hier keek ik vooral naar pack openings van Fifa player cards. Sinds een aantal maanden ben ik overgestapt naar Twitch. Hier zitten toch wel betere spelers waar ook de gameplay interessant van is.
     </p>
     <h4>Heb je wel eens geld gedonate aan een Fifa streamer of aan een toernooi?</h4>
     <p>Nee ik heb nog nooit geld gedonate aan een streamer. Maar ik zit er wel over na te denken. Zo heb ik wel onlangs een gifted sub gekregen op Castro, een Fifa streamer. En ik zit er wel over na te denken om deze dan ook te verlegen. Ik kijk graag naar zijn streams en wil hem dan ook graag supporten.</p>
@@ -153,10 +153,10 @@ Vorig jaar ben ik begonnen met het kijken van Fifa video’s op Youtube. Hier ke
     </a>
 </h3>
 <div class="collapse interview-david" id="interview-david">
-    <h4>Hoe lang speel je al league?<h4>
+    <h4>Hoe lang speel je al League?<h4>
     <p>Ik speel al ruim 8 jaar League of Legends. De game is iets jonger dan 10jaar dus ik speel vrijwel vanaf het begin al. <p>
     <h4>Hoeveel uur per week ben je bezig met League?</h4>
-    <p>ITegenwoordig speel ik niet meer zoveel League. Maar toen ik veel League speelde tijdens MBO speelde ik minimaal vier uur per dag. Een potje league duurt al snel 45min tot 1uur en ik speelde ongeveer 4 potjes per dag. Daarnaast zat ik soms nog op online related league forums of YouTube filmpjes te kijken. </p>
+    <p>Tegenwoordig speel ik niet meer zoveel League. Maar toen ik veel League speelde tijdens MBO speelde ik minimaal vier uur per dag. Een potje league duurt al snel 45min tot 1uur en ik speelde ongeveer 4 potjes per dag. Daarnaast zat ik soms nog op online related league forums of YouTube filmpjes te kijken. </p>
     <h4>Wat maakt League leuker dan andere games voor je?</h4>
     <p>Ik vind shooter games nooit zo leuk, hier heb ik nooit interesses in gehad. Toen ik jong was speelde ik Warcraft 3. Warcraft 3 is een voorloper van de originele Dota. Ik snapte Warcraft nog nooit zo heel goed toen ik jong was. Toen League uitkwam was ik een stukje ouder en omdat het gratis was heb ik het geïnstalleerd. Metoon vond ik League een hele leuke game, je speelt online tegen andere mensen in teams. Elke speler in het team heeft een eigen unieke rol en taak die hij moet uitvoeren. Ondanks dat ik vroeger Warcraft 3 heb gespeeld heb ik Dota nooit gespeeld. Dota is een stuk moeilijker om in te stappen en ik vind het fijn als je makkelijk in een videogame kan stappen.</p>
     <h4>Kijk je naar casual League streamers of naar League wedstrijden?<h4>

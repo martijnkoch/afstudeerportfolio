@@ -116,7 +116,7 @@
 				<p>Vervolgens is de <a href="docs/db-schets">database schets</a> gemaakt om een duidelijk overzicht te krijgen welke tables er allemaal nodig zijn. Toen dit inzichtelijk was gemaakt kon worden begonnen met de <a href="/docs/backend">backend</a>. Het proces tussen de backend en <a href="/docs/frontend">frontend</a> is hand in hand gegaan. Als er in de backend iets klaar was is dit daarna geïntegreerd in de frontend. 
 				</p>
 				<p>
-				Vervolgens is zowel de backend als frontend gedeployed. Door middel van bieb onderzoek is gekeken welke <a href="/docs/backend-hosting">backend hosting</a> goed zou passen. Voor de hosting van de backend is gekozen, voor AWS van Amazon. De advertentie bestanden moeten een zo kort mogelijke laadtijd hebben voor soepele weergave. Het frontend prototype van de applicatie is gehost op mijn eigen webserver en kan <a href="https://prototype.herrkoch.nl/" target="_blank">hier</a> worden gevonden. Om zonder moeite het prototype te bekijken is de loginpagina weggehaald en ga je direct naar het dashboard. 
+				Vervolgens is zowel de backend als frontend gedeployed. Door middel van bieb onderzoek is gekeken welke <a href="/docs/backend-hosting">backend hosting</a> goed zou passen. Voor de hosting van de backend is gekozen, voor AWS van Amazon. De advertentie bestanden moeten een zo kort mogelijke laadtijd hebben voor soepele weergave. Het frontend prototype van de applicatie is gehost op mijn eigen webserver en kan <a href="https://prototype.herrkoch.nl/" target="_blank">hier</a> worden gevonden. Om zonder moeite het prototype te bekijken is de loginpagina weggehaald en ga je direct naar het dashboard.  
 				</p>
 				<h5 class="ontwikkelfase">Reclames in de stream</h4>
 				<p>Een belangrijk aspect is dat de streamer in controle moet zijn wanneer hij/zij een reclame wil afspelen. Er is gekeken naar wat voor tools hier oplossingen in bieden. Er is gekozen voor het open source programma <a href="/docs/touchportal">TouchPortal</a>. Dit programma is gemakkelijk te gebruiken op een telefoon en tablet voor zowel Android als IOS. Uiteindelijk is een handleiding voor streamers opgesteld hoe zij precies TouchPortal moeten installeren en opzetten.</p>
@@ -195,7 +195,8 @@
 				</div>
 				<div class="bewijs-item">
 					<h4>2.2 Toepassen Kennis en Inzicht - Analyse</h4>
-					<p>Aan het begin van de stage was er nog weinig bekend over de gaming en streaming wereld. Binnen Greenhouse waren wel enkele projecten gedaan met betrekking tot gaming. Maar deze waren altijd maar tijdelijk en op continue basis adverteren werd totaal niet gedaan. Als eerste is gekeken naar de geschiedenis van gaming. Hoe is gaming zo snel groot geworden en welke populaire games zijn er. Vervolgens is ingezoomd op Nederland en bekeken hoe groot gaming hier is en welke games er populair zijn. </p>
+					<p>Aan het begin van de stage was er nog weinig bekend over de gaming en streaming wereld. Binnen Greenhouse waren wel enkele projecten gedaan met betrekking tot gaming. Maar deze waren altijd maar tijdelijk en op continue basis adverteren werd totaal niet gedaan. Als eerste is gekeken naar de geschiedenis van gaming. Hoe is gaming zo snel groot geworden en welke populaire games zijn er. Vervolgens is ingezoomd op Nederland en bekeken hoe groot gaming hier is en welke games er populair zijn. Ook is er bekeken hoe momenteel wordt geadverteerd op streaming websites.
+					</p>
 					<p>
 					Verder zijn er interviews gehouden met experts en met de doelgroep. Door de interviews met experts kon worden geconcludeerd wat Greenhouse met gaming doet / heeft gedaan en waar zij mogelijkheden zien tot adverteren. Er is ontdekt waarom de doelgroep een bepaalde game lange tijd kan spelen en volgen. En wat op streaming websites als irritante reclames wordt ervaren. </p>
 					<a href="http://afstudeerportfolio.herrkoch.nl/docs/literatuurstudie" class="read-more pb-3">Literatuurstudie</a><br>
@@ -212,15 +213,15 @@
 					<h4>2.4 Toepassen Kennis en Inzicht - Ontwerp</h4>
 					<p>Gedurende het project zijn verschillende ontwerpen gemaakt. Om de gepersonaliseerde video’s te visualiseren zijn als eerste concept animaties gemaakt. </p>
 					<p>
-					Toen de technische schets er lag is het ontwerp van het online platform begonnen. Als eerste is er een sitemap gemaakt om vast te stellen welke pagina’s er allemaal aanwezig zullen zijn. Vervolgens zijn de wireframes gemaakt en uiteindelijk de website designs. Ook is er van de website designs een clickable Adobe XD prototype gemaakt.  
+					Toen de technische schets er lag is het ontwerp van het online platform begonnen. Als eerste is er een sitemap gemaakt om vast te stellen welke pagina’s er allemaal aanwezig zullen zijn. Eerst is er inspiratie gezocht. Vervolgens zijn de wireframes gemaakt en uiteindelijk de website designs. Ook is er van de website designs een clickable Adobe XD prototype gemaakt.  
 					Daarnaast zijn er verschillende buttons ontwerpen gemaakt voor TouchPortal.
 					</p>
 					<a href="https://afstudeerportfolio.herrkoch.nl/docs/concept-animaties/" class="read-more mb-3">Concept Animaties</a><br>
 					<a href="https://afstudeerportfolio.herrkoch.nl/docs/technisch-ontwerp/" class="read-more mb-3">Technisch ontwerp</a><br>
 					<a href="https://afstudeerportfolio.herrkoch.nl/docs/sitemap/" class="read-more mb-3">Sitemap</a><br>
+					<a href="https://afstudeerportfolio.herrkoch.nl/docs/inspiratiedocument/" class="read-more mb-3">Inspiratiedocument</a><br>
 					<a href="https://afstudeerportfolio.herrkoch.nl/docs/wireframes/" class="read-more mb-3">Wireframes</a><br>
 					<a href="https://afstudeerportfolio.herrkoch.nl/docs/webdesign/" class="read-more mb-3">Website designs</a><br>
-					<a href="https://afstudeerportfolio.herrkoch.nl/docs/touchportal-button/" class="read-more mb-3">TouchPortal buttons</a><br>
 				</div>
 				<div class="bewijs-item">
 					<h4>2.5 Toepassen Kennis en Inzicht - Realisatie</h4>
