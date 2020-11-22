@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="description" content="backend hosting">
+        <meta property="og:site_name" content="Afstudeerportfolio | Martijn Koch"/>
+        <meta property="og:title" content="backend hosting | Afstudeerportfolio | Martijn Koch"/>
+        <meta property="og:description" content="backend hosting"/>
+        <meta property="og:url" content="https://my-jigsaw-docs.com/docs/backend-hosting"/>
+        <meta property="og:image" content="/assets/img/logo.png"/>
+        <meta property="og:type" content="website"/>
+        <meta name="twitter:image:alt" content="Afstudeerportfolio | Martijn Koch">
+        <meta name="twitter:card" content="summary_large_image">
+        
+        <title>Afstudeerportfolio | Martijn Koch | backend hosting</title>
+
+        <link rel="home" href="https://my-jigsaw-docs.com">
+        <link rel="icon" href="/favicon.ico">
+
+        
+                    <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-101208553-3"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+
+                gtag('config', 'UA-101208553-3');
+            </script>
+                <link rel="stylesheet" href="/assets/build/css/main.css?id=993c91a90dd8f11ee4aa">
+        <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+            </head>
+
+    <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
+        <!-- Preload -->
+<div id="preloder">
+    <div class="loader"></div>
+</div>        <!-- Header section -->
+        <header class="header-section">
+            <div class="header-warp">
+                <div class="header-social d-flex justify-content-end">
+                </div>
+                <div class="header-bar-warp d-flex">
+                    <!-- site logo -->
+                    <a href="/" class="site-logo">
+                        <img src="/assets/img/logo-small.png" alt="">
+                    </a>
+                    <nav class="top-nav-area w-100">
+                        <!-- Menu -->
+                        <ul class="main-menu primary-menu">
+                            <li><a href="/">Leeswijzer</a></li>
+                            <li><a href="/document-overview">Documenten</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <!-- Progress Wrap -->
+<div class="progress-wrap">
+    <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+    </svg>
+</div>        <section class="page-top-section set-bg" data-setbg="/assets/img/bg-6.jpg">
+</section>
+    <section class="games-single-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-9 col-lg-8 col-md-7 game-single-content document-text">
+                    <h1>Backend hosting</h1>
+<p>Om de backend te hosten is gekeken welke soort hosting hiervoor relevant is. Zelf heb ik een host van Vimexx tot mijn beschikking en er is gekeken of deze naar behoren werkte. Echter gaf deze geen gewenst resultaat en de video’s haperden bij weergave. Er is bieb onderzoek verricht naar welke andere hosting beter zou werken.</p>
+<p>In de afgelopen jaren zijn cloud computing services erg in opkomst. Bij een reguliere web host koop je een gedeelte van een schijf en hierop kan je jouw projecten zetten. Je koopt bijvoorbeeld 2 GB serverruimte en hier moet je het mee doen. Wil je meer ruimte dan moet je een duurder plan kopen. Cloud computing schaalt met je mee. Als jij een kleine webapp runt, betaal je weinig en mocht deze hard groeien dan stijgen de kosten mee. </p>
+<p>Een ander voordeel van cloud computing is de locatie van de servers. Een kleine webhost heeft al zijn servers op één locatie liggen. Mocht er dus wat mis gaan met deze locatie dan zal alles offline gaan. Tevens kan de plek van de servers niet de ideale zijn voor je project.
+Cloud computing wordt vooral gedaan door grote techbedrijven met servers over heel de wereld. De bekende leveranciers van cloud computing services zijn: Amazon, Microsoft, Google, IBM en Oracle. In Europa kan je bijvoorbeeld al kiezen of je je project wil hosten in: Duitsland, Frankrijk, Engeland, Ierland of Zweden. </p>
+<p>Er is gekeken naar de plus- en minpunten van deze services en welke het beste zou passen bij mijn prototype. N. Drake (2019) heeft de services mogelijkheden beschreven. De keuze is komen te liggen op AWS van Amazon. Dit is de meest populaire cloud computing service op dit moment. En de voordelen zijn: AWS heeft een gratis plan, het is zeer flexibel in wat je wil deployen en hoe. En er is een gemakkelijke database integratie voor je projecten. </p>
+<p>Voor een diepere uitleg over cloud computing raad ik u aan om onderstaande video af te spelen. </p>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/dH0yz-Osy54" allowfullscreen></iframe>
+</div>
+<h3>AWS</h3>
+<p>Om met AWS te kunnen hosten moet je allereerst een account aanmaken. Vervolgens is het met de Elastic Beanstalk service van AWS mogelijk om je applicatie te hosten. Dit is een service die hosting voor veel programmeertalen ondersteunt waaronder PHP. Dit deployed je webapp en de service zal met je meegroeien naarmate je app groter wordt.</p>
+<p>Uit de Tutorial van Academind (2017) bleek dat om Laravel klaar te maken voor deployment ik de root van het project moest kopiëren en zippen. De database credentials in de .env file moesten worden veranderd, maar voor de rest hoeft er met Laravel niets te gebeuren. In AWS Elastic Beanstalk selecteer je de juiste PHP versie en je kan de zip uploaden. Ook moet worden gekozen op welke locatie je je project wilt deployen. Er is gekozen voor Frankfurt, omdat dit de laagste latency gaf. </p>
+<p><img src="/assets/img/aws-one.png" alt="" title="Touchportal Mobile" /></p>
+<p>Als het project succesvol is geupload krijg je een overzicht met hierop de status van je app. Te zien is dat de app succesvol online staat, dat PHP 7.3 wordt gebruikt en onder upload kan je altijd een nieuwe versie van je Laravel project uploaden. Ook krijg je een URL waar je je project kan bezoeken. In mijn geval is dit: <a href="http://greenhouseapi-env.9tssmykstp.eu-central-1.elasticbeanstalk.com/">http://greenhouseapi-env.9tssmykstp.eu-central-1.elasticbeanstalk.com/</a> .
+Hier is de root van de URL laravel applicatie te vinden. </p>
+<p><img src="/assets/img/aws-two.png" alt="" title="Touchportal Mobile" /></p>
+<h4>Bronnenlijst</h4>
+<div class="bronnenlijst">
+<p class="bron"> Drake, N. (2019, 20 december). Best cloud computing services of 2020: for Digital Transformation. Geraadpleegd van </p><a class="bronlink" target="_blank" href="https://www.techradar.com/best/best-cloud-computing-services">https://www.techradar.com/best/best-cloud-computing-services</a>
+<p class="bron"> What is Cloud Computing. (2019). Geraadpleegd van </p><a class="bronlink" target="_blank" href="https://aws.amazon.com/what-is-cloud-computing/">https://aws.amazon.com/what-is-cloud-computing/</a>
+<p class="bron"> AWS Elastic Beanstalk (2019). Geraadpleegd van </p><a class="bronlink" target="_blank" href="https://aws.amazon.com/elasticbeanstalk/">https://aws.amazon.com/elasticbeanstalk/</a>
+<p class="bron">Academind - Deploying a Laravel App via Elastic Beanstalk | Amazon Web Services BASICS (2017, 15 juni). Geraadpleegd van </p><a class="bronlink" target="_blank" href="https://www.youtube.com/watch?v=ISVaMijczKc">https://www.youtube.com/watch?v=ISVaMijczKc</a>
+</div>                </div>
+            </div>
+        </div>
+    </section>
+                <div class="pt-5 pb-5 footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-xs-12 about-company text-white">
+                <h3 class="mb-2">Afstudeerportfolio Martijn Koch</h3>
+                <p class="pr-5 text-white-50">Voor <a href="https://www.fontys.nl" target="_blank"> Fontys </a> Hogeschool ICT, in opdracht van <a href="https://www.greenhousegroup.com/">Greenhouse</a>.</p>
+                <a href="https://www.facebook.com/martijn.koch.94"><i class="fa fa-facebook-square mr-1"></i></a>
+                <a href="https://www.linkedin.com/in/martijn-koch-a1728a62/"><i class="fa fa-linkedin-square"></i></a>
+            </div>
+            <div class="col-lg-6 col-xs-12 links text-white">
+                <h4 class="mt-lg-0 mt-sm-3 mb-2">Links</h4>
+                <ul class="m-0 p-0">
+                <li>- <a href="/">Leeswijzer</a></li>
+                <li>- <a href="/document-overview">Documenten</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col copyright">
+            <p class="text-white">© 2019-2020. All Rights Reserved.</p>
+            </div>
+        </div>
+    </div>
+</div>        <script src="/assets/build/js/main.js?id=45c76e898d130991af73"></script>
+        <script>
+    const navMenu = {
+        toggle() {
+            const menu = document.getElementById('js-nav-menu');
+            menu.classList.toggle('hidden');
+            menu.classList.toggle('lg:block');
+            document.getElementById('js-nav-menu-hide').classList.toggle('hidden');
+            document.getElementById('js-nav-menu-show').classList.toggle('hidden');
+        },
+    }
+</script>
+    </body>
+</html>

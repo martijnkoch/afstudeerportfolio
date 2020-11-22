@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <meta name="description" content="Front-end">
+        <meta property="og:site_name" content="Afstudeerportfolio | Martijn Koch"/>
+        <meta property="og:title" content="Front-end | Afstudeerportfolio | Martijn Koch"/>
+        <meta property="og:description" content="Front-end"/>
+        <meta property="og:url" content="https://my-jigsaw-docs.com/docs/frontend"/>
+        <meta property="og:image" content="/assets/img/logo.png"/>
+        <meta property="og:type" content="website"/>
+        <meta name="twitter:image:alt" content="Afstudeerportfolio | Martijn Koch">
+        <meta name="twitter:card" content="summary_large_image">
+        
+        <title>Afstudeerportfolio | Martijn Koch | Front-end</title>
+
+        <link rel="home" href="https://my-jigsaw-docs.com">
+        <link rel="icon" href="/favicon.ico">
+
+        
+                    <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-101208553-3"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+
+                gtag('config', 'UA-101208553-3');
+            </script>
+                <link rel="stylesheet" href="/assets/build/css/main.css?id=993c91a90dd8f11ee4aa">
+        <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+            </head>
+
+    <body class="flex flex-col justify-between min-h-screen bg-gray-100 text-gray-800 leading-normal font-sans">
+        <!-- Preload -->
+<div id="preloder">
+    <div class="loader"></div>
+</div>        <!-- Header section -->
+        <header class="header-section">
+            <div class="header-warp">
+                <div class="header-social d-flex justify-content-end">
+                </div>
+                <div class="header-bar-warp d-flex">
+                    <!-- site logo -->
+                    <a href="/" class="site-logo">
+                        <img src="/assets/img/logo-small.png" alt="">
+                    </a>
+                    <nav class="top-nav-area w-100">
+                        <!-- Menu -->
+                        <ul class="main-menu primary-menu">
+                            <li><a href="/">Leeswijzer</a></li>
+                            <li><a href="/document-overview">Documenten</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <!-- Progress Wrap -->
+<div class="progress-wrap">
+    <svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
+    </svg>
+</div>        <section class="page-top-section set-bg" data-setbg="/assets/img/bg-6.jpg">
+</section>
+    <section class="games-single-page">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-9 col-lg-8 col-md-7 game-single-content document-text">
+                    <h1>Frontend</h1>
+<p>Na overleg met het development team is de keuze aan de frontend komen te vallen op <a href="https://vuejs.org/">Vue.js</a>. Vue.js is een populair Javascript framework en wordt veel in samenwerking met Laravel gebruikt. Zo zegt Grzybowska (2019) dat Vue.js op dit moment het meest populaire Javascript framework is en tevens is Javascript de meest populaire programmeertaal. Verder is Vue.js vrij gebruiksvriendelijk. Het heeft een goede compiler en er is ondersteuning van <a href="https://webpack.js.org/">webpack</a>. Vanwege de populariteit van Vue.js is er veel informatie over te vinden. </p>
+<p>Net zoals bij de backend worden hieronder een aantal belangrijke zaken toegelicht en er zijn een aantal code snippets ter ondersteuning.</p>
+<h3>Vue.js installeren</h3>
+<p>Om Vue.js te installeren moet je gebruik maken van <a href="https://cli.vuejs.org/">Vue CLI</a>. Dit installeer je met <a href="https://www.npmjs.com/">NPM</a>, een Javascript package manager. Vue CLI is een command line tool die er voor zorgt dat er een aantal tools met Vue worden geïnstalleerd voor sneller development. Je hoeft dus niet alles van een nulpunt op te bouwen maar je kan sneller beginnen met bouwen van de applicatie. Als Vue CLI succesvol is geïnstalleerd krijg je de volgende startpagina te zien. </p>
+<p><img src="/assets/img/vue-cli.png" alt="organogram" title="Vue cli" /></p>
+<h3>Frontend css library</h3>
+<p>Voor Vue.js zijn er een aantal populaire frontend css libraries. Elke library heeft een eigen design uitgangspunt. Een frontend library is gekozen om ook het development proces te versnellen. Gekozen is voor de library: <a href="https://bootstrap-vue.js.org/">BootstrapVue</a>. Deze library biedt veel components aan, die out of the box kunnen worden gebruikt. </p>
+<p>Als je een library aan een Vue.js applicatie wil toevoegen dan moeten deze geïnstalleerd worden door middel van NPM. Vervolgens moet je de library toevoegen aan je main.js file. </p>
+<p><img src="/assets/img/vue-bootstrap.png" alt="organogram" title="Vue bootstrap" /></p>
+<h3>Routing</h3>
+<p>Om routing te verzorgen in een Javascript framework zijn er verschillende routing libraries. De gebruikelijke router library voor vue is: Vue Router. Met Vue Router is het gemakkelijk om single page applicaties te maken. De Router is ook toegevoegd aan de main.js file en vervolgens kunnen in een router bestand de paden naar pagina’s worden vastgesteld. </p>
+<p><img src="/assets/img/vue-router.png" alt="router" title="Vue router" /></p>
+<p>In de router geef je aan wat het pad zal zijn van de webpagina. Wat de naam gaat zijn en welke component er moet worden geladen. In Vue.js wordt net als in andere Javascript frameworks gebruik gemaakt van components. Door middel van components is het makkelijk om stukken code ergens anders te hergebruiken. De components van je applicatie laad je bovenin het router bestand in. </p>
+<p><img src="/assets/img/vue-router-components.png" alt="router" title="Vue router components" /></p>
+<h3>HTTP client</h3>
+<p>Om de Laravel Api aan de achterkant aan te spreken en gebruik te maken van de data en data te posten, moet er gebruik worden gemaakt van een HTTP Client. Tot 2018 was Vue-Resource de ondersteunde HTTP Client voor Vue.js. Maar You (2018) meldde dat Vue-Resource niet meer de geadviseerde HTTP Client is. Deze is sindsdien Axios. Dit is een HTTP Client die in elke Javascript omgeving kan worden gebruikt. Net zoals andere libraries is deze geïnstalleerd met NPM. </p>
+<p>Om data uit de API te halen moet met Axios een GET request worden uitgevoerd. In de Mounted functie van een Vue component kan een request worden vastgesteld. Op de pagina waar alle beschikbare games voor de streamer staan wordt de volgende GET request gedaan. </p>
+<p><img src="/assets/img/axios-get.png" alt="organogram" title="Vue router components" /></p>
+<p>Om de data daadwerkelijk op de pagina te vertonen in plaats van alleen in de console moet middels een for loop door de data worden gelopen. Daarna kan de data worden ingeladen in de Vue components.</p>
+<p><img src="/assets/img/vue-for-loop.png" alt="organogram" title="Vue router components" /></p>
+<p>Op de pagina van een game worden meerdere GET requests gedaan binnen een functie. Hiermee worden verschillende advertenties en scènes binnengehaald. Ook wordt met Axios het id van een specifieke game meegegeven aan de URL. In de Vue Router image is te zien dat het pad /games/:id is. Door middel van Axios wordt het juiste id meegegeven, waardoor de GET request kan worden uitgevoerd. </p>
+<p><img src="/assets/img/axios-multiple-gets.png" alt="organogram" title="Vue router components" /></p>
+<h4>Bronnenlijst</h4>
+<div class="bronnenlijst">
+<p class="bron"> Vue.js. Version 2.6.10[Framework] - The Progressive JavaScript Framework. (2019) Geraadpleegd van </p><a class="bronlink" target="_blank" href="https://vuejs.org/">https://vuejs.org/</a>
+<p class="bron"> Grzybowska, k. (2019, 16 september). Top 10 most popular JavaScript frameworks in 2019. Geraadpleegd </p><a class="bronlink" target="_blank" href="https://divante.com/blog/top-10-popular-javascript-frameworks-2019/">https://divante.com/blog/top-10-popular-javascript-frameworks-2019/</a>
+<p class="bron"> Webpack. Version 4.41.5[Library] - A bundler for javascript and friends. (2019) Geraadpleegd van </p><a class="bronlink" target="_blank" href="https://webpack.js.org/">https://webpack.js.org/</a>
+<p class="bron"> Vue CLI. Version 4.1.2[Library] - Standard Tooling for Vue.js Development. (2019) Geraadpleegd van </p><a class="bronlink" target="_blank" href="https://cli.vuejs.org/">https://cli.vuejs.org/</a>
+<p class="bron"> NPM. Version 12.14.0[Software] - Build amazing things. (2019) Geraadpleegd van </p><a class="bronlink" target="_blank" href="https://www.npmjs.com/">https://www.npmjs.com/</a>
+<p class="bron"> BootstrapVue. Version 2.1.0[Library] (2019) Geraadpleegd van </p><a class="bronlink" target="_blank" href="https://bootstrap-vue.js.org/">https://bootstrap-vue.js.org/</a>
+<p class="bron"> Vue Router. Version 3.1.3[Library] (2019) Geraadpleegd van </p><a class="bronlink" target="_blank" href="https://router.vuejs.org/">https://router.vuejs.org/</a>
+<p class="bron"> You, E. (2018, 20 juni). Retiring vue-resource. Geraadpleegd van </p><a class="bronlink" target="_blank" href="https://medium.com/the-vue-point/retiring-vue-resource-871a82880af4">hhttps://medium.com/the-vue-point/retiring-vue-resource-871a82880af4</a>
+<p class="bron"> Axios. Version 0.19.0[Library] (2019) Geraadpleegd van </p><a class="bronlink" target="_blank" href="https://github.com/axios/axios">https://github.com/axios/axios</a> 
+<p class="bron"> Vue.js Mounted. Version 2.6.10[Framework] (2019) Geraadpleegd van </p><a class="bronlink" target="_blank" href="https://vuejs.org/v2/api/#mounted">https://vuejs.org/v2/api/#mounted</a> 
+</div>                </div>
+            </div>
+        </div>
+    </section>
+                <div class="pt-5 pb-5 footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-xs-12 about-company text-white">
+                <h3 class="mb-2">Afstudeerportfolio Martijn Koch</h3>
+                <p class="pr-5 text-white-50">Voor <a href="https://www.fontys.nl" target="_blank"> Fontys </a> Hogeschool ICT, in opdracht van <a href="https://www.greenhousegroup.com/">Greenhouse</a>.</p>
+                <a href="https://www.facebook.com/martijn.koch.94"><i class="fa fa-facebook-square mr-1"></i></a>
+                <a href="https://www.linkedin.com/in/martijn-koch-a1728a62/"><i class="fa fa-linkedin-square"></i></a>
+            </div>
+            <div class="col-lg-6 col-xs-12 links text-white">
+                <h4 class="mt-lg-0 mt-sm-3 mb-2">Links</h4>
+                <ul class="m-0 p-0">
+                <li>- <a href="/">Leeswijzer</a></li>
+                <li>- <a href="/document-overview">Documenten</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col copyright">
+            <p class="text-white">© 2019-2020. All Rights Reserved.</p>
+            </div>
+        </div>
+    </div>
+</div>        <script src="/assets/build/js/main.js?id=45c76e898d130991af73"></script>
+        <script>
+    const navMenu = {
+        toggle() {
+            const menu = document.getElementById('js-nav-menu');
+            menu.classList.toggle('hidden');
+            menu.classList.toggle('lg:block');
+            document.getElementById('js-nav-menu-hide').classList.toggle('hidden');
+            document.getElementById('js-nav-menu-show').classList.toggle('hidden');
+        },
+    }
+</script>
+    </body>
+</html>
